@@ -12,17 +12,11 @@ function [mu_F, p_int_F, mc_F] = ss_foreign(tau_H, tau_F, sig_F, ...
 %           - tau_F*sig_F
 %           - eta*chi_F*((p_int_F - mc_F)/p_tilde_F)*CBAM*sig_F  = 0
 %
-%   R2: NKPC at SS (Rotemberg = 0):
+%   R2: NKPC at SS :
 %       p_int_F - [eta_eff/(eta_eff-1)] * mc_F * PG_F  = 0
 %
-% All auxiliary quantities (PG_H, PG_F, G_H, G_F, chi_F, eta_eff, mc_F)
-% are computed inside the residual function given (mu_F, p_int_F).
-%
-% Note: p_int_H is pinned by the normalisation p_int_H = PG_H(p_int_H).
-% That fixed point is also iterated inside the residual so that PG_F is
-% evaluated consistently.
 
-CBAM = tau_H - tau_F;   % = 0 in symmetric baseline, > 0 with CBAM
+CBAM = tau_H - tau_F; 
 
 % ---- initial guesses ----
 mu_F0    = (tau_F * sig_F / (theta1_F * theta2_F))^(1/(theta2_F - 1));
@@ -66,13 +60,13 @@ function [res, mc_F_out] = residuals(x, ...
     tau_H, tau_F, sig_F, theta1_F, theta2_F, eta, ...
     gamma_y_H, gamma_y_F, tau_i, l_H, l_F, Gamma_F, alpha, ...
     zeta, alpha_h, alpha_F, p_H, p_F, CBAM)
-% Returns [R1; R2] as described above.
-% Also returns mc_F as second output (used by caller to recover mc_F).
+% Returns [R1; R2].
+
 
 mu_F    = x(1);
 p_int_F = x(2);
 
-% Guard bounds
+% Bounds
 mu_F    = max(min(mu_F,    1-1e-8), 1e-8);
 p_int_F = max(p_int_F, 1e-8);
 
@@ -82,15 +76,11 @@ e_ss = 1;
 % --- Effective export price ---
 p_tilde_F = (1+tau_i)*p_int_F + CBAM*sig_F*(1 - mu_F);
 
-% --- PG_H: closed-form from normalisation p_int_H = PG_H ---
-% p_int_H^{1-eta}*(1-(1-g_y)*l_H) = g_y*l_F*(p_tilde_F)^{1-eta}
-% => p_int_H = (g_y*l_F / (1-(1-g_y)*l_H))^{1/(1-eta)} * p_tilde_F
 p_int_H = ( gamma_y_H*l_F / (1 - (1-gamma_y_H)*l_H) )^(1/(1-eta)) * p_tilde_F;
-PG_H    = p_int_H;
+PG_H    = ( (1-gamma_y_H)*l_H*p_int_H^(1-eta) + gamma_y_H*l_F*(e_ss*p_tilde_F)^(1-eta) )^(1/(1-eta));
 
 % --- PG_F ---
-PG_F = ( gamma_y_F*l_H*((1+tau_i)*p_int_H/e_ss)^(1-eta) ...
-       + (1-gamma_y_F)*l_F*p_int_F^(1-eta) )^(1/(1-eta));
+PG_F = ( gamma_y_F*l_H*((1+tau_i)*p_int_H/e_ss)^(1-eta)  + (1-gamma_y_F)*l_F*p_int_F^(1-eta) )^(1/(1-eta));
 
 % --- G_H and G_F from FOC of final good firm ---
 G_H = (zeta * alpha_h * p_H * l_H^(1-zeta) / PG_H)^(1/(1-zeta));
@@ -120,7 +110,7 @@ mc_F = p_int_F * (eta_eff_F - 1) / eta_eff_F / PG_F;
 n_F   = (y_int_F / (Gamma_F * l_F^(1-alpha)))^(1/alpha);
 w_F   = (mc_F - theta1_F*mu_F^theta2_F - tau_F*sig_F*(1-mu_F)) * alpha * y_int_F / n_F;
 
-% Verify mc consistency (used for R2; these should match by construction)
+% Verify mc
 mc_F_check = (1/alpha)*w_F*(n_F/y_int_F) + theta1_F*mu_F^theta2_F + tau_F*sig_F*(1-mu_F);
 
 % --- Residuals ---
