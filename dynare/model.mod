@@ -1,18 +1,20 @@
 close all;
 
-%----------------------------------------------------------------
-% 1. Variables
-%----------------------------------------------------------------
+% ================================================================
+% VARIABLES
+% ================================================================
+
 var
     %--- HOME HOUSEHOLDS ---
-    c_H         % aggregate consumption 
-    lb_H        % marginal utility (lambda)
-    r_H         % interest rate on home bonds
-    w_H         % real wage
-    n_H         % hours worked
-    cpi_H       % CPI inflation (P_t/P_{t-1})
-    b_F         % home household stock of foreign bonds
-    P_H         % price level from home (CPI)
+    c_H
+    lb_H
+    r_H
+    w_H
+    n_H
+    cpi_H
+    b_F
+    c_H_h
+    c_H_f
 
     %--- FOREIGN HOUSEHOLDS ---
     c_F
@@ -21,160 +23,156 @@ var
     w_F
     n_F
     cpi_F
-    b_star_H    % foreign household stock of home bonds
+    b_H
+    c_F_f
+    c_F_h
+
+    %--- HOME PRICES ---
+    P_H
+    p_H
+    PG_H
+    p_int_H
+    pi_H
+
+    %--- FOREIGN PRICES ---
     P_F
+    p_F
+    PG_F
+    p_int_F
+    pi_F
 
     %--- HOME FINAL GOOD SECTOR ---
-    y_H         % final home output
-    G_H         % CES intermediate aggregator
-    PG_H        % price index of intermediates
-    p_H         % relative price of home final good (p_t(h)/P_t)
+    y_H
+    G_H
 
     %--- FOREIGN FINAL GOOD SECTOR ---
     y_F
     G_F
-    PG_F
-    p_F
 
     %--- HOME INTERMEDIATE SECTOR ---
-    mc_H        % marginal cost of home intermediate firms
-    pi_H        % PPI home inflation p_t(h)/p_t-1(h)
-    mu_H        % abatement rate for home intermediate firms
+    y_int_H
+    mc_H
+    mu_H
 
     %--- FOREIGN INTERMEDIATE SECTOR ---
+    y_int_F
     mc_F
-    pi_F
     mu_F
 
     %--- EMISSIONS ---
-    e_H         % home emissions
+    e_H
     e_F
 
     %--- INTERNATIONAL ---
-    de          % nominal exchange rate growth e_t/e_{t-1}
-    rer         % real exchange rate e_t*P*_t/P_t
-    NFA_H       % home NFA = de * b_H     
-    NFA_F       % foreign NFA = b_F / de
+    de
+    rer
+    NFA_H
+    NFA_F
 
     %--- TRADE ---
-    ex_H      % home exports (final good + intermediates)
+    ex_H
     ex_F
 
     %--- POLICIES ---
-    tau_H       % home carbon tax                         
+    tau_H
     tau_F
-    T_H         % lump-sum redistribution
+    T_H
     T_F
     ;
 
 
-%----------------------------------------------------------------
-% 2. Parameters
-%----------------------------------------------------------------
 parameters
-    % Country size
-        l_H l_F   % country size
-
-    % Households
-        % Preferences 
-            sigmaC_H sigmaC_F   % risk aversion
-            sigmaH_H sigmaH_F   % inverse Frisch elasticity
-            beta                % discount factor
-            hc_H hc_F           % habit persistence
-            psi_H psi_F         % labor disutility weight
-
-        % CES aggreator
-            phi                 % elasticity home/foreign final consumption CES
-            gamma_c_H           % import share in home consumption
-            gamma_c_F           % import share in foreign consumption
-        
-        % other
-            psi_B               % AC parameter for bond holdings
-
-
-    % Final good production
-        alpha_h             % final good TFP home
-        alpha_f             % final good TFP foreign
-        eta                 % elasticity across intermediate varieties
-        zeta                % output elasticity of G in final good
-        gamma_y_H           % share of foreign intermediates in home final sector
-        gamma_y_F           % share of home intermediates in foreign final sector
-
-
-    % Intermdiate good production
-        %Production
-        alpha               % labor share in intermediate prod
-        Gamma_H             % TFP level home intermediate firms
-        Gamma_F
-    
-        % Carbon / abatement
-        sig_H sig_F         % emission intensity
-        theta1_H theta2_F   % abatement cost home (theta_1 has no trend)
-        theta1_H theta2_F
-        tau0_H tau0_F       % carbon taxes
-
-        %other
-        kappa_H kappa_F     % price adjustment cost parameters (Rotemberg)
-    
-    % Trade
-    tau_i               % iceberg trade cost
-
-    %Government
-        % Monetary policy
-        rho                 % interest rate smoothing
-        phi_pi              % reaction to inflation
-        phi_y               % reaction to output 
-    
-    % Targets
-    y_star      % Natural output (for Taylor rule)  
-    pi_star     % Inflation target
+    l_H l_F
+    sigmaC_H sigmaC_F
+    sigmaH_H sigmaH_F
+    beta
+    psi_H psi_F
+    phi
+    gamma_c_H gamma_c_F
+    psi_B
+    alpha_h alpha_F
+    zeta
+    eta
+    gamma_y_H gamma_y_F
+    alpha
+    Gamma_H Gamma_F
+    sig_H sig_F
+    theta1_H theta1_F
+    theta2_H theta2_F
+    tau_H_ss tau_F_ss
+    kappa_H kappa_F
+    tau_i
+    rho phi_pi phi_y
+    pi_star
+    p_H_ss p_F_ss
     ;
 
-%----------------------------------------------------------------
-% 3. Calibration
-%----------------------------------------------------------------
+l_H       = 0.4;
+l_F       = 0.6;
 sigmaC_H  = 1.5;
-sigmaC_F  = 1.2;
+sigmaC_F  = 1.5;
 sigmaH_H  = 2.0;
-sigmaH_F  = 1.9;
+sigmaH_F  = 2.0;
 beta      = 0.994;
-alpha     = 0.7;
-hc_H      = 0.7;
-hc_F      = 0.6;
-psi_B     = 0.007; 
-kappa_H   = 100;
-kappa_F   = 80;
-eta       = 10;
-mu_ces    = 2;
+psi_H     = 1.0;
+psi_F     = 1.0;
+phi       = 2.0;
+gamma_c_H = 0.1;
+gamma_c_F = 0.1;
+psi_B     = 0.007;
 zeta      = 0.7;
-tau_i     = 0.05;
+alpha_h   = 1.0;
+alpha_F   = 1.0;
+eta       = 10.0;
 gamma_y_H = 0.3;
 gamma_y_F = 0.3;
-gamma_c_H = 0.1;
-gamma_c_F = 0.11;
+alpha     = 0.7;
+Gamma_H   = 1.0;
+Gamma_F   = 1.0;
+sig_H     = 0.2;
+sig_F     = 0.2;
+theta1_H  = 0.05;
+theta1_F  = 0.05;
+theta2_H  = 2.6;
+theta2_F  = 2.6;
+tau_H_ss  = 0.05;
+tau_F_ss  = 0.05;
+kappa_H   = 100;
+kappa_F   = 100;
+tau_i     = 0.05;
 rho       = 0.8;
 phi_pi    = 1.5;
 phi_y     = 0.05;
-n         = 0.4;
-pi_ss     = 1.005;
-gy_H      = 0.2;
-gy_F      = 0.2;
-tau0_H    = 0.050;  % home carbon tax ($/unit), higher
-tau0_F    = 0.030;  % foreign carbon tax, lower -> CBAM wedge active
-sig_H     = 0.2;
-sig_F     = 0.2;
-y0        = 25;
-theta1    = 0.05;
-theta2    = 2.6;
+pi_star   = 1;
+p_H_ss    = 1;
+p_F_ss    = 1;
 
-
-%----------------------------------------------------------------
-% 5. Model Block
-%----------------------------------------------------------------
 model;
 
+% ----------------------------------------------------------------
+% Local variables
+% ----------------------------------------------------------------
+% Nominal exchange rate: e = rer * P_H / P_F
+#e_t       = rer * P_H / P_F;
+
+% Effective export price of foreign intermediate (iceberg + CBAM)
+#CBAM_t    = tau_H - tau_F;
+#p_tilde_F = (1+tau_i)*p_int_F + CBAM_t*sig_F*(1-mu_F);
+
+% chi_F: export share of a representative foreign firm.
+% Domestic demand per foreign firm: aggregate demand from foreign final sector / l_F
+%   = (1-gamma_y_F)*(p_int_F/PG_F)^{-eta}*G_F / l_F    [LaTeX: y^d_{j,f} domestic]
+% Export demand per foreign firm: aggregate demand from home final sector / l_F
+%   = gamma_y_H * l_H * (e*p_tilde_F/PG_H)^{-eta} * G_H / l_F  [LaTeX: y^{exp}_{j,f}]
+#y_dom_F   = (1-gamma_y_F) * (p_int_F / PG_F)^(-eta) * G_F / l_F;
+#y_exp_F   = gamma_y_H * l_H * (e_t * p_tilde_F / PG_H)^(-eta) * G_H / l_F;
+#chi_F     = y_exp_F / (y_dom_F + y_exp_F);
+
+% Effective elasticity for foreign firm (CBAM wedge on export demand slope)
+#eta_eff_F = eta * (1 - chi_F + chi_F * p_int_F*(1+tau_i) / p_tilde_F);
+
 % ================================================================
-% 1. HOUSEHOLDS
+% HOUSEHOLDS  [6 equations]
 % ================================================================
 
 [name='Marginal utility, Home']
@@ -195,139 +193,322 @@ psi_H * n_H^sigmaH_H = lb_H * w_H;
 [name='Labor supply, Foreign']
 psi_F * n_F^sigmaH_F = lb_F * w_F;
 
-[name='CPI index, Home']
-P_H = (1-gamma_c_H) * p_H^(1-phi) + gamma_c_H * rer^(1-phi);
-
-[name='CPI index, Foreign']
-P_F = (1-gamma_c_F) * p_F^(1-phi) + gamma_c_F * (1/rer)^(1-phi);
-
-[name='Relative price dynamics, Home']
-p_H / p_H(-1) = pi_H / cpi_H;
-
-[name='Relative price dynamics, Foreign']
-p_F / p_F(-1) = pi_F / cpi_F;
-
-
 % ================================================================
-% 2. FINAL GOOD SECTOR
+% CONSUMPTION DEMANDS & PRICE INDICES  [11 equations]
 % ================================================================
 
-[name='Final good production, Home']
-y_H = alpha_h * G_H^zeta * n^(1-zeta);
+[name='Demand home goods, Home HH']
+c_H_h = (1-gamma_c_H) * (P_H / p_H)^phi * c_H;
 
-[name='Final good production, Foreign']
-y_F = alpha_F * G_F^zeta * (1-n)^(1-zeta);
+[name='Demand foreign goods, Home HH']
+c_H_f = gamma_c_H * (P_H / (e_t * p_F))^phi * c_H;
 
-[name='Demand for intermediate aggregate, Home']
-PG_H = zeta * p_H * y_H / G_H;
+[name='Demand foreign goods, Foreign HH']
+c_F_f = (1-gamma_c_F) * (P_F / p_F)^phi * c_F;
 
-[name='Demand for intermediate aggregate, Foreign']
-PG_F = zeta * p_F * y_F / G_F;
+[name='Demand home goods, Foreign HH']
+c_F_h = gamma_c_F * (P_F / (p_H / e_t))^phi * c_F;
 
-[name='Intermediate bundle price index, Home']
-PG_H^(1-eta) = (1-gamma_y_H) * p_H^(1-eta) + gamma_y_H * (rer * ((1+tau_i)*p_F + (tau_H - tau_F)*sig_F*(1-mu_F)))^(1-eta);
+% CPI: pure share-weighted (LaTeX has no l weights in P_H, P_F definitions)
+[name='CPI level, Home']
+P_H^(1-phi) = (1-gamma_c_H) * p_H^(1-phi) + gamma_c_H * (e_t * p_F)^(1-phi);
 
-[name='Intermediate bundle price index, Foreign']
-PG_F^(1-eta) = (1-gamma_y_F) * p_F^(1-eta) + gamma_y_F * ((1+tau_i) * p_H / rer)^(1-eta);
+[name='CPI level, Foreign']
+P_F^(1-phi) = (1-gamma_c_F) * p_F^(1-phi) + gamma_c_F * (p_H / e_t)^(1-phi);
 
+[name='CPI inflation, Home']
+cpi_H = P_H / P_H(-1);
 
-% ================================================================
-% 3. INTERMEDIATE GOOD SECTOR
-% ================================================================
+[name='CPI inflation, Foreign']
+cpi_F = P_F / P_F(-1);
 
-[name='Intermediate production, Home']
-y_H = Gamma_H * l_H^(1-alpha) * n_H^alpha;
+[name='PPI inflation, Home']
+pi_H = p_int_H / p_int_H(-1);
 
-[name='Intermediate production, Foreign']
-y_F = Gamma_F * l_F^(1-alpha) * n_F^alpha;
-
-[name='Optimal abatement, Home']
-theta1 * theta2 * mu_H^(theta2-1) = tau_H * sig_H;
-
-[name='Marginal cost, Home']
-mc_H = (1/alpha) * w_H * (n_H / y_H) + theta1 * mu_H^theta2 + tau_H * sig_H * (1 - mu_H);
-
-[name='New Keynesian Phillips Curve, Home']
-kappa_H * (pi_H - pi_star) * pi_H = (1 - eta) * (p_H / PG_H) + eta * mc_H + beta * kappa_H * (pi_H(+1) - pi_star) * pi_H(+1) * (lb_H(+1) / lb_H) * y_H(+1) / y_H;
-
-[name='Optimal abatement, Foreign']
-theta1 * theta2 * mu_F^(theta2-1) = tau_F * sig_F;
-
-[name='Marginal cost, Foreign']
-mc_F = (1/alpha) * w_F * (n_F / y_F) + theta1 * mu_F^theta2 + tau_F * sig_F * (1 - mu_F);
-
-[name='New Keynesian Phillips Curve, Foreign']
-kappa_F * (pi_F - pi_star) * pi_F = (1 - eta) * (p_F / PG_F) + eta * mc_F + beta * kappa_F * (pi_F(+1) - pi_star) * pi_F(+1) * (lb_F(+1) / lb_F) * y_F(+1) / y_F;
-
-
-[name='Emissions, Home']
-e_H = n * sig_H * (1 - mu_H) * y_H;
-
-[name='Emissions, Foreign']
-e_F = (1-n) * sig_F * (1 - mu_F) * y_F;
-
-
-% ================================================================
-% 4. PUBLIC SECTOR & MONETARY POLICY
-% ================================================================
-
-[name='Taylor rule, Home']
-r_H = r_H(-1)^rho * (STEADY_STATE(r_H) * (cpi_H / STEADY_STATE(cpi_H))^phi_pi * (y_H / STEADY_STATE(y_H))^phi_y)^(1-rho);
-
-[name='Taylor rule, Foreign']
-r_F = r_F(-1)^rho * (STEADY_STATE(r_F) * (cpi_F / STEADY_STATE(cpi_F))^phi_pi * (y_F / STEADY_STATE(y_F))^phi_y)^(1-rho);
-
-[name='Government spending, Home']
-g_H = gy_H * STEADY_STATE(y_H);
-
-[name='Government spending, Foreign']
-g_F = gy_F * STEADY_STATE(y_F);
-
-[name='Carbon tax, Home']
-tau_H = tau0_H;
-
-[name='Carbon tax, Foreign']
-tau_F = tau0_F;
-
-
-% ================================================================
-% 5. AGGREGATION & MARKET CLEARING
-% ================================================================
-
-[name='Resource constraint, Home']
-y_H = (1-gamma_y_H) * (p_H / PG_H)^(-eta) * G_H + gamma_y_F * ((1+tau_i) * p_H / rer / PG_F)^(-eta) * G_F + (1-gamma_c_H) * p_H^(-phi) * c_H + gamma_c_F * (p_H / rer)^(-phi) * c_F * (1-n)/n + g_H + theta1 * mu_H^theta2 * y_H + 0.5 * kappa_H * (pi_H - pi_star)^2 * y_H + 0.5 * psi_B * (de * b_H)^2 / (p_H * y_H);
-
-[name='Resource constraint, Foreign']
-y_F = (1-gamma_y_F) * (p_F / PG_F)^(-eta) * G_F + gamma_y_H * (rer * ((1+tau_i)*p_F + (tau_H - tau_F)*sig_F*(1-mu_F)) / PG_H)^(-eta) * G_H + (1-gamma_c_F) * p_F^(-phi) * c_F + gamma_c_H * (p_F * rer)^(-phi) * c_H * n/(1-n) + g_F + theta1 * mu_F^theta2 * y_F + 0.5 * kappa_F * (pi_F - pi_star)^2 * y_F + 0.5 * psi_B * (b_F / de)^2 / (p_F * y_F);
-
-[name='NFA identity, Home']
-NFA_H = de * b_H;
-
-[name='NFA identity, Foreign']
-NFA_F = b_F / de;
-
-[name='NFA accumulation, Home']
-NFA_H = r_F(-1) / cpi_H * NFA_H(-1) * de + p_H * gamma_y_F * ((1+tau_i)*p_H/rer/PG_F)^(-eta) * G_F - rer * ((1+tau_i)*p_F + (tau_H-tau_F)*sig_F*(1-mu_F)) * gamma_y_H * (rer*((1+tau_i)*p_F+(tau_H-tau_F)*sig_F*(1-mu_F))/PG_H)^(-eta) * G_H + p_H * gamma_c_F * (p_H/rer)^(-phi) * c_F * (1-n)/n - rer * gamma_c_H * p_H^(-phi) * c_H;
-
-[name='Bond market clearing (Walras law)']
-n * b_H + (1-n) * b_F = 0;
-
-[name='UIP / FOC on foreign bonds, Home']
-r_H = de(+1) * r_F + psi_B * de * NFA_H / (p_H * y_H) * cpi_H(+1);
+[name='PPI inflation, Foreign']
+pi_F = p_int_F / p_int_F(-1);
 
 [name='Real exchange rate']
 rer / rer(-1) = de * cpi_F / cpi_H;
 
+% ================================================================
+% FINAL GOOD SECTOR  [6 equations]
+% ================================================================
+
+[name='Final good production, Home']
+y_H = alpha_h * G_H^zeta * l_H^(1-zeta);
+
+[name='Final good production, Foreign']
+y_F = alpha_F * G_F^zeta * l_F^(1-zeta);
+
+[name='FOC intermediate bundle, Home']
+PG_H = zeta * p_H * y_H / G_H;
+
+[name='FOC intermediate bundle, Foreign']
+PG_F = zeta * p_F * y_F / G_F;
+
+% PG aggregators: integrating over firms introduces l_H, l_F mass weights
+% LaTeX: P_G^{1-eta} = (1-g_y) int_0^{l_H} p_j(h)^{1-eta}dj + g_y int_0^{l_F}(e*ptilde_j)^{1-eta}dj
+%                    = (1-g_y)*l_H*p_int_H^{1-eta}  +  g_y*l_F*(e*ptilde_F)^{1-eta}
+[name='Intermediate bundle price index, Home']
+PG_H^(1-eta) = (1-gamma_y_H) * l_H * p_int_H^(1-eta)
+             + gamma_y_H * l_F * (e_t * p_tilde_F)^(1-eta);
+
+% LaTeX: P_G^{*1-eta} = g_y* int_0^{l_H}((1+tau_i)*p_j(h)/e)^{1-eta}dj + (1-g_y*) int_0^{l_F} p_j(f)^{1-eta}dj
+%                     = g_y*l_H*((1+tau_i)*p_int_H/e)^{1-eta}  +  (1-g_y*)*l_F*p_int_F^{1-eta}
+[name='Intermediate bundle price index, Foreign']
+PG_F^(1-eta) = gamma_y_F * l_H * ((1+tau_i) * p_int_H / e_t)^(1-eta)
+             + (1-gamma_y_F) * l_F * p_int_F^(1-eta);
+
+% ================================================================
+% INTERMEDIATE GOOD SECTOR  [8 equations]
+% ================================================================
+
+[name='Intermediate production, Home']
+y_int_H = Gamma_H * l_H^(1-alpha) * n_H^alpha;
+
+[name='Intermediate production, Foreign']
+y_int_F = Gamma_F * l_F^(1-alpha) * n_F^alpha;
+
+[name='Optimal abatement, Home']
+theta1_H * theta2_H * mu_H^(theta2_H-1) = tau_H * sig_H;
+
+[name='Optimal abatement, Foreign']
+theta1_F * theta2_F * mu_F^(theta2_F-1) = tau_F * sig_F
+    + eta * chi_F * ((p_int_F - mc_F) / p_tilde_F) * CBAM_t * sig_F;
+
+[name='Marginal cost, Home']
+mc_H = (1/alpha) * w_H * (n_H / y_int_H)
+     + theta1_H * mu_H^theta2_H
+     + tau_H * sig_H * (1 - mu_H);
+
+[name='Marginal cost, Foreign']
+mc_F = (1/alpha) * w_F * (n_F / y_int_F)
+     + theta1_F * mu_F^theta2_F
+     + tau_F * sig_F * (1 - mu_F);
+
+[name='NKPC, Home']
+kappa_H * (pi_H - pi_star) * pi_H
+    = (1-eta) * (p_int_H / PG_H) + eta * mc_H
+    + beta * kappa_H * (pi_H(+1) - pi_star) * pi_H(+1) * y_int_H(+1) / y_int_H;
+
+[name='NKPC, Foreign']
+kappa_F * (pi_F - pi_star) * pi_F
+    = (1-eta_eff_F) * (p_int_F / PG_F) + eta_eff_F * mc_F
+    + beta * kappa_F * (pi_F(+1) - pi_star) * pi_F(+1) * y_int_F(+1) / y_int_F;
+
+% ================================================================
+% EMISSIONS  [2 equations]
+% ================================================================
+
+[name='Emissions, Home']
+e_H = l_H * sig_H * (1 - mu_H) * y_int_H;
+
+[name='Emissions, Foreign']
+e_F = l_F * sig_F * (1 - mu_F) * y_int_F;
+
+% ================================================================
+% PUBLIC SECTOR & MONETARY POLICY  [6 equations]
+% ================================================================
+
+[name='Taylor rule, Home']
+r_H = r_H(-1)^rho
+    * (STEADY_STATE(r_H) * (cpi_H / pi_star)^phi_pi
+       * (y_H / STEADY_STATE(y_H))^phi_y)^(1-rho);
+
+[name='Taylor rule, Foreign']
+r_F = r_F(-1)^rho
+    * (STEADY_STATE(r_F) * (cpi_F / pi_star)^phi_pi
+       * (y_F / STEADY_STATE(y_F))^phi_y)^(1-rho);
+
+% Government budget Home: domestic carbon tax revenues + CBAM on imported intermediates
+% CBAM volume = aggregate imports = gamma_y_H * l_F * (e*ptilde_F/PG_H)^{-eta} * G_H
+[name='Government budget, Home']
+T_H = tau_H * e_H
+    + e_t * CBAM_t * sig_F * (1-mu_F)
+      * gamma_y_H * l_F * (e_t * p_tilde_F / PG_H)^(-eta) * G_H;
+
+[name='Government budget, Foreign']
+T_F = tau_F * e_F;
+
+[name='Carbon tax, Home']
+tau_H = tau_H_ss;
+
+[name='Carbon tax, Foreign']
+tau_F = tau_F_ss;
+
+% ================================================================
+% GOODS MARKET CLEARING  [4 equations]
+% ================================================================
+
+[name='Resource constraint, Final good Home']
+y_H = l_H * c_H_h + l_F * c_F_h
+    + (kappa_H/2) * (pi_H - pi_star)^2 * y_H;
+
+[name='Resource constraint, Final good Foreign']
+y_F = l_F * c_F_f + l_H * c_H_f
+    + (kappa_F/2) * (pi_F - pi_star)^2 * y_F;
+
+% Intermediate market clearing (per-firm output = total aggregate demand / number of firms):
+% Home: [l_H*(1-g_y)*(p_int_H/PG_H)^{-eta}*G_H + l_F*g_y*((1+tau_i)*p_int_H/e/PG_F)^{-eta}*G_F] / l_H
+[name='Resource constraint, Intermediate good Home']
+y_int_H = (1-gamma_y_H) * (p_int_H / PG_H)^(-eta) * G_H
+        + gamma_y_F * ((1+tau_i) * p_int_H / e_t / PG_F)^(-eta) * G_F * l_F / l_H;
+
+% Foreign: [l_F*(1-g_y*)*(p_int_F/PG_F)^{-eta}*G_F + l_H*g_y*(e*ptilde_F/PG_H)^{-eta}*G_H] / l_F
+[name='Resource constraint, Intermediate good Foreign']
+y_int_F = (1-gamma_y_F) * (p_int_F / PG_F)^(-eta) * G_F
+        + gamma_y_H * (e_t * p_tilde_F / PG_H)^(-eta) * G_H * l_H / l_F;
+
+% ================================================================
+% INTERNATIONAL FINANCIAL MARKETS  [5 equations]
+% ================================================================
+
+[name='NFA identity, Home']
+NFA_H = e_t * b_F;
+
+[name='NFA identity, Foreign']
+NFA_F = b_H / e_t;
+
+[name='Bond market clearing']
+l_H * b_F + l_F * b_H = 0;
+
+[name='NFA accumulation, Home']
+NFA_H = r_F(-1) / cpi_H * de * NFA_H(-1)
+      + p_H * l_F * c_F_h
+      - e_t * p_F * l_H * c_H_f
+      + p_int_H * gamma_y_F * l_F * ((1+tau_i)*p_int_H/e_t/PG_F)^(-eta) * G_F
+      - e_t * (1+tau_i) * p_int_F * gamma_y_H * l_H * (e_t*p_tilde_F/PG_H)^(-eta) * G_H;
+
+[name='UIP, Home']
+de(+1) = (1 + psi_B * (NFA_H - STEADY_STATE(NFA_H))) * r_H / r_F;
+
+% ================================================================
+% TRADE  [2 equations]
+% ================================================================
+
 [name='Exports, Home']
-ex_H = gamma_y_F * ((1+tau_i)*p_H/rer/PG_F)^(-eta) * G_F + gamma_c_F * (p_H/rer)^(-phi) * c_F * (1-n);
+ex_H = gamma_y_F * l_F * ((1+tau_i)*p_int_H/e_t/PG_F)^(-eta) * G_F / l_H
+     + l_F * c_F_h / l_H;
 
 [name='Exports, Foreign']
-ex_F = gamma_y_H * (rer*((1+tau_i)*p_F+(tau_H-tau_F)*sig_F*(1-mu_F))/PG_H)^(-eta) * G_H + gamma_c_H * (p_F*rer)^(-phi) * c_H * n;
+ex_F = gamma_y_H * l_H * (e_t*p_tilde_F/PG_H)^(-eta) * G_H / l_F
+     + l_H * c_H_f / l_F;
 
 end;
 
-%----------------------------------------------------------------
-% 6. Checks
-%----------------------------------------------------------------
-resid(1);
+% ================================================================
+% STEADY STATE
+% ================================================================
+
+steady_state_model;
+
+% --- 1. Nominal anchors ---
+cpi_H = pi_star;
+cpi_F = pi_star;
+pi_H  = pi_star;
+pi_F  = pi_star;
+de    = 1;
+rer   = 1;
+r_H   = pi_star / beta;
+r_F   = pi_star / beta;
+tau_H = tau_H_ss;
+tau_F = tau_F_ss;
+
+% --- 2. Numeraire ---
+p_H = p_H_ss;
+p_F = p_F_ss;
+
+% e = rer*P_H/P_F = 1 at SS (symmetric calibration with p_H=p_F)
+e_ss = 1;
+
+% --- 3. Home abatement ---
+mu_H = (tau_H_ss * sig_H / (theta1_H * theta2_H))^(1/(theta2_H - 1));
+
+% --- 4. Foreign fixed point: solve (mu_F, p_int_F) simultaneously ---
+[mu_F, p_int_F, mc_F] = ss_foreign(tau_H_ss, tau_F_ss, sig_F, theta1_F, theta2_F, eta, gamma_y_H, gamma_y_F, tau_i, l_H, l_F, Gamma_F, alpha, zeta, alpha_h, alpha_F, p_H_ss, p_F_ss);
+
+% --- 5. Effective import price ---
+CBAM_ss      = tau_H_ss - tau_F_ss;
+p_tilde_F_ss = (1+tau_i)*p_int_F + CBAM_ss*sig_F*(1 - mu_F);
+
+% --- 6. PG aggregators (with l weights) ---
+p_int_H = ( gamma_y_H*l_F / (1 - (1-gamma_y_H)*l_H) )^(1/(1-eta)) * p_tilde_F_ss;
+
+PG_H = p_int_H;   % by normalisation
+
+PG_F = ( gamma_y_F*l_H*((1+tau_i)*p_int_H/e_ss)^(1-eta)  + (1-gamma_y_F)*l_F*p_int_F^(1-eta) )^(1/(1-eta));
+
+% --- 7. Home marginal cost (from NKPC at SS + normalisation p_int_H = PG_H) ---
+mc_H = (eta-1)/eta;
+
+% --- 8. CPI (pure share weights) ---
+P_H = ( (1-gamma_c_H)*p_H_ss^(1-phi) + gamma_c_H*(e_ss*p_F_ss)^(1-phi) )^(1/(1-phi));
+P_F = ( (1-gamma_c_F)*p_F_ss^(1-phi) + gamma_c_F*(p_H_ss/e_ss)^(1-phi) )^(1/(1-phi));
+
+% --- 9. Final good sector ---
+G_H = (zeta * alpha_h * p_H_ss * l_H^(1-zeta) / PG_H)^(1/(1-zeta));
+G_F = (zeta * alpha_F * p_F_ss * l_F^(1-zeta) / PG_F)^(1/(1-zeta));
+
+y_H = alpha_h * G_H^zeta * l_H^(1-zeta);
+y_F = alpha_F * G_F^zeta * l_F^(1-zeta);
+
+% --- 10. Intermediate output per firm ---
+y_int_H = (1-gamma_y_H)*(p_int_H/PG_H)^(-eta)*G_H  + gamma_y_F*((1+tau_i)*p_int_H/e_ss/PG_F)^(-eta)*G_F * l_F/l_H;
+
+y_int_F = (1-gamma_y_F)*(p_int_F/PG_F)^(-eta)*G_F + gamma_y_H*(e_ss*p_tilde_F_ss/PG_H)^(-eta)*G_H * l_H/l_F;
+
+% --- 11. Labour ---
+n_H = (y_int_H / (Gamma_H * l_H^(1-alpha)))^(1/alpha);
+n_F = (y_int_F / (Gamma_F * l_F^(1-alpha)))^(1/alpha);
+
+% --- 12. Wages ---
+w_H = (mc_H - theta1_H*mu_H^theta2_H - tau_H_ss*sig_H*(1-mu_H)) * alpha * y_int_H / n_H;
+w_F = (mc_F - theta1_F*mu_F^theta2_F - tau_F_ss*sig_F*(1-mu_F)) * alpha * y_int_F / n_F;
+
+% --- 13. Consumption from goods market clearing (2x2 system) ---
+A11 = l_H*(1-gamma_c_H)*(P_H/p_H_ss)^phi;
+A12 = l_F*gamma_c_F    *(P_F/p_H_ss)^phi;
+A21 = l_H*gamma_c_H    *(P_H/p_F_ss)^phi;
+A22 = l_F*(1-gamma_c_F)*(P_F/p_F_ss)^phi;
+c_F = (y_F - A21/A11*y_H) / (A22 - A21*A12/A11);
+c_H = (y_H - A12*c_F) / A11;
+
+% --- 14. Consumption demands ---
+c_H_h = (1-gamma_c_H) * (P_H/p_H_ss)^phi * c_H;
+c_H_f = gamma_c_H     * (P_H/p_F_ss)^phi * c_H;
+c_F_f = (1-gamma_c_F) * (P_F/p_F_ss)^phi * c_F;
+c_F_h = gamma_c_F     * (P_F/p_H_ss)^phi * c_F;
+
+% --- 15. Marginal utilities; psi calibrated residually ---
+lb_H  = c_H^(-sigmaC_H);
+lb_F  = c_F^(-sigmaC_F);
+psi_H = lb_H * w_H / n_H^sigmaH_H;
+psi_F = lb_F * w_F / n_F^sigmaH_F;
+
+% --- 16. Emissions and government ---
+e_H = l_H * sig_H * (1-mu_H) * y_int_H;
+e_F = l_F * sig_F * (1-mu_F) * y_int_F;
+
+T_H = tau_H_ss * e_H + e_ss * CBAM_ss * sig_F*(1-mu_F) * gamma_y_H*l_F*(e_ss*p_tilde_F_ss/PG_H)^(-eta)*G_H;
+T_F = tau_F_ss * e_F;
+
+% --- 17. NFA and trade balance ---
+TB_final_H = p_H_ss*l_F*c_F_h - e_ss*p_F_ss*l_H*c_H_f;
+TB_inter_H = p_int_H * gamma_y_F*l_F*((1+tau_i)*p_int_H/e_ss/PG_F)^(-eta)*G_F - e_ss*(1+tau_i)*p_int_F * gamma_y_H*l_H*(e_ss*p_tilde_F_ss/PG_H)^(-eta)*G_H;
+
+NFA_H = (TB_final_H + TB_inter_H) / (1 - r_F/(cpi_H));
+NFA_F = -(l_H/l_F) * NFA_H;
+b_F   = NFA_H / e_ss;
+b_H   = NFA_F * e_ss;
+
+% --- 18. Exports ---
+ex_H = gamma_y_F*l_F*((1+tau_i)*p_int_H/e_ss/PG_F)^(-eta)*G_F/l_H + l_F*c_F_h/l_H;
+ex_F = gamma_y_H*l_H*(e_ss*p_tilde_F_ss/PG_H)^(-eta)*G_H/l_F + l_H*c_H_f/l_F;
+
+end;
+
+resid;
+steady;
+model_diagnostics;
 check;
