@@ -304,7 +304,7 @@ var cbam; periods 13:40; values (tau_H_ss - tau_F_ss);
 end;
 
 perfect_foresight_setup(periods=40);
-perfect_foresight_solver(maxit=400, tolf=1e-8);
+perfect_foresight_solver(maxit=1000, tolf=1e-8);
 
 @#else
 
@@ -358,6 +358,7 @@ end;
 perfect_foresight_setup(periods=40);
 perfect_foresight_solver(maxit=600, tolf=1e-8);
 
+@#endif
 @#endif
 
 /*
