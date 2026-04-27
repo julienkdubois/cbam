@@ -142,17 +142,15 @@ rho_b_H   = 0.80;
 rho_b_F   = 0.80;
 rho_ex_H  = 0.50;   
 
-% --- Measurement-equation constants (calibrated to sample means) ---
-% Rule: each constant equals the empirical mean of the corresponding series.
-% Source: dynare_data_bilateral_2002Q1_2019Q4.csv, nobs=72 (2002Q1-2019Q4, pre-COVID)
+% --- Measurement-equation constants ---
 pi_bar_H  = 0.448;    % mean obs_pi_h
 pi_bar_F  = 0.520;    % mean obs_pi_f
-r_bar_H   = 0.168;    % mean obs_r_h (quarterized in prepare.R)
+r_bar_H   = 0.168;    % mean obs_r_h
 r_bar_F   = 0.410;    % mean obs_r_f
-rer_bar   = 1.00;     % mean obs_de (bilateral real exchange rate level)
-tb_bar_F  = -0.759;   % [FIX-6] mean obs_tb_f (USA/EU27 TB as % of USA GDP)
+rer_bar   = 1.00;     % mean obs_de
+tb_bar_F  = -0.759;  
 
-% --- Growth trends (calibrated to sample means) ---
+% --- Growth trends ---
 trend_g_H = 0.349;   
 trend_g_F = 0.540;    
 trend_c_H = 0.265;    
@@ -177,9 +175,6 @@ model;
 #eta_eff_F = eta * (1 - chi_F + chi_F * p_int_F*(1+tau_i) / p_tilde_F);
 
 % --- HOUSEHOLDS ---
-% [FIX-1] e_b_H multiplies marginal utility -> SW preference shock.
-% Interpretation: higher e_b_H increases desired home consumption.
-% c_H can rise without a one-for-one rise in y_H (resource constraint).
 [name='MU Home']    lb_H = e_b_H * c_H^(-sigmaC_H);
 [name='MU Foreign'] lb_F = e_b_F * c_F^(-sigmaC_F);
 [name='Euler H']    lb_H = beta * lb_H(+1) * r_H / cpi_H(+1);
@@ -281,17 +276,10 @@ log(e_ex_H) = rho_ex_H * log(e_ex_H(-1)) + eta_ex_H; % [FIX-3]
     obs_r_h  = r_bar_H  + 100*(r_H - 1);
     obs_r_f  = r_bar_F  + 100*(r_F - 1);
 
-    % --- Bilateral real exchange rate: level --- [FIX-2]
-    % Data: obs_de starts from FRED nominal DEXUSEU, converted to real with
-    % CPI USA / CPI EU in prepare.R, then kept in level.
-    % The model targets the level of rer, in the same spirit as inflation levels.
+    % --- Bilateral real exchange rate
     obs_de = rer_bar + 100*(rer - 1);
 
     % --- Trade Balance Foreign (% GDP) ---
-    % [FIX-6] tb_bar_F absorbs the average structural US deficit.
-    % Without this constant, the model centers near 0 in steady state while data are negative,
-    % which can destabilize the Kalman filter for this observable.
-    % Data: obs_tb_f = TB_USA / GDP_USA (Census bilateral flows, see prepare.R).
     obs_tb_f = tb_bar_F + 100 * ( (p_int_F*ex_F*l_F/l_H - (1/rer)*p_int_H*ex_H*l_H/l_F + p_F*l_H*c_H_f/l_F - (1/rer)*p_H*c_F_h) / y_F );
 
 end;
@@ -370,7 +358,7 @@ steady_state_model;
 end;
 
 % ================================================================
-% SHOCKS (variances initiales)
+% SHOCKS
 % ================================================================
 
 shocks;
@@ -407,19 +395,19 @@ estimated_params;
     % ----------------------------------------------------------------
     % STRUCTURAL PARAMETERS
     % ----------------------------------------------------------------
-    % Nominal rigidities (Rotemberg)
+    % Nominal rigidities
     kappa_H, 100, inv_gamma_pdf, 100, 25;
     kappa_F, 100, inv_gamma_pdf, 100, 25;
 
-    % Armington elasticity: estimate only in step 4 (obs_tb_f)
-    eta, 2.0, gamma_pdf, 2.0, 0.75;   % enable in step 4
-    phi, 2.0, gamma_pdf, 2.0, 0.5;   % substitution parameter
+    % Armington elasticities 
+    eta, 2.0, gamma_pdf, 2.0, 0.75;
+    phi, 2.0, gamma_pdf, 2.0, 0.5;
 
     % Monetary policy
     // rho_H, 0.8, beta_pdf, 0.8, 0.1;          % Taylor-rule persistence (Home)
     // rho_F, 0.8, beta_pdf, 0.8, 0.1;          % Taylor-rule persistence (Foreign)
-    phi_pi_H, 1.8, gamma_pdf, 1.8, 0.2;      % inflation response (Home), concentrated prior > 1
-    phi_pi_F, 1.8, gamma_pdf, 1.8, 0.2;      % inflation response (Foreign), concentrated prior > 1
+    phi_pi_H, 1.8, gamma_pdf, 1.8, 0.2;      % inflation response (Home)
+    phi_pi_F, 1.8, gamma_pdf, 1.8, 0.2;      % inflation response (Foreign)
     phi_y_H, 0.05, gamma_pdf, 0.05, 0.05;    % output response (Home)
     phi_y_F, 0.05, gamma_pdf, 0.05, 0.05;    % output response (Foreign)
 
@@ -466,27 +454,3 @@ estimation(
     mh_nblocks = 2,
     mh_replic  = 10000
 ) obs_dy_h obs_dy_f obs_dc_h obs_dc_f obs_pi_h obs_pi_f obs_r_h obs_r_f obs_de;
-
-% ================================================================
-% POST-ESTIMATION: Simulation de la transition CBAM
-% ================================================================
-% Uncomment AFTER estimation to simulate the CBAM transition.
-%
-% load('cbam_estimation_mode.mat');
-%
-% initval;
-%     cbam = 0;
-% end;
-% steady;
-%
-% endval;
-%     cbam = tau_H_ss - tau_F_ss;
-% end;
-% steady;
-%
-% shocks;
-%     var cbam; periods 13:40; values (tau_H_ss - tau_F_ss);
-% end;
-%
-% perfect_foresight_setup(periods=40);
-% perfect_foresight_solver(maxit=400, tolf=1e-8);
