@@ -252,9 +252,9 @@ log(e_t_F)  = rho_t_F  * log(e_t_F(-1))  + eta_t_F;
 log(e_e)    = rho_e    * log(e_e(-1))    + eta_e;
 log(e_x_H)  = rho_x_H  * log(e_x_H(-1))  + eta_x_H;
 log(e_x_F)  = rho_x_F  * log(e_x_F(-1))  + eta_x_F;
-log(e_b_H)  = rho_b_H  * log(e_b_H(-1))  + eta_b_H;  % [FIX-1]
-log(e_b_F)  = rho_b_F  * log(e_b_F(-1))  + eta_b_F;  % [FIX-1]
-log(e_ex_H) = rho_ex_H * log(e_ex_H(-1)) + eta_ex_H; % [FIX-3]
+log(e_b_H)  = rho_b_H  * log(e_b_H(-1))  + eta_b_H;
+log(e_b_F)  = rho_b_F  * log(e_b_F(-1))  + eta_b_F;
+log(e_ex_H) = rho_ex_H * log(e_ex_H(-1)) + eta_ex_H;
 
 % ================================================================
 % MEASUREMENT EQUATIONS
@@ -343,11 +343,11 @@ steady_state_model;
     % --- Measurement equations at steady state ---
     obs_dy_h = trend_g_H;
     obs_dy_f = trend_g_F;
-    obs_dc_h = trend_c_H;    % [FIX-4]
-    obs_dc_f = trend_c_F;    % [FIX-4]
+    obs_dc_h = trend_c_H;
+    obs_dc_f = trend_c_F; 
 
-    obs_pi_h = pi_bar_H + 100*(pi_H - 1);  
-    obs_pi_f = pi_bar_F + 100*(pi_F - 1);
+    obs_pi_h = pi_bar_H + 100*(cpi_H - 1);  
+    obs_pi_f = pi_bar_F + 100*(cpi_F - 1);
 
     obs_r_h  = r_bar_H  + 100*(r_H - 1);
     obs_r_f  = r_bar_F  + 100*(r_F - 1);
