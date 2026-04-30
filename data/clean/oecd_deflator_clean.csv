@@ -1,0 +1,2326 @@
+Pays,iso3,date,indicator,value
+Australia,AUS,1960-Q4,gdp_deflator,5.06180088039256
+Austria,AUT,1960-Q4,gdp_deflator,15.2027114482169
+Belgium,BEL,1960-Q4,gdp_deflator,13.8467243271151
+Canada,CAN,1960-Q4,gdp_deflator,10.3269268072418
+Chile,CHL,1960-Q4,gdp_deflator,2.4198789463135e-5
+Colombia,COL,1960-Q4,gdp_deflator,0.0318721661927025
+Costa Rica,CRI,1960-Q4,gdp_deflator,0.106489091576758
+Denmark,DNK,1960-Q4,gdp_deflator,7.67693060829009
+Finland,FIN,1960-Q4,gdp_deflator,6.01217732184706
+France,FRA,1960-Q4,gdp_deflator,9.50401643462072
+Germany,DEU,1960-Q4,gdp_deflator,20.2142457391724
+Greece,GRC,1960-Q4,gdp_deflator,1.01173737505702
+Hungary,HUN,1960-Q4,gdp_deflator,2.55276206142394
+Iceland,ISL,1960-Q4,gdp_deflator,0.0243732738585828
+Ireland,IRL,1960-Q4,gdp_deflator,4.01625144065411
+Israel,ISR,1960-Q4,gdp_deflator,8.169613152835e-4
+Italy,ITA,1960-Q4,gdp_deflator,2.90701684638861
+Japan,JPN,1960-Q4,gdp_deflator,23.2336484033498
+Luxembourg,LUX,1960-Q4,gdp_deflator,10.3506432958024
+Mexico,MEX,1960-Q4,gdp_deflator,0.00568012431579304
+Netherlands,NLD,1960-Q4,gdp_deflator,13.9579076190883
+New Zealand,NZL,1960-Q4,gdp_deflator,4.14307100031402
+Norway,NOR,1960-Q4,gdp_deflator,6.4427635511529
+Portugal,PRT,1960-Q4,gdp_deflator,1.33503082097851
+South Korea,KOR,1960-Q4,gdp_deflator,0.808211011391651
+Spain,ESP,1960-Q4,gdp_deflator,2.46187676014283
+Sweden,SWE,1960-Q4,gdp_deflator,6.98286499891169
+Switzerland,CHE,1960-Q4,gdp_deflator,22.4751358667458
+Turkey,TUR,1960-Q4,gdp_deflator,5.52818632346466e-5
+United Kingdom,GBR,1960-Q4,gdp_deflator,4.3980852434163
+United States,USA,1960-Q4,gdp_deflator,14.5896805087784
+Australia,AUS,1961-Q4,gdp_deflator,5.22483317105607
+Austria,AUT,1961-Q4,gdp_deflator,15.9760967487123
+Belgium,BEL,1961-Q4,gdp_deflator,14.0288736508212
+Canada,CAN,1961-Q4,gdp_deflator,10.5793610026296
+Chile,CHL,1961-Q4,gdp_deflator,2.57241113388137e-5
+Colombia,COL,1961-Q4,gdp_deflator,0.0344950441180288
+Costa Rica,CRI,1961-Q4,gdp_deflator,0.10703880274415
+Denmark,DNK,1961-Q4,gdp_deflator,8.00754725045979
+Finland,FIN,1961-Q4,gdp_deflator,6.33333448867938
+France,FRA,1961-Q4,gdp_deflator,9.81595604322194
+Germany,DEU,1961-Q4,gdp_deflator,21.2378940995308
+Greece,GRC,1961-Q4,gdp_deflator,1.02282985141882
+Hungary,HUN,1961-Q4,gdp_deflator,2.57780082855096
+Iceland,ISL,1961-Q4,gdp_deflator,0.0276078137153868
+Ireland,IRL,1961-Q4,gdp_deflator,4.11761849820281
+Israel,ISR,1961-Q4,gdp_deflator,8.8729632329618e-4
+Italy,ITA,1961-Q4,gdp_deflator,2.98789467378387
+Japan,JPN,1961-Q4,gdp_deflator,25.0425546599617
+Luxembourg,LUX,1961-Q4,gdp_deflator,9.97195356607151
+Mexico,MEX,1961-Q4,gdp_deflator,0.00587427405134937
+Netherlands,NLD,1961-Q4,gdp_deflator,14.6926599970213
+New Zealand,NZL,1961-Q4,gdp_deflator,4.15187345610242
+Norway,NOR,1961-Q4,gdp_deflator,6.61334378503658
+Portugal,PRT,1961-Q4,gdp_deflator,1.3538783298528
+South Korea,KOR,1961-Q4,gdp_deflator,0.912926851321619
+Spain,ESP,1961-Q4,gdp_deflator,2.52259623630409
+Sweden,SWE,1961-Q4,gdp_deflator,7.18797816990411
+Switzerland,CHE,1961-Q4,gdp_deflator,23.3872418866914
+Turkey,TUR,1961-Q4,gdp_deflator,5.76995604843673e-5
+United Kingdom,GBR,1961-Q4,gdp_deflator,4.5460121806075096
+United States,USA,1961-Q4,gdp_deflator,14.7866636486431
+Australia,AUS,1962-Q4,gdp_deflator,5.22094355602052
+Austria,AUT,1962-Q4,gdp_deflator,16.5097308458463
+Belgium,BEL,1962-Q4,gdp_deflator,14.2628320468765
+Canada,CAN,1962-Q4,gdp_deflator,10.7179373240109
+Chile,CHL,1962-Q4,gdp_deflator,2.90593414156479e-5
+Colombia,COL,1962-Q4,gdp_deflator,0.0367882870971908
+Costa Rica,CRI,1962-Q4,gdp_deflator,0.110430654659668
+Denmark,DNK,1962-Q4,gdp_deflator,8.53892045420763
+Finland,FIN,1962-Q4,gdp_deflator,6.58501771722169
+France,FRA,1962-Q4,gdp_deflator,10.2857257091348
+Germany,DEU,1962-Q4,gdp_deflator,22.0783341642246
+Greece,GRC,1962-Q4,gdp_deflator,1.07080201232104
+Hungary,HUN,1962-Q4,gdp_deflator,2.56268234770965
+Iceland,ISL,1962-Q4,gdp_deflator,0.0306851861122192
+Ireland,IRL,1962-Q4,gdp_deflator,4.31856831453377
+Israel,ISR,1962-Q4,gdp_deflator,9.6635480802479e-4
+Italy,ITA,1962-Q4,gdp_deflator,3.16100522135467
+Japan,JPN,1962-Q4,gdp_deflator,26.0942361683196
+Luxembourg,LUX,1962-Q4,gdp_deflator,10.3603280182936
+Mexico,MEX,1962-Q4,gdp_deflator,0.0060247008765655
+Netherlands,NLD,1962-Q4,gdp_deflator,14.8041352118593
+New Zealand,NZL,1962-Q4,gdp_deflator,4.33941273972671
+Norway,NOR,1962-Q4,gdp_deflator,6.92856367884811
+Portugal,PRT,1962-Q4,gdp_deflator,1.36303996904353
+South Korea,KOR,1962-Q4,gdp_deflator,1.06582908451807
+Spain,ESP,1962-Q4,gdp_deflator,2.67636970766918
+Sweden,SWE,1962-Q4,gdp_deflator,7.47695408976466
+Switzerland,CHE,1962-Q4,gdp_deflator,24.750032427193
+Turkey,TUR,1962-Q4,gdp_deflator,6.10397521461267e-5
+United Kingdom,GBR,1962-Q4,gdp_deflator,4.69937250793741
+United States,USA,1962-Q4,gdp_deflator,14.970703597161
+Australia,AUS,1963-Q4,gdp_deflator,5.31443217904963
+Austria,AUT,1963-Q4,gdp_deflator,17.1170026821379
+Belgium,BEL,1963-Q4,gdp_deflator,14.694396348318
+Canada,CAN,1963-Q4,gdp_deflator,10.9518270212074
+Chile,CHL,1963-Q4,gdp_deflator,4.16893468600326e-5
+Colombia,COL,1963-Q4,gdp_deflator,0.045330755278338
+Costa Rica,CRI,1963-Q4,gdp_deflator,0.110358001549994
+Denmark,DNK,1963-Q4,gdp_deflator,9.03191372894624
+Finland,FIN,1963-Q4,gdp_deflator,6.92392290466375
+France,FRA,1963-Q4,gdp_deflator,10.8582527664232
+Germany,DEU,1963-Q4,gdp_deflator,22.7765549509437
+Greece,GRC,1963-Q4,gdp_deflator,1.08269415958882
+Hungary,HUN,1963-Q4,gdp_deflator,2.55114115826969
+Iceland,ISL,1963-Q4,gdp_deflator,0.0332099362590695
+Ireland,IRL,1963-Q4,gdp_deflator,4.43393605642228
+Israel,ISR,1963-Q4,gdp_deflator,0.00104068207292327
+Italy,ITA,1963-Q4,gdp_deflator,3.42835861441734
+Japan,JPN,1963-Q4,gdp_deflator,27.5321509785954
+Luxembourg,LUX,1963-Q4,gdp_deflator,10.6862590673984
+Mexico,MEX,1963-Q4,gdp_deflator,0.00621819572389417
+Netherlands,NLD,1963-Q4,gdp_deflator,15.4998511530285
+New Zealand,NZL,1963-Q4,gdp_deflator,4.46766678225447
+Norway,NOR,1963-Q4,gdp_deflator,7.16362895231954
+Portugal,PRT,1963-Q4,gdp_deflator,1.3707793439671
+South Korea,KOR,1963-Q4,gdp_deflator,1.38612491619398
+Spain,ESP,1963-Q4,gdp_deflator,2.88634093932606
+Sweden,SWE,1963-Q4,gdp_deflator,7.68346016660744
+Switzerland,CHE,1963-Q4,gdp_deflator,25.9498546591235
+Turkey,TUR,1963-Q4,gdp_deflator,6.49564865528702e-5
+United Kingdom,GBR,1963-Q4,gdp_deflator,4.77472807694846
+United States,USA,1963-Q4,gdp_deflator,15.133642640916
+Australia,AUS,1964-Q4,gdp_deflator,5.48877202846259
+Austria,AUT,1964-Q4,gdp_deflator,17.6619717969957
+Belgium,BEL,1964-Q4,gdp_deflator,15.3765729070016
+Canada,CAN,1964-Q4,gdp_deflator,11.2619629587512
+Chile,CHL,1964-Q4,gdp_deflator,6.15569928630398e-5
+Colombia,COL,1964-Q4,gdp_deflator,0.0527377460247212
+Costa Rica,CRI,1964-Q4,gdp_deflator,0.112842355186994
+Denmark,DNK,1964-Q4,gdp_deflator,9.4483780909833
+Finland,FIN,1964-Q4,gdp_deflator,7.4207675757957
+France,FRA,1964-Q4,gdp_deflator,11.2999787871386
+Germany,DEU,1964-Q4,gdp_deflator,23.470457934503
+Greece,GRC,1964-Q4,gdp_deflator,1.11956690646706
+Hungary,HUN,1964-Q4,gdp_deflator,2.56132162260916
+Iceland,ISL,1964-Q4,gdp_deflator,0.0385959675951944
+Ireland,IRL,1964-Q4,gdp_deflator,4.86229765910143
+Israel,ISR,1964-Q4,gdp_deflator,0.00109732725409809
+Italy,ITA,1964-Q4,gdp_deflator,3.6508525038773
+Japan,JPN,1964-Q4,gdp_deflator,28.9992583276642
+Luxembourg,LUX,1964-Q4,gdp_deflator,11.3097300626928
+Mexico,MEX,1964-Q4,gdp_deflator,0.00657886373197756
+Netherlands,NLD,1964-Q4,gdp_deflator,16.8449264928001
+New Zealand,NZL,1964-Q4,gdp_deflator,4.61355066983022
+Norway,NOR,1964-Q4,gdp_deflator,7.50190501877232
+Portugal,PRT,1964-Q4,gdp_deflator,1.39830993988648
+South Korea,KOR,1964-Q4,gdp_deflator,1.80768295647946
+Spain,ESP,1964-Q4,gdp_deflator,3.06686192684426
+Sweden,SWE,1964-Q4,gdp_deflator,8.02141967046389
+Switzerland,CHE,1964-Q4,gdp_deflator,27.3279808894018
+Turkey,TUR,1964-Q4,gdp_deflator,6.64845466639941e-5
+United Kingdom,GBR,1964-Q4,gdp_deflator,4.93157612225145
+United States,USA,1964-Q4,gdp_deflator,15.3612434974725
+Australia,AUS,1965-Q4,gdp_deflator,5.65252096545749
+Austria,AUT,1965-Q4,gdp_deflator,18.6018386927485
+Belgium,BEL,1965-Q4,gdp_deflator,16.1608877505305
+Canada,CAN,1965-Q4,gdp_deflator,11.6871056946133
+Chile,CHL,1965-Q4,gdp_deflator,8.53076254690344e-5
+Colombia,COL,1965-Q4,gdp_deflator,0.0572755545451305
+Costa Rica,CRI,1965-Q4,gdp_deflator,0.113558339267941
+Denmark,DNK,1965-Q4,gdp_deflator,10.1510038729917
+Finland,FIN,1965-Q4,gdp_deflator,7.79353424688857
+France,FRA,1965-Q4,gdp_deflator,11.644121820956
+Germany,DEU,1965-Q4,gdp_deflator,24.3703473714647
+Greece,GRC,1965-Q4,gdp_deflator,1.16522509017741
+Hungary,HUN,1965-Q4,gdp_deflator,1.78812284222671
+Iceland,ISL,1965-Q4,gdp_deflator,0.0433787949104865
+Ireland,IRL,1965-Q4,gdp_deflator,5.07885912923556
+Israel,ISR,1965-Q4,gdp_deflator,0.00108297570157789
+Italy,ITA,1965-Q4,gdp_deflator,3.80408025096513
+Japan,JPN,1965-Q4,gdp_deflator,30.4889088415604
+Luxembourg,LUX,1965-Q4,gdp_deflator,11.6261124538087
+Mexico,MEX,1965-Q4,gdp_deflator,0.00668113651415727
+Netherlands,NLD,1965-Q4,gdp_deflator,17.4129037619604
+New Zealand,NZL,1965-Q4,gdp_deflator,4.69932355853831
+Norway,NOR,1965-Q4,gdp_deflator,7.8600935906184
+Portugal,PRT,1965-Q4,gdp_deflator,1.45245473052084
+South Korea,KOR,1965-Q4,gdp_deflator,1.8958677423813
+Spain,ESP,1965-Q4,gdp_deflator,3.3479357326884
+Sweden,SWE,1965-Q4,gdp_deflator,8.50215461911048
+Switzerland,CHE,1965-Q4,gdp_deflator,28.3656902987082
+Turkey,TUR,1965-Q4,gdp_deflator,6.9222284332464e-5
+United Kingdom,GBR,1965-Q4,gdp_deflator,5.20807945458685
+United States,USA,1965-Q4,gdp_deflator,15.6561526150655
+Australia,AUS,1966-Q4,gdp_deflator,5.80440125695867
+Austria,AUT,1966-Q4,gdp_deflator,19.182656194562
+Belgium,BEL,1966-Q4,gdp_deflator,16.8212240373345
+Canada,CAN,1966-Q4,gdp_deflator,12.2622169871749
+Chile,CHL,1966-Q4,gdp_deflator,1.0955590249047e-4
+Colombia,COL,1966-Q4,gdp_deflator,0.065939826607765
+Costa Rica,CRI,1966-Q4,gdp_deflator,0.11588528387968
+Denmark,DNK,1966-Q4,gdp_deflator,10.8445873245796
+Finland,FIN,1966-Q4,gdp_deflator,8.16168861767149
+France,FRA,1966-Q4,gdp_deflator,11.9916292962388
+Germany,DEU,1966-Q4,gdp_deflator,25.2039122525662
+Greece,GRC,1966-Q4,gdp_deflator,1.22257046766026
+Hungary,HUN,1966-Q4,gdp_deflator,1.83962301882394
+Iceland,ISL,1966-Q4,gdp_deflator,0.047900955375704
+Ireland,IRL,1966-Q4,gdp_deflator,5.30447164571324
+Israel,ISR,1966-Q4,gdp_deflator,0.00117752839196648
+Italy,ITA,1966-Q4,gdp_deflator,3.88900239720096
+Japan,JPN,1966-Q4,gdp_deflator,32.0044726044389
+Luxembourg,LUX,1966-Q4,gdp_deflator,12.0833672520139
+Mexico,MEX,1966-Q4,gdp_deflator,0.00701231959647115
+Netherlands,NLD,1966-Q4,gdp_deflator,18.4547680319413
+New Zealand,NZL,1966-Q4,gdp_deflator,4.5866487984979
+Norway,NOR,1966-Q4,gdp_deflator,8.17269593582028
+Portugal,PRT,1966-Q4,gdp_deflator,1.52890092599426
+South Korea,KOR,1966-Q4,gdp_deflator,2.17180237144556
+Spain,ESP,1966-Q4,gdp_deflator,3.6215874073305
+Sweden,SWE,1966-Q4,gdp_deflator,9.05887403721313
+Switzerland,CHE,1966-Q4,gdp_deflator,29.7286644670348
+Turkey,TUR,1966-Q4,gdp_deflator,7.33393424594106e-5
+United Kingdom,GBR,1966-Q4,gdp_deflator,5.46752183292029
+United States,USA,1966-Q4,gdp_deflator,16.1099898064283
+Australia,AUS,1967-Q4,gdp_deflator,6.08656376682296
+Austria,AUT,1967-Q4,gdp_deflator,19.8056633219989
+Belgium,BEL,1967-Q4,gdp_deflator,17.3583982097461
+Canada,CAN,1967-Q4,gdp_deflator,12.8083931563059
+Chile,CHL,1967-Q4,gdp_deflator,1.3703934052595e-4
+Colombia,COL,1967-Q4,gdp_deflator,0.0730152910198645
+Costa Rica,CRI,1967-Q4,gdp_deflator,0.118524919682722
+Denmark,DNK,1967-Q4,gdp_deflator,11.2895593773164
+Finland,FIN,1967-Q4,gdp_deflator,8.76255738750169
+France,FRA,1967-Q4,gdp_deflator,12.3614886403717
+Germany,DEU,1967-Q4,gdp_deflator,25.6044163760903
+Greece,GRC,1967-Q4,gdp_deflator,1.2490982623832
+Hungary,HUN,1967-Q4,gdp_deflator,1.85044238425684
+Iceland,ISL,1967-Q4,gdp_deflator,0.0492210849964489
+Ireland,IRL,1967-Q4,gdp_deflator,5.47643679648379
+Israel,ISR,1967-Q4,gdp_deflator,0.0011576495517875
+Italy,ITA,1967-Q4,gdp_deflator,3.99693228550605
+Japan,JPN,1967-Q4,gdp_deflator,33.7632432158466
+Luxembourg,LUX,1967-Q4,gdp_deflator,12.1354425998709
+Mexico,MEX,1967-Q4,gdp_deflator,0.0072346101487552
+Netherlands,NLD,1967-Q4,gdp_deflator,19.2312742983466
+New Zealand,NZL,1967-Q4,gdp_deflator,4.98570344306705
+Norway,NOR,1967-Q4,gdp_deflator,8.41501436195324
+Portugal,PRT,1967-Q4,gdp_deflator,1.58908855375664
+South Korea,KOR,1967-Q4,gdp_deflator,2.45392633773454
+Spain,ESP,1967-Q4,gdp_deflator,3.93078836670344
+Sweden,SWE,1967-Q4,gdp_deflator,9.51274533078348
+Switzerland,CHE,1967-Q4,gdp_deflator,31.0525757079624
+Turkey,TUR,1967-Q4,gdp_deflator,7.7695619114428e-5
+United Kingdom,GBR,1967-Q4,gdp_deflator,5.61948950414537
+United States,USA,1967-Q4,gdp_deflator,16.6176605909912
+Australia,AUS,1968-Q4,gdp_deflator,6.22380419473297
+Austria,AUT,1968-Q4,gdp_deflator,20.3677543752616
+Belgium,BEL,1968-Q4,gdp_deflator,17.813238456626
+Canada,CAN,1968-Q4,gdp_deflator,13.3290714970646
+Chile,CHL,1968-Q4,gdp_deflator,1.8307399639757e-4
+Colombia,COL,1968-Q4,gdp_deflator,0.0792014209872596
+Costa Rica,CRI,1968-Q4,gdp_deflator,0.120886562687332
+Denmark,DNK,1968-Q4,gdp_deflator,11.8916647449743
+Finland,FIN,1968-Q4,gdp_deflator,9.81965185122981
+France,FRA,1968-Q4,gdp_deflator,12.8877678355244
+Germany,DEU,1968-Q4,gdp_deflator,26.1389945821601
+Greece,GRC,1968-Q4,gdp_deflator,1.26754955476938
+Hungary,HUN,1968-Q4,gdp_deflator,1.93109062897037
+Iceland,ISL,1968-Q4,gdp_deflator,0.05598466109656
+Ireland,IRL,1968-Q4,gdp_deflator,5.70845311888112
+Israel,ISR,1968-Q4,gdp_deflator,0.00114145062503132
+Italy,ITA,1968-Q4,gdp_deflator,4.06625712266342
+Japan,JPN,1968-Q4,gdp_deflator,35.4240109553685
+Luxembourg,LUX,1968-Q4,gdp_deflator,12.7442356170442
+Mexico,MEX,1968-Q4,gdp_deflator,0.00730858647260254
+Netherlands,NLD,1968-Q4,gdp_deflator,20.0383459643043
+New Zealand,NZL,1968-Q4,gdp_deflator,5.27536712388601
+Norway,NOR,1968-Q4,gdp_deflator,8.78728423446779
+Portugal,PRT,1968-Q4,gdp_deflator,1.61567097083776
+South Korea,KOR,1968-Q4,gdp_deflator,2.79240366690181
+Spain,ESP,1968-Q4,gdp_deflator,4.16314238136615
+Sweden,SWE,1968-Q4,gdp_deflator,9.7402443850248
+Switzerland,CHE,1968-Q4,gdp_deflator,32.0093384169707
+Turkey,TUR,1968-Q4,gdp_deflator,8.13940519789147e-5
+United Kingdom,GBR,1968-Q4,gdp_deflator,5.8404084736359
+United States,USA,1968-Q4,gdp_deflator,17.3433851101733
+Australia,AUS,1969-Q4,gdp_deflator,6.51941893258974
+Austria,AUT,1969-Q4,gdp_deflator,20.9245217844847
+Belgium,BEL,1969-Q4,gdp_deflator,18.5300122325123
+Canada,CAN,1969-Q4,gdp_deflator,13.9724368244152
+Chile,CHL,1969-Q4,gdp_deflator,2.5579193487578e-4
+Colombia,COL,1969-Q4,gdp_deflator,0.0858897097930091
+Costa Rica,CRI,1969-Q4,gdp_deflator,0.126408735283748
+Denmark,DNK,1969-Q4,gdp_deflator,12.7087464844794
+Finland,FIN,1969-Q4,gdp_deflator,10.2271994053958
+France,FRA,1969-Q4,gdp_deflator,13.8364072029755
+Germany,DEU,1969-Q4,gdp_deflator,27.2391817143607
+Greece,GRC,1969-Q4,gdp_deflator,1.30787378323871
+Hungary,HUN,1969-Q4,gdp_deflator,2.00741206934689
+Iceland,ISL,1969-Q4,gdp_deflator,0.0676609042347099
+Ireland,IRL,1969-Q4,gdp_deflator,6.22857258855012
+Israel,ISR,1969-Q4,gdp_deflator,0.0011596711751682
+Italy,ITA,1969-Q4,gdp_deflator,4.23099407492191
+Japan,JPN,1969-Q4,gdp_deflator,36.9944985982165
+Luxembourg,LUX,1969-Q4,gdp_deflator,13.418789767273
+Mexico,MEX,1969-Q4,gdp_deflator,0.00781798118028257
+Netherlands,NLD,1969-Q4,gdp_deflator,21.3227983317915
+New Zealand,NZL,1969-Q4,gdp_deflator,5.32420154983493
+Norway,NOR,1969-Q4,gdp_deflator,9.1559580504708
+Portugal,PRT,1969-Q4,gdp_deflator,1.73518536895584
+South Korea,KOR,1969-Q4,gdp_deflator,3.18728798428852
+Spain,ESP,1969-Q4,gdp_deflator,4.37684691437714
+Sweden,SWE,1969-Q4,gdp_deflator,10.0731864679967
+Switzerland,CHE,1969-Q4,gdp_deflator,32.8333841512984
+Turkey,TUR,1969-Q4,gdp_deflator,8.69909650958657e-5
+United Kingdom,GBR,1969-Q4,gdp_deflator,6.19212007069422
+United States,USA,1969-Q4,gdp_deflator,18.2033548576265
+Australia,AUS,1970-Q4,gdp_deflator,6.85406552160255
+Austria,AUT,1970-Q4,gdp_deflator,21.9167830167641
+Belgium,BEL,1970-Q4,gdp_deflator,19.3724228590579
+Canada,CAN,1970-Q4,gdp_deflator,14.6322172477305
+Chile,CHL,1970-Q4,gdp_deflator,3.6048040219244e-4
+Colombia,COL,1970-Q4,gdp_deflator,0.096098392566238
+Costa Rica,CRI,1970-Q4,gdp_deflator,0.135658660941024
+Denmark,DNK,1970-Q4,gdp_deflator,13.8212607285642
+Finland,FIN,1970-Q4,gdp_deflator,10.6208027033242
+France,FRA,1970-Q4,gdp_deflator,14.5898813226527
+Germany,DEU,1970-Q4,gdp_deflator,29.3181944000917
+Greece,GRC,1970-Q4,gdp_deflator,1.35756408123082
+Hungary,HUN,1970-Q4,gdp_deflator,2.04128044957359
+Iceland,ISL,1970-Q4,gdp_deflator,0.0787843628423749
+Ireland,IRL,1970-Q4,gdp_deflator,6.83453774359152
+Israel,ISR,1970-Q4,gdp_deflator,0.00127097924191242
+Italy,ITA,1970-Q4,gdp_deflator,4.52145329581503
+Japan,JPN,1970-Q4,gdp_deflator,43.4302217469773
+Luxembourg,LUX,1970-Q4,gdp_deflator,15.4353350247897
+Mexico,MEX,1970-Q4,gdp_deflator,0.00802771267400074
+Netherlands,NLD,1970-Q4,gdp_deflator,22.5264482784106
+New Zealand,NZL,1970-Q4,gdp_deflator,6.0326180013897
+Norway,NOR,1970-Q4,gdp_deflator,10.334748207748
+Portugal,PRT,1970-Q4,gdp_deflator,1.76928272972798
+South Korea,KOR,1970-Q4,gdp_deflator,3.65794683569577
+Spain,ESP,1970-Q4,gdp_deflator,4.63694482035839
+Sweden,SWE,1970-Q4,gdp_deflator,10.594283233889
+Switzerland,CHE,1970-Q4,gdp_deflator,34.3807412828331
+Turkey,TUR,1970-Q4,gdp_deflator,9.45109029417996e-5
+United Kingdom,GBR,1970-Q4,gdp_deflator,6.76480144762353
+United States,USA,1970-Q4,gdp_deflator,19.1613479972459
+Australia,AUS,1971-Q4,gdp_deflator,7.20948188089876
+Austria,AUT,1971-Q4,gdp_deflator,23.2765820257687
+Belgium,BEL,1971-Q4,gdp_deflator,20.4104394546988
+Canada,CAN,1971-Q4,gdp_deflator,15.3537962359109
+Chile,CHL,1971-Q4,gdp_deflator,4.2301974662341e-4
+Colombia,COL,1971-Q4,gdp_deflator,0.106484130800853
+Costa Rica,CRI,1971-Q4,gdp_deflator,0.13897354777287
+Denmark,DNK,1971-Q4,gdp_deflator,14.8258458873935
+Finland,FIN,1971-Q4,gdp_deflator,11.4029298358624
+France,FRA,1971-Q4,gdp_deflator,15.4547157272672
+Germany,DEU,1971-Q4,gdp_deflator,31.5526326340885
+Greece,GRC,1971-Q4,gdp_deflator,1.3979519220198
+Hungary,HUN,1971-Q4,gdp_deflator,2.08567636121916
+Iceland,ISL,1971-Q4,gdp_deflator,0.088674318660032
+Ireland,IRL,1971-Q4,gdp_deflator,7.55484279580872
+Israel,ISR,1971-Q4,gdp_deflator,0.00145434013746532
+Italy,ITA,1971-Q4,gdp_deflator,4.84604117654429
+Japan,JPN,1971-Q4,gdp_deflator,45.6414071832621
+Luxembourg,LUX,1971-Q4,gdp_deflator,15.3096592533006
+Mexico,MEX,1971-Q4,gdp_deflator,0.00853816686648242
+Netherlands,NLD,1971-Q4,gdp_deflator,24.5065297943785
+New Zealand,NZL,1971-Q4,gdp_deflator,6.86996186569101
+Norway,NOR,1971-Q4,gdp_deflator,10.9944270402553
+Portugal,PRT,1971-Q4,gdp_deflator,1.85804221124643
+South Korea,KOR,1971-Q4,gdp_deflator,4.06965980910691
+Spain,ESP,1971-Q4,gdp_deflator,5.00076040993488
+Sweden,SWE,1971-Q4,gdp_deflator,11.3475673215979
+Switzerland,CHE,1971-Q4,gdp_deflator,37.526965381108
+Turkey,TUR,1971-Q4,gdp_deflator,1.1048521812752e-4
+United Kingdom,GBR,1971-Q4,gdp_deflator,7.41244784668195
+United States,USA,1971-Q4,gdp_deflator,20.132791457484
+Australia,AUS,1972-Q4,gdp_deflator,7.65588748095166
+Austria,AUT,1972-Q4,gdp_deflator,25.0455865082744
+Belgium,BEL,1972-Q4,gdp_deflator,21.6999341351197
+Canada,CAN,1972-Q4,gdp_deflator,16.2483151781046
+Chile,CHL,1972-Q4,gdp_deflator,7.9698680584046e-4
+Colombia,COL,1972-Q4,gdp_deflator,0.120297583182003
+Costa Rica,CRI,1972-Q4,gdp_deflator,0.147886045309451
+Denmark,DNK,1972-Q4,gdp_deflator,16.2683359855412
+Finland,FIN,1972-Q4,gdp_deflator,12.3429948774024
+France,FRA,1972-Q4,gdp_deflator,16.4900216242784
+Germany,DEU,1972-Q4,gdp_deflator,32.9825528533606
+Greece,GRC,1972-Q4,gdp_deflator,1.4685013761945
+Hungary,HUN,1972-Q4,gdp_deflator,2.12980935515342
+Iceland,ISL,1972-Q4,gdp_deflator,0.104932411208348
+Ireland,IRL,1972-Q4,gdp_deflator,8.56606744411839
+Israel,ISR,1972-Q4,gdp_deflator,0.00169584292767576
+Italy,ITA,1972-Q4,gdp_deflator,5.11901730849158
+Japan,JPN,1972-Q4,gdp_deflator,48.1993440748615
+Luxembourg,LUX,1972-Q4,gdp_deflator,16.1959055294133
+Mexico,MEX,1972-Q4,gdp_deflator,0.00909649601287963
+Netherlands,NLD,1972-Q4,gdp_deflator,26.5066598141868
+New Zealand,NZL,1972-Q4,gdp_deflator,7.50499284445082
+Norway,NOR,1972-Q4,gdp_deflator,11.6010434256122
+Portugal,PRT,1972-Q4,gdp_deflator,2.00305508252518
+South Korea,KOR,1972-Q4,gdp_deflator,4.71367644056899
+Spain,ESP,1972-Q4,gdp_deflator,5.42672129491953
+Sweden,SWE,1972-Q4,gdp_deflator,12.1388519066911
+Switzerland,CHE,1972-Q4,gdp_deflator,41.2053431429723
+Turkey,TUR,1972-Q4,gdp_deflator,1.2261171775124e-4
+United Kingdom,GBR,1972-Q4,gdp_deflator,7.99858325855058
+United States,USA,1972-Q4,gdp_deflator,21.0037615147179
+Australia,AUS,1973-Q4,gdp_deflator,8.34332518934358
+Austria,AUT,1973-Q4,gdp_deflator,27.0606400223714
+Belgium,BEL,1973-Q4,gdp_deflator,23.1770457414948
+Canada,CAN,1973-Q4,gdp_deflator,17.8615789762456
+Chile,CHL,1973-Q4,gdp_deflator,0.00412560060655069
+Colombia,COL,1973-Q4,gdp_deflator,0.144550898486118
+Costa Rica,CRI,1973-Q4,gdp_deflator,0.169832957243932
+Denmark,DNK,1973-Q4,gdp_deflator,17.882483512639
+Finland,FIN,1973-Q4,gdp_deflator,14.042877013206
+France,FRA,1973-Q4,gdp_deflator,17.7990650730422
+Germany,DEU,1973-Q4,gdp_deflator,35.0602932847185
+Greece,GRC,1973-Q4,gdp_deflator,1.77557006581595
+Hungary,HUN,1973-Q4,gdp_deflator,2.18622106111359
+Iceland,ISL,1973-Q4,gdp_deflator,0.137940330573597
+Ireland,IRL,1973-Q4,gdp_deflator,9.87432724879131
+Israel,ISR,1973-Q4,gdp_deflator,0.00207282573521652
+Italy,ITA,1973-Q4,gdp_deflator,5.77111010304894
+Japan,JPN,1973-Q4,gdp_deflator,54.3232616863592
+Luxembourg,LUX,1973-Q4,gdp_deflator,18.1721720522815
+Mexico,MEX,1973-Q4,gdp_deflator,0.010314277413484
+Netherlands,NLD,1973-Q4,gdp_deflator,28.7546898520175
+New Zealand,NZL,1973-Q4,gdp_deflator,8.13730038430625
+Norway,NOR,1973-Q4,gdp_deflator,12.6085435890398
+Portugal,PRT,1973-Q4,gdp_deflator,2.19266982229413
+South Korea,KOR,1973-Q4,gdp_deflator,5.32005897884566
+Spain,ESP,1973-Q4,gdp_deflator,6.06976597232048
+Sweden,SWE,1973-Q4,gdp_deflator,12.9926709016255
+Switzerland,CHE,1973-Q4,gdp_deflator,44.5596333388134
+Turkey,TUR,1973-Q4,gdp_deflator,1.4950073560799e-4
+United Kingdom,GBR,1973-Q4,gdp_deflator,8.60784321321226
+United States,USA,1973-Q4,gdp_deflator,22.1547515660757
+Australia,AUS,1974-Q4,gdp_deflator,9.70935387699504
+Austria,AUT,1974-Q4,gdp_deflator,29.6319796034233
+Belgium,BEL,1974-Q4,gdp_deflator,25.9973073967826
+Canada,CAN,1974-Q4,gdp_deflator,20.6425339458492
+Chile,CHL,1974-Q4,gdp_deflator,0.032439995145555
+Colombia,COL,1974-Q4,gdp_deflator,0.181233796828033
+Costa Rica,CRI,1974-Q4,gdp_deflator,0.209256326993143
+Denmark,DNK,1974-Q4,gdp_deflator,20.210136449385
+Finland,FIN,1974-Q4,gdp_deflator,17.142337053629
+France,FRA,1974-Q4,gdp_deflator,19.8723728020189
+Germany,DEU,1974-Q4,gdp_deflator,37.6110313865776
+Greece,GRC,1974-Q4,gdp_deflator,2.18005361344312
+Hungary,HUN,1974-Q4,gdp_deflator,2.16038325951537
+Iceland,ISL,1974-Q4,gdp_deflator,0.189932586055925
+Ireland,IRL,1974-Q4,gdp_deflator,10.4754382501678
+Israel,ISR,1974-Q4,gdp_deflator,0.00280870250091183
+Italy,ITA,1974-Q4,gdp_deflator,6.93955098595823
+Japan,JPN,1974-Q4,gdp_deflator,65.6279598352022
+Luxembourg,LUX,1974-Q4,gdp_deflator,21.2579366665454
+Mexico,MEX,1974-Q4,gdp_deflator,0.0127002635657174
+Netherlands,NLD,1974-Q4,gdp_deflator,32.4627947630482
+New Zealand,NZL,1974-Q4,gdp_deflator,8.4356292128509
+Norway,NOR,1974-Q4,gdp_deflator,14.0423924868767
+Portugal,PRT,1974-Q4,gdp_deflator,2.60632247396177
+South Korea,KOR,1974-Q4,gdp_deflator,6.95583204244225
+Spain,ESP,1974-Q4,gdp_deflator,7.03759678906841
+Sweden,SWE,1974-Q4,gdp_deflator,14.2215367965983
+Switzerland,CHE,1974-Q4,gdp_deflator,47.6487829638559
+Turkey,TUR,1974-Q4,gdp_deflator,1.9284450817315e-4
+United Kingdom,GBR,1974-Q4,gdp_deflator,9.82305601968665
+United States,USA,1974-Q4,gdp_deflator,24.1483896478516
+Australia,AUS,1975-Q4,gdp_deflator,11.3105861989164
+Austria,AUT,1975-Q4,gdp_deflator,31.5455464818862
+Belgium,BEL,1975-Q4,gdp_deflator,29.3482883523935
+Canada,CAN,1975-Q4,gdp_deflator,22.9127450345332
+Chile,CHL,1975-Q4,gdp_deflator,0.144283343479615
+Colombia,COL,1975-Q4,gdp_deflator,0.222567722049127
+Costa Rica,CRI,1975-Q4,gdp_deflator,0.26060969163137
+Denmark,DNK,1975-Q4,gdp_deflator,22.890410417853
+Finland,FIN,1975-Q4,gdp_deflator,19.4682081438267
+France,FRA,1975-Q4,gdp_deflator,22.6052087723534
+Germany,DEU,1975-Q4,gdp_deflator,39.7423070180415
+Greece,GRC,1975-Q4,gdp_deflator,2.46607667989537
+Hungary,HUN,1975-Q4,gdp_deflator,2.18165353306323
+Iceland,ISL,1975-Q4,gdp_deflator,0.269452194327619
+Ireland,IRL,1975-Q4,gdp_deflator,12.5844942196856
+Israel,ISR,1975-Q4,gdp_deflator,0.0038357650222981
+Italy,ITA,1975-Q4,gdp_deflator,8.11810112857354
+Japan,JPN,1975-Q4,gdp_deflator,70.3383678351323
+Luxembourg,LUX,1975-Q4,gdp_deflator,21.076117348569
+Mexico,MEX,1975-Q4,gdp_deflator,0.0146792944813731
+Netherlands,NLD,1975-Q4,gdp_deflator,35.090783852785
+New Zealand,NZL,1975-Q4,gdp_deflator,9.66941651769569
+Norway,NOR,1975-Q4,gdp_deflator,15.2900807491613
+Portugal,PRT,1975-Q4,gdp_deflator,3.02933850273371
+South Korea,KOR,1975-Q4,gdp_deflator,8.59134511631489
+Spain,ESP,1975-Q4,gdp_deflator,8.21863096729193
+Sweden,SWE,1975-Q4,gdp_deflator,16.2854233767245
+Switzerland,CHE,1975-Q4,gdp_deflator,51.0475425492256
+Turkey,TUR,1975-Q4,gdp_deflator,2.3393820737828e-4
+United Kingdom,GBR,1975-Q4,gdp_deflator,12.2554198992803
+United States,USA,1975-Q4,gdp_deflator,26.3852044290602
+Australia,AUS,1976-Q4,gdp_deflator,12.8965519372563
+Austria,AUT,1976-Q4,gdp_deflator,33.3199575807972
+Belgium,BEL,1976-Q4,gdp_deflator,31.5714983758461
+Canada,CAN,1976-Q4,gdp_deflator,24.9252691269317
+Chile,CHL,1976-Q4,gdp_deflator,0.498718713568636
+Colombia,COL,1976-Q4,gdp_deflator,0.279228029338937
+Costa Rica,CRI,1976-Q4,gdp_deflator,0.303875543719494
+Denmark,DNK,1976-Q4,gdp_deflator,25.014988900941
+Finland,FIN,1976-Q4,gdp_deflator,22.0233475627792
+France,FRA,1976-Q4,gdp_deflator,25.0168554942697
+Germany,DEU,1976-Q4,gdp_deflator,41.0562649704589
+Greece,GRC,1976-Q4,gdp_deflator,2.87136298433917
+Hungary,HUN,1976-Q4,gdp_deflator,2.30744960506935
+Iceland,ISL,1976-Q4,gdp_deflator,0.357662287582977
+Ireland,IRL,1976-Q4,gdp_deflator,15.2301231419431
+Israel,ISR,1976-Q4,gdp_deflator,0.00503935353899815
+Italy,ITA,1976-Q4,gdp_deflator,9.53505690474946
+Japan,JPN,1976-Q4,gdp_deflator,75.9709844873064
+Luxembourg,LUX,1976-Q4,gdp_deflator,23.6507125736763
+Mexico,MEX,1976-Q4,gdp_deflator,0.0175217263747427
+Netherlands,NLD,1976-Q4,gdp_deflator,38.246580956638
+New Zealand,NZL,1976-Q4,gdp_deflator,11.7475549987516
+Norway,NOR,1976-Q4,gdp_deflator,16.4889109091538
+Portugal,PRT,1976-Q4,gdp_deflator,3.52233702635674
+South Korea,KOR,1976-Q4,gdp_deflator,10.4118752439243
+Spain,ESP,1976-Q4,gdp_deflator,9.57387673340572
+Sweden,SWE,1976-Q4,gdp_deflator,18.2264775087401
+Switzerland,CHE,1976-Q4,gdp_deflator,52.4410662133627
+Turkey,TUR,1976-Q4,gdp_deflator,2.7046217843797e-4
+United Kingdom,GBR,1976-Q4,gdp_deflator,14.1221436741209
+United States,USA,1976-Q4,gdp_deflator,27.8373120151295
+Australia,AUS,1977-Q4,gdp_deflator,14.3690693172089
+Austria,AUT,1977-Q4,gdp_deflator,35.0521665824804
+Belgium,BEL,1977-Q4,gdp_deflator,33.9324340523504
+Canada,CAN,1977-Q4,gdp_deflator,26.5996328494388
+Chile,CHL,1977-Q4,gdp_deflator,1.00394286738948
+Colombia,COL,1977-Q4,gdp_deflator,0.360630865951267
+Costa Rica,CRI,1977-Q4,gdp_deflator,0.355348347903669
+Denmark,DNK,1977-Q4,gdp_deflator,27.2089743933212
+Finland,FIN,1977-Q4,gdp_deflator,24.0976521352589
+France,FRA,1977-Q4,gdp_deflator,27.220761595398
+Germany,DEU,1977-Q4,gdp_deflator,42.3293040481432
+Greece,GRC,1977-Q4,gdp_deflator,3.26630211286276
+Hungary,HUN,1977-Q4,gdp_deflator,2.35995660320446
+Iceland,ISL,1977-Q4,gdp_deflator,0.474639163696015
+Ireland,IRL,1977-Q4,gdp_deflator,17.2509472288749
+Israel,ISR,1977-Q4,gdp_deflator,0.00713362526872814
+Italy,ITA,1977-Q4,gdp_deflator,11.2968643975951
+Japan,JPN,1977-Q4,gdp_deflator,81.0983472385194
+Luxembourg,LUX,1977-Q4,gdp_deflator,23.9279440832349
+Mexico,MEX,1977-Q4,gdp_deflator,0.0228557316267482
+Netherlands,NLD,1977-Q4,gdp_deflator,40.2907278973518
+New Zealand,NZL,1977-Q4,gdp_deflator,13.6993055416288
+Norway,NOR,1977-Q4,gdp_deflator,17.83601112828
+Portugal,PRT,1977-Q4,gdp_deflator,4.45223577501094
+South Korea,KOR,1977-Q4,gdp_deflator,11.9171412273763
+Spain,ESP,1977-Q4,gdp_deflator,11.8125428921399
+Sweden,SWE,1977-Q4,gdp_deflator,20.1456470716139
+Switzerland,CHE,1977-Q4,gdp_deflator,52.5763703177606
+Turkey,TUR,1977-Q4,gdp_deflator,3.3561387547093e-4
+United Kingdom,GBR,1977-Q4,gdp_deflator,16.0731683842048
+United States,USA,1977-Q4,gdp_deflator,29.5669368330549
+Australia,AUS,1978-Q4,gdp_deflator,15.5527993649264
+Austria,AUT,1978-Q4,gdp_deflator,37.1528484821959
+Belgium,BEL,1978-Q4,gdp_deflator,35.4333504436754
+Canada,CAN,1978-Q4,gdp_deflator,28.4154819488039
+Chile,CHL,1978-Q4,gdp_deflator,1.56708919510474
+Colombia,COL,1978-Q4,gdp_deflator,0.422298496505571
+Costa Rica,CRI,1978-Q4,gdp_deflator,0.383451006367607
+Denmark,DNK,1978-Q4,gdp_deflator,29.6124697110981
+Finland,FIN,1978-Q4,gdp_deflator,25.8939374631855
+France,FRA,1978-Q4,gdp_deflator,29.7434355280034
+Germany,DEU,1978-Q4,gdp_deflator,43.8302342128849
+Greece,GRC,1978-Q4,gdp_deflator,3.71666166210201
+Hungary,HUN,1978-Q4,gdp_deflator,2.44641218052417
+Iceland,ISL,1978-Q4,gdp_deflator,0.694154023453298
+Ireland,IRL,1978-Q4,gdp_deflator,19.0668589830886
+Israel,ISR,1978-Q4,gdp_deflator,0.0111391681983521
+Italy,ITA,1978-Q4,gdp_deflator,12.8722092349699
+Japan,JPN,1978-Q4,gdp_deflator,84.8319191227851
+Luxembourg,LUX,1978-Q4,gdp_deflator,25.1554458951863
+Mexico,MEX,1978-Q4,gdp_deflator,0.0265131923172337
+Netherlands,NLD,1978-Q4,gdp_deflator,42.4401935056681
+New Zealand,NZL,1978-Q4,gdp_deflator,15.4776826656379
+Norway,NOR,1978-Q4,gdp_deflator,18.9526336967935
+Portugal,PRT,1978-Q4,gdp_deflator,5.4472335104244
+South Korea,KOR,1978-Q4,gdp_deflator,14.5088634632824
+Spain,ESP,1978-Q4,gdp_deflator,14.2495937101747
+Sweden,SWE,1978-Q4,gdp_deflator,22.0693684072083
+Switzerland,CHE,1978-Q4,gdp_deflator,54.475830904206
+Turkey,TUR,1978-Q4,gdp_deflator,4.9516856038849e-4
+United Kingdom,GBR,1978-Q4,gdp_deflator,18.0535137880927
+United States,USA,1978-Q4,gdp_deflator,31.6466546656417
+Australia,AUS,1979-Q4,gdp_deflator,16.8957355398202
+Austria,AUT,1979-Q4,gdp_deflator,38.6814544129351
+Belgium,BEL,1979-Q4,gdp_deflator,37.0297083757738
+Canada,CAN,1979-Q4,gdp_deflator,31.2769353365811
+Chile,CHL,1979-Q4,gdp_deflator,2.31065898666439
+Colombia,COL,1979-Q4,gdp_deflator,0.523821696711342
+Costa Rica,CRI,1979-Q4,gdp_deflator,0.41853665158824
+Denmark,DNK,1979-Q4,gdp_deflator,31.6840540429304
+Finland,FIN,1979-Q4,gdp_deflator,28.0444238812912
+France,FRA,1979-Q4,gdp_deflator,32.7804563663448
+Germany,DEU,1979-Q4,gdp_deflator,45.7053532609871
+Greece,GRC,1979-Q4,gdp_deflator,4.46559501935542
+Hungary,HUN,1979-Q4,gdp_deflator,2.58126954874601
+Iceland,ISL,1979-Q4,gdp_deflator,0.97804484868224
+Ireland,IRL,1979-Q4,gdp_deflator,21.6744542198535
+Israel,ISR,1979-Q4,gdp_deflator,0.01970053946721
+Italy,ITA,1979-Q4,gdp_deflator,14.8610977720734
+Japan,JPN,1979-Q4,gdp_deflator,87.1661805328752
+Luxembourg,LUX,1979-Q4,gdp_deflator,26.7539274246867
+Mexico,MEX,1979-Q4,gdp_deflator,0.0317292116532156
+Netherlands,NLD,1979-Q4,gdp_deflator,44.4650402758931
+New Zealand,NZL,1979-Q4,gdp_deflator,17.6794063806153
+Norway,NOR,1979-Q4,gdp_deflator,20.0334266740949
+Portugal,PRT,1979-Q4,gdp_deflator,6.50603498311042
+South Korea,KOR,1979-Q4,gdp_deflator,17.1974043623163
+Spain,ESP,1979-Q4,gdp_deflator,16.6622825139968
+Sweden,SWE,1979-Q4,gdp_deflator,23.8223842783827
+Switzerland,CHE,1979-Q4,gdp_deflator,55.5590113970322
+Turkey,TUR,1979-Q4,gdp_deflator,8.7506617163824e-4
+United Kingdom,GBR,1979-Q4,gdp_deflator,20.793893568753
+United States,USA,1979-Q4,gdp_deflator,34.2722896233046
+Australia,AUS,1980-Q4,gdp_deflator,18.5880756677601
+Austria,AUT,1980-Q4,gdp_deflator,40.8401226740637
+Belgium,BEL,1980-Q4,gdp_deflator,38.5577751933424
+Canada,CAN,1980-Q4,gdp_deflator,34.4221094506315
+Chile,CHL,1980-Q4,gdp_deflator,2.97427585794444
+Colombia,COL,1980-Q4,gdp_deflator,0.668479961405661
+Costa Rica,CRI,1980-Q4,gdp_deflator,0.497345346937306
+Denmark,DNK,1980-Q4,gdp_deflator,34.4020477154555
+Finland,FIN,1980-Q4,gdp_deflator,30.7466680353775
+France,FRA,1980-Q4,gdp_deflator,36.56531657065
+Germany,DEU,1980-Q4,gdp_deflator,48.196838648855
+Greece,GRC,1980-Q4,gdp_deflator,5.32475108812016
+Hungary,HUN,1980-Q4,gdp_deflator,2.72805727442024
+Iceland,ISL,1980-Q4,gdp_deflator,1.49128162325461
+Ireland,IRL,1980-Q4,gdp_deflator,24.8616384511677
+Israel,ISR,1980-Q4,gdp_deflator,0.0443987343768415
+Italy,ITA,1980-Q4,gdp_deflator,17.9545533353888
+Japan,JPN,1980-Q4,gdp_deflator,91.9062633933197
+Luxembourg,LUX,1980-Q4,gdp_deflator,28.8731990381328
+Mexico,MEX,1980-Q4,gdp_deflator,0.0448667352569476
+Netherlands,NLD,1980-Q4,gdp_deflator,47.2331546113123
+New Zealand,NZL,1980-Q4,gdp_deflator,20.3144009037657
+Norway,NOR,1980-Q4,gdp_deflator,22.6631144299689
+Portugal,PRT,1980-Q4,gdp_deflator,7.86599365879714
+South Korea,KOR,1980-Q4,gdp_deflator,21.4228289216723
+Spain,ESP,1980-Q4,gdp_deflator,18.8875014520247
+Sweden,SWE,1980-Q4,gdp_deflator,26.6135363125327
+Switzerland,CHE,1980-Q4,gdp_deflator,57.0628175995447
+Turkey,TUR,1980-Q4,gdp_deflator,0.00168890593032257
+United Kingdom,GBR,1980-Q4,gdp_deflator,24.9286715097722
+United States,USA,1980-Q4,gdp_deflator,37.3681416634291
+Australia,AUS,1981-Q4,gdp_deflator,20.3587101698149
+Austria,AUT,1981-Q4,gdp_deflator,43.5832185521509
+Belgium,BEL,1981-Q4,gdp_deflator,40.5393352131702
+Canada,CAN,1981-Q4,gdp_deflator,38.1641223132779
+Chile,CHL,1981-Q4,gdp_deflator,3.31393966074787
+Colombia,COL,1981-Q4,gdp_deflator,0.820665289186966
+Costa Rica,CRI,1981-Q4,gdp_deflator,0.701764970560523
+Denmark,DNK,1981-Q4,gdp_deflator,38.0213945233292
+Finland,FIN,1981-Q4,gdp_deflator,34.3241831577588
+France,FRA,1981-Q4,gdp_deflator,40.7632986419788
+Germany,DEU,1981-Q4,gdp_deflator,50.2091717363264
+Greece,GRC,1981-Q4,gdp_deflator,6.47553843420272
+Hungary,HUN,1981-Q4,gdp_deflator,2.8686010985639
+Iceland,ISL,1981-Q4,gdp_deflator,2.22477465776341
+Ireland,IRL,1981-Q4,gdp_deflator,29.1981415710248
+Israel,ISR,1981-Q4,gdp_deflator,0.0997289819890592
+Italy,ITA,1981-Q4,gdp_deflator,21.3277158756213
+Japan,JPN,1981-Q4,gdp_deflator,94.5326339344541
+Luxembourg,LUX,1981-Q4,gdp_deflator,30.9468796664221
+Mexico,MEX,1981-Q4,gdp_deflator,0.056117314821951
+Netherlands,NLD,1981-Q4,gdp_deflator,50.2513965802454
+New Zealand,NZL,1981-Q4,gdp_deflator,23.6351894962278
+Norway,NOR,1981-Q4,gdp_deflator,25.5819302162456
+Portugal,PRT,1981-Q4,gdp_deflator,9.25111035904992
+South Korea,KOR,1981-Q4,gdp_deflator,24.9634369467433
+Spain,ESP,1981-Q4,gdp_deflator,21.2203330038787
+Sweden,SWE,1981-Q4,gdp_deflator,28.9468360813665
+Switzerland,CHE,1981-Q4,gdp_deflator,60.2932050152855
+Turkey,TUR,1981-Q4,gdp_deflator,0.0024329884066677
+United Kingdom,GBR,1981-Q4,gdp_deflator,27.963730206912
+United States,USA,1981-Q4,gdp_deflator,40.9039765436756
+Australia,AUS,1982-Q4,gdp_deflator,22.7418292635684
+Austria,AUT,1982-Q4,gdp_deflator,45.917226092005
+Belgium,BEL,1982-Q4,gdp_deflator,43.6083316351542
+Canada,CAN,1982-Q4,gdp_deflator,41.5328992912236
+Chile,CHL,1982-Q4,gdp_deflator,3.55156754016634
+Colombia,COL,1982-Q4,gdp_deflator,1.02391500772126
+Costa Rica,CRI,1982-Q4,gdp_deflator,1.29245380540093
+Denmark,DNK,1982-Q4,gdp_deflator,41.8500991490965
+Finland,FIN,1982-Q4,gdp_deflator,37.4351776856527
+France,FRA,1982-Q4,gdp_deflator,45.6682295415681
+Germany,DEU,1982-Q4,gdp_deflator,52.5092833222901
+Greece,GRC,1982-Q4,gdp_deflator,8.23771034604259
+Hungary,HUN,1982-Q4,gdp_deflator,3.03240826525079
+Iceland,ISL,1982-Q4,gdp_deflator,3.41828574504696
+Ireland,IRL,1982-Q4,gdp_deflator,33.6310484130732
+Israel,ISR,1982-Q4,gdp_deflator,0.22662828563751
+Italy,ITA,1982-Q4,gdp_deflator,25.0687998574294
+Japan,JPN,1982-Q4,gdp_deflator,96.1959574230592
+Luxembourg,LUX,1982-Q4,gdp_deflator,34.2926637776427
+Mexico,MEX,1982-Q4,gdp_deflator,0.0903943983722071
+Netherlands,NLD,1982-Q4,gdp_deflator,52.5748480331076
+New Zealand,NZL,1982-Q4,gdp_deflator,26.4915842669245
+Norway,NOR,1982-Q4,gdp_deflator,28.2705840686937
+Portugal,PRT,1982-Q4,gdp_deflator,11.1651955230131
+South Korea,KOR,1982-Q4,gdp_deflator,26.5797857120437
+Spain,ESP,1982-Q4,gdp_deflator,24.1025473089193
+Sweden,SWE,1982-Q4,gdp_deflator,31.2870735542186
+Switzerland,CHE,1982-Q4,gdp_deflator,64.7235742984841
+Turkey,TUR,1982-Q4,gdp_deflator,0.00311974401520622
+United Kingdom,GBR,1982-Q4,gdp_deflator,30.0094101397049
+United States,USA,1982-Q4,gdp_deflator,43.4311895285019
+Australia,AUS,1983-Q4,gdp_deflator,25.0521347169009
+Austria,AUT,1983-Q4,gdp_deflator,47.5118320290575
+Belgium,BEL,1983-Q4,gdp_deflator,46.0560018960869
+Canada,CAN,1983-Q4,gdp_deflator,43.951972652258
+Chile,CHL,1983-Q4,gdp_deflator,4.66510873103018
+Colombia,COL,1983-Q4,gdp_deflator,1.2328200422704
+Costa Rica,CRI,1983-Q4,gdp_deflator,1.66638017753357
+Denmark,DNK,1983-Q4,gdp_deflator,44.9274828253254
+Finland,FIN,1983-Q4,gdp_deflator,40.5031183735707
+France,FRA,1983-Q4,gdp_deflator,50.0581050964935
+Germany,DEU,1983-Q4,gdp_deflator,53.9837117213373
+Greece,GRC,1983-Q4,gdp_deflator,9.93568363099838
+Hungary,HUN,1983-Q4,gdp_deflator,3.18284314580502
+Iceland,ISL,1983-Q4,gdp_deflator,6.06079382251102
+Ireland,IRL,1983-Q4,gdp_deflator,37.2325569600972
+Israel,ISR,1983-Q4,gdp_deflator,0.566391502561732
+Italy,ITA,1983-Q4,gdp_deflator,28.8533712506042
+Japan,JPN,1983-Q4,gdp_deflator,97.0816822627309
+Luxembourg,LUX,1983-Q4,gdp_deflator,36.6309716008764
+Mexico,MEX,1983-Q4,gdp_deflator,0.170718753347584
+Netherlands,NLD,1983-Q4,gdp_deflator,53.3051506265613
+New Zealand,NZL,1983-Q4,gdp_deflator,28.5381313110642
+Norway,NOR,1983-Q4,gdp_deflator,30.2388268742822
+Portugal,PRT,1983-Q4,gdp_deflator,13.9124208781562
+South Korea,KOR,1983-Q4,gdp_deflator,27.8730397242985
+Spain,ESP,1983-Q4,gdp_deflator,26.9669531651284
+Sweden,SWE,1983-Q4,gdp_deflator,34.4014082687027
+Switzerland,CHE,1983-Q4,gdp_deflator,66.2555065055553
+Turkey,TUR,1983-Q4,gdp_deflator,0.00393893405507449
+United Kingdom,GBR,1983-Q4,gdp_deflator,31.7286371658942
+United States,USA,1983-Q4,gdp_deflator,45.1323496075812
+Australia,AUS,1984-Q4,gdp_deflator,27.0218280382047
+Austria,AUT,1984-Q4,gdp_deflator,49.8635599736357
+Belgium,BEL,1984-Q4,gdp_deflator,48.5608577802077
+Canada,CAN,1984-Q4,gdp_deflator,45.5102416213818
+Chile,CHL,1984-Q4,gdp_deflator,5.41750957398809
+Colombia,COL,1984-Q4,gdp_deflator,1.50626232244403
+Costa Rica,CRI,1984-Q4,gdp_deflator,1.94457412147223
+Denmark,DNK,1984-Q4,gdp_deflator,47.5818875297827
+Finland,FIN,1984-Q4,gdp_deflator,43.9272279982593
+France,FRA,1984-Q4,gdp_deflator,53.5988524129916
+Germany,DEU,1984-Q4,gdp_deflator,55.0575267220405
+Greece,GRC,1984-Q4,gdp_deflator,12.1134324248275
+Hungary,HUN,1984-Q4,gdp_deflator,3.38436881603346
+Iceland,ISL,1984-Q4,gdp_deflator,7.68998134918952
+Ireland,IRL,1984-Q4,gdp_deflator,39.6077227576719
+Israel,ISR,1984-Q4,gdp_deflator,2.74569866287329
+Italy,ITA,1984-Q4,gdp_deflator,31.9585263459283
+Japan,JPN,1984-Q4,gdp_deflator,98.4695677112328
+Luxembourg,LUX,1984-Q4,gdp_deflator,38.2454778059627
+Mexico,MEX,1984-Q4,gdp_deflator,0.271894592957225
+Netherlands,NLD,1984-Q4,gdp_deflator,54.5349583910225
+New Zealand,NZL,1984-Q4,gdp_deflator,30.7639658299916
+Norway,NOR,1984-Q4,gdp_deflator,32.1166767440994
+Portugal,PRT,1984-Q4,gdp_deflator,17.3454111751982
+South Korea,KOR,1984-Q4,gdp_deflator,29.1331352369909
+Spain,ESP,1984-Q4,gdp_deflator,29.8968409000655
+Sweden,SWE,1984-Q4,gdp_deflator,37.0282936341524
+Switzerland,CHE,1984-Q4,gdp_deflator,68.7464735767195
+Turkey,TUR,1984-Q4,gdp_deflator,0.00583895108172905
+United Kingdom,GBR,1984-Q4,gdp_deflator,33.194181312771
+United States,USA,1984-Q4,gdp_deflator,46.7606703098826
+Australia,AUS,1985-Q4,gdp_deflator,28.2870514221685
+Austria,AUT,1985-Q4,gdp_deflator,51.3410149268614
+Belgium,BEL,1985-Q4,gdp_deflator,50.8081290232399
+Canada,CAN,1985-Q4,gdp_deflator,47.0295505981248
+Chile,CHL,1985-Q4,gdp_deflator,7.68518100008873
+Colombia,COL,1985-Q4,gdp_deflator,1.88107322853544
+Costa Rica,CRI,1985-Q4,gdp_deflator,2.34409104901303
+Denmark,DNK,1985-Q4,gdp_deflator,49.5877149035056
+Finland,FIN,1985-Q4,gdp_deflator,46.2223693928703
+France,FRA,1985-Q4,gdp_deflator,56.5490092650857
+Germany,DEU,1985-Q4,gdp_deflator,56.2273481621783
+Greece,GRC,1985-Q4,gdp_deflator,14.4181280536842
+Hungary,HUN,1985-Q4,gdp_deflator,3.58437703695029
+Iceland,ISL,1985-Q4,gdp_deflator,10.1572767474966
+Ireland,IRL,1985-Q4,gdp_deflator,41.6619100341482
+Israel,ISR,1985-Q4,gdp_deflator,10.0090787873957
+Italy,ITA,1985-Q4,gdp_deflator,34.8906068960381
+Japan,JPN,1985-Q4,gdp_deflator,99.710895365394
+Luxembourg,LUX,1985-Q4,gdp_deflator,39.4282146379192
+Mexico,MEX,1985-Q4,gdp_deflator,0.432718929346681
+Netherlands,NLD,1985-Q4,gdp_deflator,55.0071675246463
+New Zealand,NZL,1985-Q4,gdp_deflator,34.9583542456852
+Norway,NOR,1985-Q4,gdp_deflator,33.7860767461305
+Portugal,PRT,1985-Q4,gdp_deflator,21.1153602445211
+South Korea,KOR,1985-Q4,gdp_deflator,30.3077303730949
+Spain,ESP,1985-Q4,gdp_deflator,32.466617767528
+Sweden,SWE,1985-Q4,gdp_deflator,39.3997732725966
+Switzerland,CHE,1985-Q4,gdp_deflator,70.3075209250939
+Turkey,TUR,1985-Q4,gdp_deflator,0.00893677603309865
+United Kingdom,GBR,1985-Q4,gdp_deflator,35.2090174862308
+United States,USA,1985-Q4,gdp_deflator,48.2394883181425
+Australia,AUS,1986-Q4,gdp_deflator,30.1391233509608
+Austria,AUT,1986-Q4,gdp_deflator,52.8560870622904
+Belgium,BEL,1986-Q4,gdp_deflator,52.2291210875135
+Canada,CAN,1986-Q4,gdp_deflator,48.5026943876237
+Chile,CHL,1986-Q4,gdp_deflator,9.36592580833432
+Colombia,COL,1986-Q4,gdp_deflator,2.42976209348346
+Costa Rica,CRI,1986-Q4,gdp_deflator,2.76719769056911
+Denmark,DNK,1986-Q4,gdp_deflator,50.7953683117961
+Finland,FIN,1986-Q4,gdp_deflator,48.4217627315548
+France,FRA,1986-Q4,gdp_deflator,59.511846525771404
+Germany,DEU,1986-Q4,gdp_deflator,57.9139117237847
+Greece,GRC,1986-Q4,gdp_deflator,17.140558808595
+Hungary,HUN,1986-Q4,gdp_deflator,3.71851379482816
+Iceland,ISL,1986-Q4,gdp_deflator,12.6545677156022
+Ireland,IRL,1986-Q4,gdp_deflator,44.3906384440252
+Israel,ISR,1986-Q4,gdp_deflator,15.0296263352254
+Italy,ITA,1986-Q4,gdp_deflator,37.5033613360622
+Japan,JPN,1986-Q4,gdp_deflator,101.318261780998
+Luxembourg,LUX,1986-Q4,gdp_deflator,39.3951843618588
+Mexico,MEX,1986-Q4,gdp_deflator,0.73930469271405
+Netherlands,NLD,1986-Q4,gdp_deflator,55.1236178651312
+New Zealand,NZL,1986-Q4,gdp_deflator,40.8831436258493
+Norway,NOR,1986-Q4,gdp_deflator,33.5999832256452
+Portugal,PRT,1986-Q4,gdp_deflator,25.4336896705978
+South Korea,KOR,1986-Q4,gdp_deflator,31.8381328365022
+Spain,ESP,1986-Q4,gdp_deflator,35.9986014782009
+Sweden,SWE,1986-Q4,gdp_deflator,41.8909118434455
+Switzerland,CHE,1986-Q4,gdp_deflator,72.4410685603932
+Turkey,TUR,1986-Q4,gdp_deflator,0.0121546307512359
+United Kingdom,GBR,1986-Q4,gdp_deflator,36.4310132291127
+United States,USA,1986-Q4,gdp_deflator,49.2109797708223
+Australia,AUS,1987-Q4,gdp_deflator,32.2586996610032
+Austria,AUT,1987-Q4,gdp_deflator,54.1441624250746
+Belgium,BEL,1987-Q4,gdp_deflator,53.1087173338197
+Canada,CAN,1987-Q4,gdp_deflator,50.8267501861635
+Chile,CHL,1987-Q4,gdp_deflator,11.7564862588664
+Colombia,COL,1987-Q4,gdp_deflator,2.99776603558307
+Costa Rica,CRI,1987-Q4,gdp_deflator,3.04791283010997
+Denmark,DNK,1987-Q4,gdp_deflator,53.1872138725304
+Finland,FIN,1987-Q4,gdp_deflator,50.5002033428801
+France,FRA,1987-Q4,gdp_deflator,60.9819572572697
+Germany,DEU,1987-Q4,gdp_deflator,58.6550149555777
+Greece,GRC,1987-Q4,gdp_deflator,19.7549537712719
+Hungary,HUN,1987-Q4,gdp_deflator,4.02527534993937
+Iceland,ISL,1987-Q4,gdp_deflator,15.1787096251036
+Ireland,IRL,1987-Q4,gdp_deflator,45.366082770269
+Israel,ISR,1987-Q4,gdp_deflator,18.0624352109484
+Italy,ITA,1987-Q4,gdp_deflator,39.7570444289933
+Japan,JPN,1987-Q4,gdp_deflator,101.152316977423
+Luxembourg,LUX,1987-Q4,gdp_deflator,39.4200180827485
+Mexico,MEX,1987-Q4,gdp_deflator,1.78930468674271
+Netherlands,NLD,1987-Q4,gdp_deflator,54.5461238204182
+New Zealand,NZL,1987-Q4,gdp_deflator,45.5728783216655
+Norway,NOR,1987-Q4,gdp_deflator,36.026301907157
+Portugal,PRT,1987-Q4,gdp_deflator,28.0016746350386
+South Korea,KOR,1987-Q4,gdp_deflator,33.3985241259718
+Spain,ESP,1987-Q4,gdp_deflator,38.1384297301375
+Sweden,SWE,1987-Q4,gdp_deflator,43.8685605399363
+Switzerland,CHE,1987-Q4,gdp_deflator,74.0300507143539
+Turkey,TUR,1987-Q4,gdp_deflator,0.0162400730774745
+United Kingdom,GBR,1987-Q4,gdp_deflator,38.7182197262285
+United States,USA,1987-Q4,gdp_deflator,50.4301269061186
+Australia,AUS,1988-Q4,gdp_deflator,34.5736091046227
+Austria,AUT,1988-Q4,gdp_deflator,54.9708654215756
+Belgium,BEL,1988-Q4,gdp_deflator,54.2606401291073
+Canada,CAN,1988-Q4,gdp_deflator,53.1342837507043
+Chile,CHL,1988-Q4,gdp_deflator,14.1559719849075
+Colombia,COL,1988-Q4,gdp_deflator,3.82964779655164
+Costa Rica,CRI,1988-Q4,gdp_deflator,3.6221174620275
+Denmark,DNK,1988-Q4,gdp_deflator,55.2378063073273
+Finland,FIN,1988-Q4,gdp_deflator,54.380739357155
+France,FRA,1988-Q4,gdp_deflator,62.9205921522938
+Germany,DEU,1988-Q4,gdp_deflator,59.6465552856713
+Greece,GRC,1988-Q4,gdp_deflator,23.0500543346658
+Hungary,HUN,1988-Q4,gdp_deflator,4.7307481898644
+Iceland,ISL,1988-Q4,gdp_deflator,18.6903486092339
+Ireland,IRL,1988-Q4,gdp_deflator,46.8388072715674
+Israel,ISR,1988-Q4,gdp_deflator,21.5241420151645
+Italy,ITA,1988-Q4,gdp_deflator,42.4010479215029
+Japan,JPN,1988-Q4,gdp_deflator,101.76913296575
+Luxembourg,LUX,1988-Q4,gdp_deflator,40.5144849621596
+Mexico,MEX,1988-Q4,gdp_deflator,3.58891552373685
+Netherlands,NLD,1988-Q4,gdp_deflator,54.9932045468337
+New Zealand,NZL,1988-Q4,gdp_deflator,49.1765782090313
+Norway,NOR,1988-Q4,gdp_deflator,37.780250951086
+Portugal,PRT,1988-Q4,gdp_deflator,31.1281708591888
+South Korea,KOR,1988-Q4,gdp_deflator,35.7479779718688
+Spain,ESP,1988-Q4,gdp_deflator,40.4023750404313
+Sweden,SWE,1988-Q4,gdp_deflator,46.7512541800887
+Switzerland,CHE,1988-Q4,gdp_deflator,76.0956657361235
+Turkey,TUR,1988-Q4,gdp_deflator,0.0274486680064687
+United Kingdom,GBR,1988-Q4,gdp_deflator,41.3668660108008
+United States,USA,1988-Q4,gdp_deflator,52.2090495674617
+Australia,AUS,1989-Q4,gdp_deflator,37.7643325082517
+Austria,AUT,1989-Q4,gdp_deflator,56.6006200469969
+Belgium,BEL,1989-Q4,gdp_deflator,56.8637712078556
+Canada,CAN,1989-Q4,gdp_deflator,55.6216341243678
+Chile,CHL,1989-Q4,gdp_deflator,16.0467126120625
+Colombia,COL,1989-Q4,gdp_deflator,4.7750276104144
+Costa Rica,CRI,1989-Q4,gdp_deflator,4.17442950360178
+Denmark,DNK,1989-Q4,gdp_deflator,57.9069130281552
+Finland,FIN,1989-Q4,gdp_deflator,57.9341033103711
+France,FRA,1989-Q4,gdp_deflator,64.9239800974381
+Germany,DEU,1989-Q4,gdp_deflator,61.3638194057293
+Greece,GRC,1989-Q4,gdp_deflator,26.3920755231819
+Hungary,HUN,1989-Q4,gdp_deflator,5.61712698329212
+Iceland,ISL,1989-Q4,gdp_deflator,22.9645347323768
+Ireland,IRL,1989-Q4,gdp_deflator,49.4251368040333
+Israel,ISR,1989-Q4,gdp_deflator,25.5497735774681
+Italy,ITA,1989-Q4,gdp_deflator,45.0288053754432
+Japan,JPN,1989-Q4,gdp_deflator,103.874777285196
+Luxembourg,LUX,1989-Q4,gdp_deflator,42.1435674301162
+Mexico,MEX,1989-Q4,gdp_deflator,4.57207741381545
+Netherlands,NLD,1989-Q4,gdp_deflator,55.7345506199527
+New Zealand,NZL,1989-Q4,gdp_deflator,51.9499109112089
+Norway,NOR,1989-Q4,gdp_deflator,39.9005798783375
+Portugal,PRT,1989-Q4,gdp_deflator,34.4009258741751
+South Korea,KOR,1989-Q4,gdp_deflator,37.8872852133002
+Spain,ESP,1989-Q4,gdp_deflator,43.1886012546591
+Sweden,SWE,1989-Q4,gdp_deflator,50.4561353647249
+Switzerland,CHE,1989-Q4,gdp_deflator,78.7274040138969
+Turkey,TUR,1989-Q4,gdp_deflator,0.0481462896220706
+United Kingdom,GBR,1989-Q4,gdp_deflator,44.7789667071
+United States,USA,1989-Q4,gdp_deflator,54.2560408240224
+Australia,AUS,1990-Q4,gdp_deflator,40.0689963395751
+Austria,AUT,1990-Q4,gdp_deflator,58.2984578176466
+Belgium,BEL,1990-Q4,gdp_deflator,58.4630100764858
+Canada,CAN,1990-Q4,gdp_deflator,57.4862391180163
+Chile,CHL,1990-Q4,gdp_deflator,19.6658400074984
+Colombia,COL,1990-Q4,gdp_deflator,7.2740909869111
+Costa Rica,CRI,1990-Q4,gdp_deflator,4.9486985259893
+Czechia,CZE,1990-Q4,gdp_deflator,21.1394639803637
+Denmark,DNK,1990-Q4,gdp_deflator,59.3443217772128
+Estonia,EST,1990-Q4,gdp_deflator,0.344271540872799
+Finland,FIN,1990-Q4,gdp_deflator,60.945069192894
+France,FRA,1990-Q4,gdp_deflator,66.6548506812303
+Germany,DEU,1990-Q4,gdp_deflator,63.4481295981641
+Greece,GRC,1990-Q4,gdp_deflator,31.8527534754673
+Hungary,HUN,1990-Q4,gdp_deflator,7.05882158505669
+Iceland,ISL,1990-Q4,gdp_deflator,26.4486110630678
+Ireland,IRL,1990-Q4,gdp_deflator,49.0647365036806
+Israel,ISR,1990-Q4,gdp_deflator,29.620380280032
+Italy,ITA,1990-Q4,gdp_deflator,49.0427015818461
+Japan,JPN,1990-Q4,gdp_deflator,106.538546373752
+Latvia,LVA,1990-Q4,gdp_deflator,0.447999445330928
+Lithuania,LTU,1990-Q4,gdp_deflator,0.137497037634927
+Luxembourg,LUX,1990-Q4,gdp_deflator,43.2028006446576
+Mexico,MEX,1990-Q4,gdp_deflator,5.85710148632517
+Netherlands,NLD,1990-Q4,gdp_deflator,56.6038710542586
+New Zealand,NZL,1990-Q4,gdp_deflator,53.208965341964
+Norway,NOR,1990-Q4,gdp_deflator,41.4214192985707
+Poland,POL,1990-Q4,gdp_deflator,8.53599718391625
+Portugal,PRT,1990-Q4,gdp_deflator,38.9228077927829
+Slovakia,SVK,1990-Q4,gdp_deflator,22.9536734304457
+Slovenia,SVN,1990-Q4,gdp_deflator,3.5305685075837
+South Korea,KOR,1990-Q4,gdp_deflator,41.6979365318226
+Spain,ESP,1990-Q4,gdp_deflator,46.3527066770634
+Sweden,SWE,1990-Q4,gdp_deflator,55.2362591274439
+Switzerland,CHE,1990-Q4,gdp_deflator,82.3517156454029
+Turkey,TUR,1990-Q4,gdp_deflator,0.076188806223142
+United Kingdom,GBR,1990-Q4,gdp_deflator,48.2885173455902
+United States,USA,1990-Q4,gdp_deflator,56.2870229902748
+Australia,AUS,1991-Q4,gdp_deflator,41.2811126507244
+Austria,AUT,1991-Q4,gdp_deflator,60.4216126237677
+Belgium,BEL,1991-Q4,gdp_deflator,60.1447712559087
+Canada,CAN,1991-Q4,gdp_deflator,59.2434611205227
+Chile,CHL,1991-Q4,gdp_deflator,23.9170604570319
+Colombia,COL,1991-Q4,gdp_deflator,9.23851556238798
+Costa Rica,CRI,1991-Q4,gdp_deflator,8.15420249016794
+Czechia,CZE,1991-Q4,gdp_deflator,28.7903409315329
+Denmark,DNK,1991-Q4,gdp_deflator,60.877487652088
+Estonia,EST,1991-Q4,gdp_deflator,0.800673799367727
+Finland,FIN,1991-Q4,gdp_deflator,61.8692139359513
+France,FRA,1991-Q4,gdp_deflator,68.2913043689399
+Germany,DEU,1991-Q4,gdp_deflator,65.4055550007415
+Greece,GRC,1991-Q4,gdp_deflator,38.1556947134045
+Hungary,HUN,1991-Q4,gdp_deflator,9.57991086026191
+Iceland,ISL,1991-Q4,gdp_deflator,28.661127919055
+Ireland,IRL,1991-Q4,gdp_deflator,49.9485856148069
+Israel,ISR,1991-Q4,gdp_deflator,35.5828947149649
+Italy,ITA,1991-Q4,gdp_deflator,52.7607899691279
+Japan,JPN,1991-Q4,gdp_deflator,109.633034081207
+Latvia,LVA,1991-Q4,gdp_deflator,1.17637817709008
+Lithuania,LTU,1991-Q4,gdp_deflator,0.451453348394631
+Luxembourg,LUX,1991-Q4,gdp_deflator,43.9903181735028
+Mexico,MEX,1991-Q4,gdp_deflator,7.24601104455081
+Netherlands,NLD,1991-Q4,gdp_deflator,58.3682418390255
+New Zealand,NZL,1991-Q4,gdp_deflator,53.6827006061014
+Norway,NOR,1991-Q4,gdp_deflator,42.3375785099974
+Poland,POL,1991-Q4,gdp_deflator,13.2526473437737
+Portugal,PRT,1991-Q4,gdp_deflator,42.8486344197343
+Slovakia,SVK,1991-Q4,gdp_deflator,30.89728292439
+Slovenia,SVN,1991-Q4,gdp_deflator,6.88205907991564
+South Korea,KOR,1991-Q4,gdp_deflator,45.477136706731
+Spain,ESP,1991-Q4,gdp_deflator,49.5673315473141
+Sweden,SWE,1991-Q4,gdp_deflator,59.7914768234301
+Switzerland,CHE,1991-Q4,gdp_deflator,86.8062061683902
+Turkey,TUR,1991-Q4,gdp_deflator,0.121265232975928
+United Kingdom,GBR,1991-Q4,gdp_deflator,51.4867600324121
+United States,USA,1991-Q4,gdp_deflator,58.1905439106778
+Australia,AUS,1992-Q4,gdp_deflator,41.8918772008369
+Austria,AUT,1992-Q4,gdp_deflator,62.5237370247657
+Belgium,BEL,1992-Q4,gdp_deflator,62.2044438367346
+Canada,CAN,1992-Q4,gdp_deflator,60.1148441065368
+Chile,CHL,1992-Q4,gdp_deflator,27.1259723199397
+Colombia,COL,1992-Q4,gdp_deflator,11.3323682933526
+Costa Rica,CRI,1992-Q4,gdp_deflator,9.76293312410632
+Czechia,CZE,1992-Q4,gdp_deflator,32.3480389661208
+Denmark,DNK,1992-Q4,gdp_deflator,61.8858490505652
+Estonia,EST,1992-Q4,gdp_deflator,7.79570334034736
+Finland,FIN,1992-Q4,gdp_deflator,62.422134303078
+France,FRA,1992-Q4,gdp_deflator,69.671028014391
+Germany,DEU,1992-Q4,gdp_deflator,68.8791878284563
+Greece,GRC,1992-Q4,gdp_deflator,43.8022844222559
+Hungary,HUN,1992-Q4,gdp_deflator,11.6404710978626
+Iceland,ISL,1992-Q4,gdp_deflator,29.6497331911686
+Ireland,IRL,1992-Q4,gdp_deflator,51.3532506528705
+Israel,ISR,1992-Q4,gdp_deflator,39.8735255996562
+Italy,ITA,1992-Q4,gdp_deflator,55.0654423060919
+Japan,JPN,1992-Q4,gdp_deflator,111.471875623676
+Latvia,LVA,1992-Q4,gdp_deflator,12.1460414823241
+Lithuania,LTU,1992-Q4,gdp_deflator,4.70552790680869
+Luxembourg,LUX,1992-Q4,gdp_deflator,45.6307483890676
+Mexico,MEX,1992-Q4,gdp_deflator,8.31942682966718
+Netherlands,NLD,1992-Q4,gdp_deflator,59.8249616309121
+New Zealand,NZL,1992-Q4,gdp_deflator,54.7571147813209
+Norway,NOR,1992-Q4,gdp_deflator,42.0667197132
+Poland,POL,1992-Q4,gdp_deflator,18.3715442632114
+Portugal,PRT,1992-Q4,gdp_deflator,47.7531025156699
+Slovakia,SVK,1992-Q4,gdp_deflator,34.3622954798723
+Slovenia,SVN,1992-Q4,gdp_deflator,21.2089798344417
+South Korea,KOR,1992-Q4,gdp_deflator,49.0004209996183
+Spain,ESP,1992-Q4,gdp_deflator,52.8936817631184
+Sweden,SWE,1992-Q4,gdp_deflator,60.3985643093614
+Switzerland,CHE,1992-Q4,gdp_deflator,88.650521248851
+Turkey,TUR,1992-Q4,gdp_deflator,0.200329483701504
+United Kingdom,GBR,1992-Q4,gdp_deflator,52.7273112515477
+United States,USA,1992-Q4,gdp_deflator,59.5166216558718
+Australia,AUS,1993-Q4,gdp_deflator,42.2550837411471
+Austria,AUT,1993-Q4,gdp_deflator,64.2475690715402
+Belgium,BEL,1993-Q4,gdp_deflator,64.6884113933167
+Canada,CAN,1993-Q4,gdp_deflator,60.8897502064176
+Chile,CHL,1993-Q4,gdp_deflator,30.4075043436225
+Colombia,COL,1993-Q4,gdp_deflator,14.1475074337
+Costa Rica,CRI,1993-Q4,gdp_deflator,10.7817510554095
+Czechia,CZE,1993-Q4,gdp_deflator,39.1439747194392
+Denmark,DNK,1993-Q4,gdp_deflator,62.2431642409306
+Estonia,EST,1993-Q4,gdp_deflator,14.4068906409171
+Finland,FIN,1993-Q4,gdp_deflator,63.5241601280165
+France,FRA,1993-Q4,gdp_deflator,70.7563104744645
+Germany,DEU,1993-Q4,gdp_deflator,71.4861918428899
+Greece,GRC,1993-Q4,gdp_deflator,50.122405900756704
+Hungary,HUN,1993-Q4,gdp_deflator,14.11738351363
+Iceland,ISL,1993-Q4,gdp_deflator,30.1928710774535
+Ireland,IRL,1993-Q4,gdp_deflator,54.0111682399327
+Israel,ISR,1993-Q4,gdp_deflator,44.2955982944981
+Italy,ITA,1993-Q4,gdp_deflator,57.2052588275275
+Japan,JPN,1993-Q4,gdp_deflator,112.060904877745
+Latvia,LVA,1993-Q4,gdp_deflator,18.6676891686252
+Lithuania,LTU,1993-Q4,gdp_deflator,19.1135929690954
+Luxembourg,LUX,1993-Q4,gdp_deflator,48.35616724997
+Mexico,MEX,1993-Q4,gdp_deflator,11.8857673778225
+Netherlands,NLD,1993-Q4,gdp_deflator,60.7806706971997
+New Zealand,NZL,1993-Q4,gdp_deflator,55.5673475792748
+Norway,NOR,1993-Q4,gdp_deflator,43.0312760949749
+Poland,POL,1993-Q4,gdp_deflator,24.0010991667612
+Portugal,PRT,1993-Q4,gdp_deflator,51.2755771159332
+Slovakia,SVK,1993-Q4,gdp_deflator,39.7152230198681
+Slovenia,SVN,1993-Q4,gdp_deflator,29.0730827735219
+South Korea,KOR,1993-Q4,gdp_deflator,52.0662019875306
+Spain,ESP,1993-Q4,gdp_deflator,55.2935957030676
+Sweden,SWE,1993-Q4,gdp_deflator,61.7347443083377
+Switzerland,CHE,1993-Q4,gdp_deflator,90.7090076815383
+Turkey,TUR,1993-Q4,gdp_deflator,0.33731363948508
+United Kingdom,GBR,1993-Q4,gdp_deflator,53.6446143842174
+United States,USA,1993-Q4,gdp_deflator,60.9273589176479
+Australia,AUS,1994-Q4,gdp_deflator,42.6879311856876
+Austria,AUT,1994-Q4,gdp_deflator,65.8697838175918
+Belgium,BEL,1994-Q4,gdp_deflator,66.043183927621
+Canada,CAN,1994-Q4,gdp_deflator,61.7760802317189
+Chile,CHL,1994-Q4,gdp_deflator,34.6039207298806
+Colombia,COL,1994-Q4,gdp_deflator,17.2735941905003
+Costa Rica,CRI,1994-Q4,gdp_deflator,12.4713029115706
+Czechia,CZE,1994-Q4,gdp_deflator,43.9751109896801
+Denmark,DNK,1994-Q4,gdp_deflator,63.2189793740526
+Estonia,EST,1994-Q4,gdp_deflator,20.121961215068
+Finland,FIN,1994-Q4,gdp_deflator,64.6961655135265
+France,FRA,1994-Q4,gdp_deflator,71.4305140631213
+Germany,DEU,1994-Q4,gdp_deflator,72.8756681477223
+Greece,GRC,1994-Q4,gdp_deflator,55.7270375022835
+Hungary,HUN,1994-Q4,gdp_deflator,16.8690112785579
+Iceland,ISL,1994-Q4,gdp_deflator,30.9789053288945
+Ireland,IRL,1994-Q4,gdp_deflator,54.9264036831895
+Israel,ISR,1994-Q4,gdp_deflator,49.8493490871714
+Italy,ITA,1994-Q4,gdp_deflator,59.2317399951789
+Japan,JPN,1994-Q4,gdp_deflator,112.270244318082
+Latvia,LVA,1994-Q4,gdp_deflator,25.4350597498489
+Lithuania,LTU,1994-Q4,gdp_deflator,30.8943045459448
+Luxembourg,LUX,1994-Q4,gdp_deflator,50.0691244357498
+Mexico,MEX,1994-Q4,gdp_deflator,12.8794920884853
+Netherlands,NLD,1994-Q4,gdp_deflator,62.034413846773
+New Zealand,NZL,1994-Q4,gdp_deflator,56.6270074274133
+Norway,NOR,1994-Q4,gdp_deflator,42.9641482670509
+Poland,POL,1994-Q4,gdp_deflator,32.9376767851495
+Portugal,PRT,1994-Q4,gdp_deflator,55.0072224881619
+Slovakia,SVK,1994-Q4,gdp_deflator,45.0563196177887
+Slovenia,SVN,1994-Q4,gdp_deflator,35.6404701719418
+South Korea,KOR,1994-Q4,gdp_deflator,56.2806549547295
+Spain,ESP,1994-Q4,gdp_deflator,57.4388997841665
+Sweden,SWE,1994-Q4,gdp_deflator,63.2795497454857
+Switzerland,CHE,1994-Q4,gdp_deflator,91.7833533882574
+Turkey,TUR,1994-Q4,gdp_deflator,0.69064676655463
+United Kingdom,GBR,1994-Q4,gdp_deflator,53.8183062230959
+United States,USA,1994-Q4,gdp_deflator,62.2282789209912
+Australia,AUS,1995-Q4,gdp_deflator,43.6670359818508
+Austria,AUT,1995-Q4,gdp_deflator,67.0646076657314
+Belgium,BEL,1995-Q4,gdp_deflator,66.849419046878
+Canada,CAN,1995-Q4,gdp_deflator,63.1742741981642
+Chile,CHL,1995-Q4,gdp_deflator,38.4325547292746
+Colombia,COL,1995-Q4,gdp_deflator,20.5298320481986
+Costa Rica,CRI,1995-Q4,gdp_deflator,15.1197392018504
+Czechia,CZE,1995-Q4,gdp_deflator,47.9800855862551
+Denmark,DNK,1995-Q4,gdp_deflator,64.0276264160189
+Estonia,EST,1995-Q4,gdp_deflator,26.4419817991101
+Finland,FIN,1995-Q4,gdp_deflator,67.4143464143715
+France,FRA,1995-Q4,gdp_deflator,72.2524265499106
+Germany,DEU,1995-Q4,gdp_deflator,74.2134306204655
+Greece,GRC,1995-Q4,gdp_deflator,61.183737853174
+Hungary,HUN,1995-Q4,gdp_deflator,21.3785684636553
+Iceland,ISL,1995-Q4,gdp_deflator,31.9075195969298
+Ireland,IRL,1995-Q4,gdp_deflator,56.5928690455421
+Israel,ISR,1995-Q4,gdp_deflator,54.3703058849631
+Italy,ITA,1995-Q4,gdp_deflator,62.1490480290634
+Japan,JPN,1995-Q4,gdp_deflator,111.68255563822
+Latvia,LVA,1995-Q4,gdp_deflator,32.893308928984
+Lithuania,LTU,1995-Q4,gdp_deflator,42.6482720469208
+Luxembourg,LUX,1995-Q4,gdp_deflator,51.2367712495493
+Mexico,MEX,1995-Q4,gdp_deflator,17.8779237186309
+Netherlands,NLD,1995-Q4,gdp_deflator,63.3151910949012
+New Zealand,NZL,1995-Q4,gdp_deflator,57.4373920430268
+Norway,NOR,1995-Q4,gdp_deflator,44.2794609795782
+Poland,POL,1995-Q4,gdp_deflator,41.9769666633219
+Portugal,PRT,1995-Q4,gdp_deflator,56.8932097527777
+Slovakia,SVK,1995-Q4,gdp_deflator,49.512871798021
+Slovenia,SVN,1995-Q4,gdp_deflator,41.0418043357569
+South Korea,KOR,1995-Q4,gdp_deflator,60.2381620042482
+Spain,ESP,1995-Q4,gdp_deflator,60.2724352468666
+Sweden,SWE,1995-Q4,gdp_deflator,65.624083865947
+Switzerland,CHE,1995-Q4,gdp_deflator,92.4604922233864
+Turkey,TUR,1995-Q4,gdp_deflator,1.78070409371192
+United Kingdom,GBR,1995-Q4,gdp_deflator,59.6355263956752
+United States,USA,1995-Q4,gdp_deflator,63.5330120827672
+Australia,AUS,1996-Q4,gdp_deflator,44.8515156594723
+Austria,AUT,1996-Q4,gdp_deflator,67.7087202492099
+Belgium,BEL,1996-Q4,gdp_deflator,67.1680490284182
+Canada,CAN,1996-Q4,gdp_deflator,64.2326170217789
+Chile,CHL,1996-Q4,gdp_deflator,39.6810975557656
+Colombia,COL,1996-Q4,gdp_deflator,23.9928818828295
+Costa Rica,CRI,1996-Q4,gdp_deflator,17.3990499992882
+Czechia,CZE,1996-Q4,gdp_deflator,52.7348513326426
+Denmark,DNK,1996-Q4,gdp_deflator,65.3233171950214
+Estonia,EST,1996-Q4,gdp_deflator,32.4018688634608
+Finland,FIN,1996-Q4,gdp_deflator,67.359500448623
+France,FRA,1996-Q4,gdp_deflator,73.2042492704811
+Germany,DEU,1996-Q4,gdp_deflator,74.5579324773261
+Greece,GRC,1996-Q4,gdp_deflator,66.1988812069638
+Hungary,HUN,1996-Q4,gdp_deflator,26.0744697430783
+Iceland,ISL,1996-Q4,gdp_deflator,32.724190807576
+Ireland,IRL,1996-Q4,gdp_deflator,57.8901207433665
+Israel,ISR,1996-Q4,gdp_deflator,59.4125776873322
+Italy,ITA,1996-Q4,gdp_deflator,64.8666944109335
+Japan,JPN,1996-Q4,gdp_deflator,111.184702286724
+Latvia,LVA,1996-Q4,gdp_deflator,37.1576633340452
+Lithuania,LTU,1996-Q4,gdp_deflator,50.7512054222918
+Luxembourg,LUX,1996-Q4,gdp_deflator,53.1753435889328
+Mexico,MEX,1996-Q4,gdp_deflator,22.6507526092554
+Netherlands,NLD,1996-Q4,gdp_deflator,64.0532973296297
+New Zealand,NZL,1996-Q4,gdp_deflator,58.237543937733
+Norway,NOR,1996-Q4,gdp_deflator,46.166450770293
+Poland,POL,1996-Q4,gdp_deflator,49.5249322066037
+Portugal,PRT,1996-Q4,gdp_deflator,58.2535184578146
+Slovakia,SVK,1996-Q4,gdp_deflator,51.8302425988336
+Slovenia,SVN,1996-Q4,gdp_deflator,45.7602340008814
+South Korea,KOR,1996-Q4,gdp_deflator,62.6374319077764
+Spain,ESP,1996-Q4,gdp_deflator,62.4020154631149
+Sweden,SWE,1996-Q4,gdp_deflator,66.3146934533931
+Switzerland,CHE,1996-Q4,gdp_deflator,92.7194023646362
+Turkey,TUR,1996-Q4,gdp_deflator,3.14768818381735
+United Kingdom,GBR,1996-Q4,gdp_deflator,62.1053404582177
+United States,USA,1996-Q4,gdp_deflator,64.6961519481359
+Australia,AUS,1997-Q4,gdp_deflator,45.4209067187191
+Austria,AUT,1997-Q4,gdp_deflator,68.5635725683939
+Belgium,BEL,1997-Q4,gdp_deflator,67.6769214182886
+Canada,CAN,1997-Q4,gdp_deflator,64.9675205916709
+Chile,CHL,1997-Q4,gdp_deflator,41.0027084543703
+Colombia,COL,1997-Q4,gdp_deflator,28.0332479065523
+Costa Rica,CRI,1997-Q4,gdp_deflator,19.9532119089035
+Czechia,CZE,1997-Q4,gdp_deflator,57.1400283390961
+Denmark,DNK,1997-Q4,gdp_deflator,66.6383857347993
+Estonia,EST,1997-Q4,gdp_deflator,35.6169336209064
+Finland,FIN,1997-Q4,gdp_deflator,68.7642981008932
+France,FRA,1997-Q4,gdp_deflator,73.8446122693088
+Germany,DEU,1997-Q4,gdp_deflator,74.6664215615498
+Greece,GRC,1997-Q4,gdp_deflator,70.5801508671215
+Hungary,HUN,1997-Q4,gdp_deflator,31.3575399423569
+Iceland,ISL,1997-Q4,gdp_deflator,33.6358568409896
+Ireland,IRL,1997-Q4,gdp_deflator,60.164773806537
+Israel,ISR,1997-Q4,gdp_deflator,64.3090841679413
+Italy,ITA,1997-Q4,gdp_deflator,66.5170007484511
+Japan,JPN,1997-Q4,gdp_deflator,111.745585541052
+Latvia,LVA,1997-Q4,gdp_deflator,39.3088610664712
+Lithuania,LTU,1997-Q4,gdp_deflator,56.5228798575425
+Luxembourg,LUX,1997-Q4,gdp_deflator,54.5682962130929
+Mexico,MEX,1997-Q4,gdp_deflator,26.6675671209169
+Netherlands,NLD,1997-Q4,gdp_deflator,65.77754229507
+New Zealand,NZL,1997-Q4,gdp_deflator,59.1471020055893
+Norway,NOR,1997-Q4,gdp_deflator,47.4525145187185
+Poland,POL,1997-Q4,gdp_deflator,56.3125205866935
+Portugal,PRT,1997-Q4,gdp_deflator,60.5167886562619
+Slovakia,SVK,1997-Q4,gdp_deflator,54.2814635582942
+Slovenia,SVN,1997-Q4,gdp_deflator,49.5585798475604
+South Korea,KOR,1997-Q4,gdp_deflator,65.0556371698148
+Spain,ESP,1997-Q4,gdp_deflator,63.9402451795725
+Sweden,SWE,1997-Q4,gdp_deflator,67.3084557755433
+Switzerland,CHE,1997-Q4,gdp_deflator,92.2776098080048
+Turkey,TUR,1997-Q4,gdp_deflator,5.76356407885482
+United Kingdom,GBR,1997-Q4,gdp_deflator,62.1277674471458
+United States,USA,1997-Q4,gdp_deflator,65.8118222718313
+Australia,AUS,1998-Q4,gdp_deflator,45.9380895455479
+Austria,AUT,1998-Q4,gdp_deflator,68.894091569264
+Belgium,BEL,1998-Q4,gdp_deflator,68.8989090443816
+Canada,CAN,1998-Q4,gdp_deflator,64.8530314035627
+Chile,CHL,1998-Q4,gdp_deflator,41.3221155377291
+Colombia,COL,1998-Q4,gdp_deflator,32.1746123497846
+Costa Rica,CRI,1998-Q4,gdp_deflator,22.3352652412599
+Czechia,CZE,1998-Q4,gdp_deflator,62.7612006810634
+Denmark,DNK,1998-Q4,gdp_deflator,67.4596139991477
+Estonia,EST,1998-Q4,gdp_deflator,38.072544013367
+Finland,FIN,1998-Q4,gdp_deflator,70.8987380977149
+France,FRA,1998-Q4,gdp_deflator,74.5155006044516
+Germany,DEU,1998-Q4,gdp_deflator,75.1833873723108
+Greece,GRC,1998-Q4,gdp_deflator,74.3058716463619
+Hungary,HUN,1998-Q4,gdp_deflator,35.6726806646584
+Iceland,ISL,1998-Q4,gdp_deflator,35.2103490660855
+Ireland,IRL,1998-Q4,gdp_deflator,64.1072390153202
+Israel,ISR,1998-Q4,gdp_deflator,68.6687519407291
+Italy,ITA,1998-Q4,gdp_deflator,68.0924804035036
+Japan,JPN,1998-Q4,gdp_deflator,111.715771542814
+Latvia,LVA,1998-Q4,gdp_deflator,41.1442894444596
+Lithuania,LTU,1998-Q4,gdp_deflator,58.3955997510132
+Luxembourg,LUX,1998-Q4,gdp_deflator,53.4591698808429
+Mexico,MEX,1998-Q4,gdp_deflator,30.8586567549413
+Netherlands,NLD,1998-Q4,gdp_deflator,67.1375034679608
+New Zealand,NZL,1998-Q4,gdp_deflator,59.768849655651
+Norway,NOR,1998-Q4,gdp_deflator,47.1238620741713
+Poland,POL,1998-Q4,gdp_deflator,62.5337086598638
+Portugal,PRT,1998-Q4,gdp_deflator,62.8315758856675
+Slovakia,SVK,1998-Q4,gdp_deflator,56.9975304013799
+Slovenia,SVN,1998-Q4,gdp_deflator,53.2329938572492
+South Korea,KOR,1998-Q4,gdp_deflator,67.982021946207
+Spain,ESP,1998-Q4,gdp_deflator,65.6249298637911
+Sweden,SWE,1998-Q4,gdp_deflator,67.8920285953162
+Switzerland,CHE,1998-Q4,gdp_deflator,92.1029659503685
+Turkey,TUR,1998-Q4,gdp_deflator,10.1593232994269
+United Kingdom,GBR,1998-Q4,gdp_deflator,62.953148885302
+United States,USA,1998-Q4,gdp_deflator,66.5514484777791
+Australia,AUS,1999-Q4,gdp_deflator,46.1592669850574
+Austria,AUT,1999-Q4,gdp_deflator,69.0451919855931
+Belgium,BEL,1999-Q4,gdp_deflator,69.3115601362617
+Canada,CAN,1999-Q4,gdp_deflator,66.1007100711795
+Chile,CHL,1999-Q4,gdp_deflator,42.2261475049747
+Colombia,COL,1999-Q4,gdp_deflator,36.235994629849
+Costa Rica,CRI,1999-Q4,gdp_deflator,24.7987269284473
+Czechia,CZE,1999-Q4,gdp_deflator,64.7163259743022
+Denmark,DNK,1999-Q4,gdp_deflator,68.5979579601807
+Estonia,EST,1999-Q4,gdp_deflator,40.5324178486234
+Finland,FIN,1999-Q4,gdp_deflator,71.5590983673164
+France,FRA,1999-Q4,gdp_deflator,74.6795596482393
+Germany,DEU,1999-Q4,gdp_deflator,75.6152395467193
+Greece,GRC,1999-Q4,gdp_deflator,76.9135915004426
+Hungary,HUN,1999-Q4,gdp_deflator,38.5705316809559
+Iceland,ISL,1999-Q4,gdp_deflator,36.4264297074514
+Ireland,IRL,1999-Q4,gdp_deflator,66.9126961645347
+Israel,ISR,1999-Q4,gdp_deflator,72.9401062862206
+Italy,ITA,1999-Q4,gdp_deflator,69.0984114666952
+Japan,JPN,1999-Q4,gdp_deflator,110.329321454911
+Latvia,LVA,1999-Q4,gdp_deflator,41.6896919290986
+Lithuania,LTU,1999-Q4,gdp_deflator,57.6465308354656
+Luxembourg,LUX,1999-Q4,gdp_deflator,56.0062959577688
+Mexico,MEX,1999-Q4,gdp_deflator,35.5859194822988
+Netherlands,NLD,1999-Q4,gdp_deflator,68.0101654577059
+New Zealand,NZL,1999-Q4,gdp_deflator,60.1183105670011
+Norway,NOR,1999-Q4,gdp_deflator,50.2448862693451
+Poland,POL,1999-Q4,gdp_deflator,66.3967732801429
+Portugal,PRT,1999-Q4,gdp_deflator,64.9493312554176
+Slovakia,SVK,1999-Q4,gdp_deflator,61.1549022974185
+Slovenia,SVN,1999-Q4,gdp_deflator,56.714889141882
+South Korea,KOR,1999-Q4,gdp_deflator,67.0630450444262
+Spain,ESP,1999-Q4,gdp_deflator,67.3433715243169
+Sweden,SWE,1999-Q4,gdp_deflator,68.5736345876723
+Switzerland,CHE,1999-Q4,gdp_deflator,92.1432801444744
+Turkey,TUR,1999-Q4,gdp_deflator,15.651445361806
+United Kingdom,GBR,1999-Q4,gdp_deflator,63.8310300898373
+United States,USA,1999-Q4,gdp_deflator,67.4932252667022
+Australia,AUS,2000-Q4,gdp_deflator,47.3381671518075
+Austria,AUT,2000-Q4,gdp_deflator,69.989256400729
+Belgium,BEL,2000-Q4,gdp_deflator,70.707905341972
+Canada,CAN,2000-Q4,gdp_deflator,68.9920866941159
+Chile,CHL,2000-Q4,gdp_deflator,44.1516781939175
+Colombia,COL,2000-Q4,gdp_deflator,48.4386000792737
+Costa Rica,CRI,2000-Q4,gdp_deflator,27.1272563504875
+Czechia,CZE,2000-Q4,gdp_deflator,65.8549938733478
+Denmark,DNK,2000-Q4,gdp_deflator,70.6650741328015
+Estonia,EST,2000-Q4,gdp_deflator,42.0259168826362
+Finland,FIN,2000-Q4,gdp_deflator,72.7308016288743
+France,FRA,2000-Q4,gdp_deflator,75.7381971745127
+Germany,DEU,2000-Q4,gdp_deflator,75.3557941623041
+Greece,GRC,2000-Q4,gdp_deflator,78.1586691144233
+Hungary,HUN,2000-Q4,gdp_deflator,42.2719532109579
+Iceland,ISL,2000-Q4,gdp_deflator,37.8728914468749
+Ireland,IRL,2000-Q4,gdp_deflator,71.5129107039557
+Israel,ISR,2000-Q4,gdp_deflator,74.3881264778299
+Italy,ITA,2000-Q4,gdp_deflator,70.3117994735981
+Japan,JPN,2000-Q4,gdp_deflator,108.855034764828
+Latvia,LVA,2000-Q4,gdp_deflator,43.2634428948618
+Lithuania,LTU,2000-Q4,gdp_deflator,58.414194352898
+Luxembourg,LUX,2000-Q4,gdp_deflator,58.5873312653197
+Mexico,MEX,2000-Q4,gdp_deflator,39.3928885321613
+Netherlands,NLD,2000-Q4,gdp_deflator,70.2341888060926
+New Zealand,NZL,2000-Q4,gdp_deflator,61.8526507885912
+Norway,NOR,2000-Q4,gdp_deflator,57.9490904040008
+Poland,POL,2000-Q4,gdp_deflator,70.4188987124249
+Portugal,PRT,2000-Q4,gdp_deflator,67.1707735178362
+Slovakia,SVK,2000-Q4,gdp_deflator,67.0754189698915
+Slovenia,SVN,2000-Q4,gdp_deflator,59.854660428318
+South Korea,KOR,2000-Q4,gdp_deflator,67.6890692285431
+Spain,ESP,2000-Q4,gdp_deflator,69.6416338391089
+Sweden,SWE,2000-Q4,gdp_deflator,69.6516542584153
+Switzerland,CHE,2000-Q4,gdp_deflator,93.4031416877273
+Turkey,TUR,2000-Q4,gdp_deflator,23.3790582611154
+United Kingdom,GBR,2000-Q4,gdp_deflator,64.4537768617233
+United States,USA,2000-Q4,gdp_deflator,69.0220337602236
+Australia,AUS,2001-Q4,gdp_deflator,49.5351649042863
+Austria,AUT,2001-Q4,gdp_deflator,71.3451469170801
+Belgium,BEL,2001-Q4,gdp_deflator,72.1099144997902
+Canada,CAN,2001-Q4,gdp_deflator,70.0777991506862
+Chile,CHL,2001-Q4,gdp_deflator,46.0401103652359
+Colombia,COL,2001-Q4,gdp_deflator,51.5960451787335
+Costa Rica,CRI,2001-Q4,gdp_deflator,29.7642800827201
+Czechia,CZE,2001-Q4,gdp_deflator,69.1046595716087
+Denmark,DNK,2001-Q4,gdp_deflator,72.4439589108133
+Estonia,EST,2001-Q4,gdp_deflator,44.9041535827077
+Finland,FIN,2001-Q4,gdp_deflator,75.1342863072009
+France,FRA,2001-Q4,gdp_deflator,77.1790391039495
+Germany,DEU,2001-Q4,gdp_deflator,76.4359350824322
+Greece,GRC,2001-Q4,gdp_deflator,80.8713118956389
+Hungary,HUN,2001-Q4,gdp_deflator,46.9335318496209
+Iceland,ISL,2001-Q4,gdp_deflator,41.1589400727929
+Ireland,IRL,2001-Q4,gdp_deflator,76.4184720112965
+Israel,ISR,2001-Q4,gdp_deflator,75.6715168486332
+Italy,ITA,2001-Q4,gdp_deflator,72.4661387648346
+Japan,JPN,2001-Q4,gdp_deflator,107.67408842897
+Latvia,LVA,2001-Q4,gdp_deflator,44.398328190051
+Lithuania,LTU,2001-Q4,gdp_deflator,58.2294667233707
+Luxembourg,LUX,2001-Q4,gdp_deflator,59.0502144289425
+Mexico,MEX,2001-Q4,gdp_deflator,41.9427938110141
+Netherlands,NLD,2001-Q4,gdp_deflator,73.3069288375911
+New Zealand,NZL,2001-Q4,gdp_deflator,64.2410262293317
+Norway,NOR,2001-Q4,gdp_deflator,58.9415498689846
+Poland,POL,2001-Q4,gdp_deflator,72.673428624098
+Portugal,PRT,2001-Q4,gdp_deflator,69.6668280313293
+Slovakia,SVK,2001-Q4,gdp_deflator,70.6808766535971
+Slovenia,SVN,2001-Q4,gdp_deflator,65.0620207351987
+South Korea,KOR,2001-Q4,gdp_deflator,70.0856822344375
+Spain,ESP,2001-Q4,gdp_deflator,72.5403368101658
+Sweden,SWE,2001-Q4,gdp_deflator,71.455460723494
+Switzerland,CHE,2001-Q4,gdp_deflator,94.3132463026326
+Turkey,TUR,2001-Q4,gdp_deflator,35.6743724771031
+United Kingdom,GBR,2001-Q4,gdp_deflator,65.557354667458
+United States,USA,2001-Q4,gdp_deflator,70.5762286551007
+Australia,AUS,2002-Q4,gdp_deflator,50.9421149766866
+Austria,AUT,2002-Q4,gdp_deflator,72.1329509378888
+Belgium,BEL,2002-Q4,gdp_deflator,73.2925157149708
+Canada,CAN,2002-Q4,gdp_deflator,70.9590439115051
+Chile,CHL,2002-Q4,gdp_deflator,47.5781540876278
+Colombia,COL,2002-Q4,gdp_deflator,54.6753954825322
+Costa Rica,CRI,2002-Q4,gdp_deflator,32.6772763273692
+Czechia,CZE,2002-Q4,gdp_deflator,71.0397812015527
+Denmark,DNK,2002-Q4,gdp_deflator,74.1748834568037
+Estonia,EST,2002-Q4,gdp_deflator,47.0612943591685
+Finland,FIN,2002-Q4,gdp_deflator,75.8429027390339
+France,FRA,2002-Q4,gdp_deflator,78.772228969585
+Germany,DEU,2002-Q4,gdp_deflator,77.5819033845692
+Greece,GRC,2002-Q4,gdp_deflator,83.2599725939731
+Hungary,HUN,2002-Q4,gdp_deflator,50.710024539645
+Iceland,ISL,2002-Q4,gdp_deflator,43.5722010899979
+Ireland,IRL,2002-Q4,gdp_deflator,80.3822245788239
+Israel,ISR,2002-Q4,gdp_deflator,79.2458126961973
+Italy,ITA,2002-Q4,gdp_deflator,74.8611501763971
+Japan,JPN,2002-Q4,gdp_deflator,106.176364884669
+Latvia,LVA,2002-Q4,gdp_deflator,45.8452716088704
+Lithuania,LTU,2002-Q4,gdp_deflator,58.4129789777754
+Luxembourg,LUX,2002-Q4,gdp_deflator,59.9149517989606
+Mexico,MEX,2002-Q4,gdp_deflator,44.2506222688697
+Netherlands,NLD,2002-Q4,gdp_deflator,76.1495468980747
+New Zealand,NZL,2002-Q4,gdp_deflator,64.4327255729756
+Norway,NOR,2002-Q4,gdp_deflator,58.0455164577213
+Poland,POL,2002-Q4,gdp_deflator,73.9925019429888
+Portugal,PRT,2002-Q4,gdp_deflator,72.5857154891238
+Slovakia,SVK,2002-Q4,gdp_deflator,73.540792148156
+Slovenia,SVN,2002-Q4,gdp_deflator,70.0196228351541
+South Korea,KOR,2002-Q4,gdp_deflator,72.1950241675327
+Spain,ESP,2002-Q4,gdp_deflator,75.5084714183419
+Sweden,SWE,2002-Q4,gdp_deflator,72.6155235618669
+Switzerland,CHE,2002-Q4,gdp_deflator,94.0779689634921
+Turkey,TUR,2002-Q4,gdp_deflator,49.0851262830098
+United Kingdom,GBR,2002-Q4,gdp_deflator,66.9265866499357
+United States,USA,2002-Q4,gdp_deflator,71.6730067298002
+Australia,AUS,2003-Q4,gdp_deflator,52.4640926927986
+Austria,AUT,2003-Q4,gdp_deflator,73.0468773689386
+Belgium,BEL,2003-Q4,gdp_deflator,74.6485124728231
+Canada,CAN,2003-Q4,gdp_deflator,73.2650262297999
+Chile,CHL,2003-Q4,gdp_deflator,49.6241578683936
+Colombia,COL,2003-Q4,gdp_deflator,58.409186355082
+Costa Rica,CRI,2003-Q4,gdp_deflator,36.1568301519079
+Czechia,CZE,2003-Q4,gdp_deflator,72.0432046088171
+Denmark,DNK,2003-Q4,gdp_deflator,75.2834535556671
+Estonia,EST,2003-Q4,gdp_deflator,48.8916895877854
+Finland,FIN,2003-Q4,gdp_deflator,75.9869913259963
+France,FRA,2003-Q4,gdp_deflator,80.1912157130637
+Germany,DEU,2003-Q4,gdp_deflator,78.6072659148563
+Greece,GRC,2003-Q4,gdp_deflator,86.2228522352232
+Hungary,HUN,2003-Q4,gdp_deflator,53.4538524945474
+Iceland,ISL,2003-Q4,gdp_deflator,43.7854308914686
+Ireland,IRL,2003-Q4,gdp_deflator,83.5265602386311
+Israel,ISR,2003-Q4,gdp_deflator,78.7255773178108
+Italy,ITA,2003-Q4,gdp_deflator,77.2322007081547
+Japan,JPN,2003-Q4,gdp_deflator,104.469363529724
+Latvia,LVA,2003-Q4,gdp_deflator,47.5165596213673
+Lithuania,LTU,2003-Q4,gdp_deflator,57.9384663741822
+Luxembourg,LUX,2003-Q4,gdp_deflator,61.2246785955478
+Mexico,MEX,2003-Q4,gdp_deflator,46.144401651712
+Netherlands,NLD,2003-Q4,gdp_deflator,77.8903915076155
+New Zealand,NZL,2003-Q4,gdp_deflator,65.7660444808607
+Norway,NOR,2003-Q4,gdp_deflator,59.7060961255873
+Poland,POL,2003-Q4,gdp_deflator,74.5656904537957
+Portugal,PRT,2003-Q4,gdp_deflator,75.0733394328639
+Slovakia,SVK,2003-Q4,gdp_deflator,77.545882260628
+Slovenia,SVN,2003-Q4,gdp_deflator,73.9851545977449
+South Korea,KOR,2003-Q4,gdp_deflator,74.7685914082885
+Spain,ESP,2003-Q4,gdp_deflator,78.5318047337278
+Sweden,SWE,2003-Q4,gdp_deflator,73.9573352022909
+Switzerland,CHE,2003-Q4,gdp_deflator,95.1878624479283
+Turkey,TUR,2003-Q4,gdp_deflator,60.5162629970376
+United Kingdom,GBR,2003-Q4,gdp_deflator,68.5226114764201
+United States,USA,2003-Q4,gdp_deflator,73.0879735309766
+Australia,AUS,2004-Q4,gdp_deflator,54.159196452094
+Austria,AUT,2004-Q4,gdp_deflator,74.3090996254643
+Belgium,BEL,2004-Q4,gdp_deflator,76.078022984393
+Canada,CAN,2004-Q4,gdp_deflator,75.6541063405699
+Chile,CHL,2004-Q4,gdp_deflator,53.110136707574
+Colombia,COL,2004-Q4,gdp_deflator,62.6631469099713
+Costa Rica,CRI,2004-Q4,gdp_deflator,40.9838933205356
+Czechia,CZE,2004-Q4,gdp_deflator,74.9660770997298
+Denmark,DNK,2004-Q4,gdp_deflator,76.8530303047804
+Estonia,EST,2004-Q4,gdp_deflator,51.1844453098802
+Finland,FIN,2004-Q4,gdp_deflator,76.4446152235049
+France,FRA,2004-Q4,gdp_deflator,81.5012509359315
+Germany,DEU,2004-Q4,gdp_deflator,79.5154476261897
+Greece,GRC,2004-Q4,gdp_deflator,88.7826454999877
+Hungary,HUN,2004-Q4,gdp_deflator,56.2028523518734
+Iceland,ISL,2004-Q4,gdp_deflator,44.951038638733
+Ireland,IRL,2004-Q4,gdp_deflator,83.9570033409643
+Israel,ISR,2004-Q4,gdp_deflator,78.9053900571096
+Italy,ITA,2004-Q4,gdp_deflator,79.2632225596416
+Japan,JPN,2004-Q4,gdp_deflator,103.294327230631
+Latvia,LVA,2004-Q4,gdp_deflator,50.8070771894683
+Lithuania,LTU,2004-Q4,gdp_deflator,59.7468107300895
+Luxembourg,LUX,2004-Q4,gdp_deflator,63.1332530074556
+Mexico,MEX,2004-Q4,gdp_deflator,49.8901472327311
+Netherlands,NLD,2004-Q4,gdp_deflator,78.8230897866484
+New Zealand,NZL,2004-Q4,gdp_deflator,67.5805381604771
+Norway,NOR,2004-Q4,gdp_deflator,63.1990256327812
+Poland,POL,2004-Q4,gdp_deflator,78.2441027620446
+Portugal,PRT,2004-Q4,gdp_deflator,76.8748104113297
+Slovakia,SVK,2004-Q4,gdp_deflator,82.12519815216
+Slovenia,SVN,2004-Q4,gdp_deflator,76.4697035485878
+South Korea,KOR,2004-Q4,gdp_deflator,77.2066700593696
+Spain,ESP,2004-Q4,gdp_deflator,81.6037064517537
+Sweden,SWE,2004-Q4,gdp_deflator,74.2639658205368
+Switzerland,CHE,2004-Q4,gdp_deflator,95.4702156890628
+Turkey,TUR,2004-Q4,gdp_deflator,67.9990881989993
+United Kingdom,GBR,2004-Q4,gdp_deflator,70.3936485890577
+United States,USA,2004-Q4,gdp_deflator,75.0534080916356
+Australia,AUS,2005-Q4,gdp_deflator,56.2308075887598
+Austria,AUT,2005-Q4,gdp_deflator,76.1905821350589
+Belgium,BEL,2005-Q4,gdp_deflator,77.6627839983968
+Canada,CAN,2005-Q4,gdp_deflator,78.0119713235081
+Chile,CHL,2005-Q4,gdp_deflator,56.8917459252081
+Colombia,COL,2005-Q4,gdp_deflator,65.641649169763
+Costa Rica,CRI,2005-Q4,gdp_deflator,46.3172607379768
+Czechia,CZE,2005-Q4,gdp_deflator,75.0543880150086
+Denmark,DNK,2005-Q4,gdp_deflator,79.0801913165055
+Estonia,EST,2005-Q4,gdp_deflator,54.2165577750372
+Finland,FIN,2005-Q4,gdp_deflator,77.1550718219089
+France,FRA,2005-Q4,gdp_deflator,83.1003897217882
+Germany,DEU,2005-Q4,gdp_deflator,79.9404797445523
+Greece,GRC,2005-Q4,gdp_deflator,90.4698867776271
+Hungary,HUN,2005-Q4,gdp_deflator,57.6768866387418
+Iceland,ISL,2005-Q4,gdp_deflator,46.2733181328281
+Ireland,IRL,2005-Q4,gdp_deflator,86.5371790594748
+Israel,ISR,2005-Q4,gdp_deflator,79.7228375399248
+Italy,ITA,2005-Q4,gdp_deflator,80.9152302349763
+Japan,JPN,2005-Q4,gdp_deflator,102.060974700593
+Latvia,LVA,2005-Q4,gdp_deflator,56.1140483718471
+Lithuania,LTU,2005-Q4,gdp_deflator,63.5545649089062
+Luxembourg,LUX,2005-Q4,gdp_deflator,66.1745882295762
+Mexico,MEX,2005-Q4,gdp_deflator,52.8261737886289
+Netherlands,NLD,2005-Q4,gdp_deflator,80.3834638936689
+New Zealand,NZL,2005-Q4,gdp_deflator,68.9325396629479
+Norway,NOR,2005-Q4,gdp_deflator,68.7371588579326
+Poland,POL,2005-Q4,gdp_deflator,80.2965196027392
+Portugal,PRT,2005-Q4,gdp_deflator,79.436973958529
+Slovakia,SVK,2005-Q4,gdp_deflator,84.2986964727908
+Slovenia,SVN,2005-Q4,gdp_deflator,77.6190408931432
+South Korea,KOR,2005-Q4,gdp_deflator,78.0852311236939
+Spain,ESP,2005-Q4,gdp_deflator,85.0416081013475
+Sweden,SWE,2005-Q4,gdp_deflator,74.8316935157712
+Switzerland,CHE,2005-Q4,gdp_deflator,96.3529697466938
+Turkey,TUR,2005-Q4,gdp_deflator,72.7948427268321
+United Kingdom,GBR,2005-Q4,gdp_deflator,72.4097193466476
+United States,USA,2005-Q4,gdp_deflator,77.4067043692205
+Australia,AUS,2006-Q4,gdp_deflator,59.1051374906662
+Austria,AUT,2006-Q4,gdp_deflator,77.7483899999477
+Belgium,BEL,2006-Q4,gdp_deflator,79.4216256406949
+Canada,CAN,2006-Q4,gdp_deflator,80.0170137326723
+Chile,CHL,2006-Q4,gdp_deflator,63.9178173345423
+Colombia,COL,2006-Q4,gdp_deflator,69.4538935451873
+Costa Rica,CRI,2006-Q4,gdp_deflator,52.3312376814048
+Czechia,CZE,2006-Q4,gdp_deflator,75.567189741234
+Denmark,DNK,2006-Q4,gdp_deflator,80.7318219347411
+Estonia,EST,2006-Q4,gdp_deflator,59.0844660441024
+Finland,FIN,2006-Q4,gdp_deflator,77.8650375265328
+France,FRA,2006-Q4,gdp_deflator,84.7602198965717
+Germany,DEU,2006-Q4,gdp_deflator,80.2893511490106
+Greece,GRC,2006-Q4,gdp_deflator,93.5137786948896
+Hungary,HUN,2006-Q4,gdp_deflator,59.794953306412
+Iceland,ISL,2006-Q4,gdp_deflator,50.2892515650725
+Ireland,IRL,2006-Q4,gdp_deflator,89.496662181466
+Israel,ISR,2006-Q4,gdp_deflator,80.7399974319349
+Italy,ITA,2006-Q4,gdp_deflator,82.708223885627
+Japan,JPN,2006-Q4,gdp_deflator,101.181190330486
+Latvia,LVA,2006-Q4,gdp_deflator,61.8524870365407
+Lithuania,LTU,2006-Q4,gdp_deflator,67.6761219798138
+Luxembourg,LUX,2006-Q4,gdp_deflator,70.4459427405825
+Mexico,MEX,2006-Q4,gdp_deflator,56.0523497579466
+Netherlands,NLD,2006-Q4,gdp_deflator,82.4546412238469
+New Zealand,NZL,2006-Q4,gdp_deflator,70.8003531587672
+Norway,NOR,2006-Q4,gdp_deflator,74.7394169745128
+Poland,POL,2006-Q4,gdp_deflator,81.7029408567758
+Portugal,PRT,2006-Q4,gdp_deflator,81.966677351326
+Slovakia,SVK,2006-Q4,gdp_deflator,86.7395985171853
+Slovenia,SVN,2006-Q4,gdp_deflator,79.3449798145244
+South Korea,KOR,2006-Q4,gdp_deflator,77.9577961881717
+Spain,ESP,2006-Q4,gdp_deflator,88.5049180847607
+Sweden,SWE,2006-Q4,gdp_deflator,76.1382519677501
+Switzerland,CHE,2006-Q4,gdp_deflator,98.4248072024261
+Turkey,TUR,2006-Q4,gdp_deflator,79.587013998625
+United Kingdom,GBR,2006-Q4,gdp_deflator,74.6366990328632
+United States,USA,2006-Q4,gdp_deflator,79.7938101370831
+Australia,AUS,2007-Q4,gdp_deflator,62.05129575906
+Austria,AUT,2007-Q4,gdp_deflator,79.5049367407634
+Belgium,BEL,2007-Q4,gdp_deflator,80.9557959960184
+Canada,CAN,2007-Q4,gdp_deflator,82.6580117728667
+Chile,CHL,2007-Q4,gdp_deflator,67.1704397811562
+Colombia,COL,2007-Q4,gdp_deflator,73.0669085713019
+Costa Rica,CRI,2007-Q4,gdp_deflator,57.8348019319769
+Czechia,CZE,2007-Q4,gdp_deflator,78.2580401790307
+Denmark,DNK,2007-Q4,gdp_deflator,82.6894180826353
+Estonia,EST,2007-Q4,gdp_deflator,66.3838588049349
+Finland,FIN,2007-Q4,gdp_deflator,80.0097507539653
+France,FRA,2007-Q4,gdp_deflator,86.781776741465
+Germany,DEU,2007-Q4,gdp_deflator,81.7671045196017
+Greece,GRC,2007-Q4,gdp_deflator,96.6624846846638
+Hungary,HUN,2007-Q4,gdp_deflator,63.0477068664895
+Iceland,ISL,2007-Q4,gdp_deflator,52.4538801915353
+Ireland,IRL,2007-Q4,gdp_deflator,90.5692689168943
+Israel,ISR,2007-Q4,gdp_deflator,81.3715758952222
+Italy,ITA,2007-Q4,gdp_deflator,84.7484247970932
+Japan,JPN,2007-Q4,gdp_deflator,100.467616514456
+Latvia,LVA,2007-Q4,gdp_deflator,73.9449485837913
+Lithuania,LTU,2007-Q4,gdp_deflator,73.7074910676766
+Luxembourg,LUX,2007-Q4,gdp_deflator,71.7791187480097
+Mexico,MEX,2007-Q4,gdp_deflator,59.4871212490956
+Netherlands,NLD,2007-Q4,gdp_deflator,84.1444893406763
+New Zealand,NZL,2007-Q4,gdp_deflator,74.5595619535767
+Norway,NOR,2007-Q4,gdp_deflator,77.0396435975086
+Poland,POL,2007-Q4,gdp_deflator,84.8036830706629
+Portugal,PRT,2007-Q4,gdp_deflator,84.3980924111479
+Slovakia,SVK,2007-Q4,gdp_deflator,87.7611546430199
+Slovenia,SVN,2007-Q4,gdp_deflator,82.6776687075391
+South Korea,KOR,2007-Q4,gdp_deflator,79.9153400170038
+Spain,ESP,2007-Q4,gdp_deflator,91.6567854062431
+Sweden,SWE,2007-Q4,gdp_deflator,78.3646633307836
+Switzerland,CHE,2007-Q4,gdp_deflator,100.764425274626
+Turkey,TUR,2007-Q4,gdp_deflator,84.5601944812786
+United Kingdom,GBR,2007-Q4,gdp_deflator,76.1245155236341
+United States,USA,2007-Q4,gdp_deflator,81.955601090256
+Australia,AUS,2008-Q4,gdp_deflator,64.8856168435935
+Austria,AUT,2008-Q4,gdp_deflator,81.0423958239972
+Belgium,BEL,2008-Q4,gdp_deflator,82.5011363918889
+Canada,CAN,2008-Q4,gdp_deflator,85.9612875066086
+Chile,CHL,2008-Q4,gdp_deflator,67.3794288488586
+Colombia,COL,2008-Q4,gdp_deflator,78.6765349266072
+Costa Rica,CRI,2008-Q4,gdp_deflator,64.4417258138902
+Czechia,CZE,2008-Q4,gdp_deflator,79.843807224608
+Denmark,DNK,2008-Q4,gdp_deflator,86.2072399538841
+Estonia,EST,2008-Q4,gdp_deflator,70.8947143495688
+Finland,FIN,2008-Q4,gdp_deflator,82.4401160744001
+France,FRA,2008-Q4,gdp_deflator,88.7784511557395
+Germany,DEU,2008-Q4,gdp_deflator,82.547782760842
+Greece,GRC,2008-Q4,gdp_deflator,100.589773995993
+Hungary,HUN,2008-Q4,gdp_deflator,66.073985204598
+Iceland,ISL,2008-Q4,gdp_deflator,58.8450121014486
+Ireland,IRL,2008-Q4,gdp_deflator,90.1123238866331
+Israel,ISR,2008-Q4,gdp_deflator,82.4776037199575
+Italy,ITA,2008-Q4,gdp_deflator,86.7862811556124
+Japan,JPN,2008-Q4,gdp_deflator,99.5518237598966
+Latvia,LVA,2008-Q4,gdp_deflator,83.0951914802976
+Lithuania,LTU,2008-Q4,gdp_deflator,80.8689690744837
+Luxembourg,LUX,2008-Q4,gdp_deflator,76.5236932282996
+Mexico,MEX,2008-Q4,gdp_deflator,63.2409856145566
+Netherlands,NLD,2008-Q4,gdp_deflator,86.1742783713436
+New Zealand,NZL,2008-Q4,gdp_deflator,76.6039933842002
+Norway,NOR,2008-Q4,gdp_deflator,85.1799474211191
+Poland,POL,2008-Q4,gdp_deflator,88.1401112062654
+Portugal,PRT,2008-Q4,gdp_deflator,85.864699058659
+Slovakia,SVK,2008-Q4,gdp_deflator,90.381143250589
+Slovenia,SVN,2008-Q4,gdp_deflator,86.4023099799195
+South Korea,KOR,2008-Q4,gdp_deflator,82.2640127046398
+Spain,ESP,2008-Q4,gdp_deflator,93.9042497963525
+Sweden,SWE,2008-Q4,gdp_deflator,80.9989657439396
+Switzerland,CHE,2008-Q4,gdp_deflator,102.225436940369
+Turkey,TUR,2008-Q4,gdp_deflator,94.7147549450347
+United Kingdom,GBR,2008-Q4,gdp_deflator,78.6402065744694
+United States,USA,2008-Q4,gdp_deflator,83.534630797153
+Australia,AUS,2009-Q4,gdp_deflator,68.1244388076992
+Austria,AUT,2009-Q4,gdp_deflator,82.4520414231565
+Belgium,BEL,2009-Q4,gdp_deflator,83.1461477452248
+Canada,CAN,2009-Q4,gdp_deflator,83.9627545390004
+Chile,CHL,2009-Q4,gdp_deflator,69.7901267133679
+Colombia,COL,2009-Q4,gdp_deflator,81.8741266960053
+Costa Rica,CRI,2009-Q4,gdp_deflator,70.6934308842122
+Czechia,CZE,2009-Q4,gdp_deflator,81.9558242984015
+Denmark,DNK,2009-Q4,gdp_deflator,86.7001291368113
+Estonia,EST,2009-Q4,gdp_deflator,70.6199072742011
+Finland,FIN,2009-Q4,gdp_deflator,83.9036141356558
+France,FRA,2009-Q4,gdp_deflator,88.872521814014
+Germany,DEU,2009-Q4,gdp_deflator,84.1764527217182
+Greece,GRC,2009-Q4,gdp_deflator,102.972176710734
+Hungary,HUN,2009-Q4,gdp_deflator,68.8581274626942
+Iceland,ISL,2009-Q4,gdp_deflator,65.3345539675934
+Ireland,IRL,2009-Q4,gdp_deflator,85.9449906513371
+Israel,ISR,2009-Q4,gdp_deflator,86.1274229411145
+Italy,ITA,2009-Q4,gdp_deflator,88.3245986714958
+Japan,JPN,2009-Q4,gdp_deflator,98.9848114900463
+Latvia,LVA,2009-Q4,gdp_deflator,78.3324876004024
+Lithuania,LTU,2009-Q4,gdp_deflator,78.3704960027744
+Luxembourg,LUX,2009-Q4,gdp_deflator,77.1899758201318
+Mexico,MEX,2009-Q4,gdp_deflator,66.5570155902349
+Netherlands,NLD,2009-Q4,gdp_deflator,86.5514291728292
+New Zealand,NZL,2009-Q4,gdp_deflator,78.6227870853824
+Norway,NOR,2009-Q4,gdp_deflator,80.8221890301668
+Poland,POL,2009-Q4,gdp_deflator,91.5666888165411
+Portugal,PRT,2009-Q4,gdp_deflator,86.80760908743
+Slovakia,SVK,2009-Q4,gdp_deflator,89.3665494438129
+Slovenia,SVN,2009-Q4,gdp_deflator,88.7635462492342
+South Korea,KOR,2009-Q4,gdp_deflator,85.1446530301067
+Spain,ESP,2009-Q4,gdp_deflator,94.1214344485906
+Sweden,SWE,2009-Q4,gdp_deflator,82.9096772664862
+Switzerland,CHE,2009-Q4,gdp_deflator,102.693163162363
+Turkey,TUR,2009-Q4,gdp_deflator,100
+United Kingdom,GBR,2009-Q4,gdp_deflator,80.2188698743616
+United States,USA,2009-Q4,gdp_deflator,84.0498675615202
+Australia,AUS,2010-Q4,gdp_deflator,68.9182164494048
+Austria,AUT,2010-Q4,gdp_deflator,83.186968373104
+Belgium,BEL,2010-Q4,gdp_deflator,84.5622134834913
+Canada,CAN,2010-Q4,gdp_deflator,86.3545492990403
+Chile,CHL,2010-Q4,gdp_deflator,75.971746352399
+Colombia,COL,2010-Q4,gdp_deflator,84.9893228316444
+Costa Rica,CRI,2010-Q4,gdp_deflator,75.379588744977
+Czechia,CZE,2010-Q4,gdp_deflator,81.558235862026
+Denmark,DNK,2010-Q4,gdp_deflator,89.4631406927186
+Estonia,EST,2010-Q4,gdp_deflator,71.9027445072323
+Finland,FIN,2010-Q4,gdp_deflator,84.1963311464477
+France,FRA,2010-Q4,gdp_deflator,89.8407403246603
+Germany,DEU,2010-Q4,gdp_deflator,84.7654858884764
+Greece,GRC,2010-Q4,gdp_deflator,104.188196411618
+Hungary,HUN,2010-Q4,gdp_deflator,70.6010701221195
+Iceland,ISL,2010-Q4,gdp_deflator,69.6153096891789
+Ireland,IRL,2010-Q4,gdp_deflator,83.3933467207057
+Israel,ISR,2010-Q4,gdp_deflator,87.1530782081942
+Italy,ITA,2010-Q4,gdp_deflator,88.8526381897957
+Japan,JPN,2010-Q4,gdp_deflator,97.1231626161631
+Latvia,LVA,2010-Q4,gdp_deflator,77.9534669936907
+Lithuania,LTU,2010-Q4,gdp_deflator,80.0332996720228
+Luxembourg,LUX,2010-Q4,gdp_deflator,80.7780881671812
+Mexico,MEX,2010-Q4,gdp_deflator,69.467530188026
+Netherlands,NLD,2010-Q4,gdp_deflator,87.1661804383557
+New Zealand,NZL,2010-Q4,gdp_deflator,81.1070523810651
+Norway,NOR,2010-Q4,gdp_deflator,85.6354424145776
+Poland,POL,2010-Q4,gdp_deflator,93.0127258364339
+Portugal,PRT,2010-Q4,gdp_deflator,87.4865625138886
+Slovakia,SVK,2010-Q4,gdp_deflator,89.7870445760179
+Slovenia,SVN,2010-Q4,gdp_deflator,88.3273005414751
+South Korea,KOR,2010-Q4,gdp_deflator,87.4596600887961
+Spain,ESP,2010-Q4,gdp_deflator,94.3970575218718
+Sweden,SWE,2010-Q4,gdp_deflator,83.7638413807076
+Switzerland,CHE,2010-Q4,gdp_deflator,103.014322421376
+Turkey,TUR,2010-Q4,gdp_deflator,106.905064723667
+United Kingdom,GBR,2010-Q4,gdp_deflator,81.2844743738279
+United States,USA,2010-Q4,gdp_deflator,85.0712894921235
+Australia,AUS,2011-Q4,gdp_deflator,73.1903901704372
+Austria,AUT,2011-Q4,gdp_deflator,84.700919154098
+Belgium,BEL,2011-Q4,gdp_deflator,86.5008205972889
+Canada,CAN,2011-Q4,gdp_deflator,89.1562839154209
+Chile,CHL,2011-Q4,gdp_deflator,78.4488164363178
+Colombia,COL,2011-Q4,gdp_deflator,90.4174237688204
+Costa Rica,CRI,2011-Q4,gdp_deflator,78.8419429664093
+Czechia,CZE,2011-Q4,gdp_deflator,81.3778833490047
+Denmark,DNK,2011-Q4,gdp_deflator,90.0414128486929
+Estonia,EST,2011-Q4,gdp_deflator,75.8855631219665
+Finland,FIN,2011-Q4,gdp_deflator,86.3862174353177
+France,FRA,2011-Q4,gdp_deflator,90.6057147898678
+Germany,DEU,2011-Q4,gdp_deflator,85.8078762615756
+Greece,GRC,2011-Q4,gdp_deflator,105.205758561532
+Hungary,HUN,2011-Q4,gdp_deflator,71.9618772743046
+Iceland,ISL,2011-Q4,gdp_deflator,72.0188887632293
+Ireland,IRL,2011-Q4,gdp_deflator,84.951061102553
+Israel,ISR,2011-Q4,gdp_deflator,88.4127773770809
+Italy,ITA,2011-Q4,gdp_deflator,90.3887081237109
+Japan,JPN,2011-Q4,gdp_deflator,95.5477469770773
+Latvia,LVA,2011-Q4,gdp_deflator,81.6235997059251
+Lithuania,LTU,2011-Q4,gdp_deflator,84.5329951045238
+Luxembourg,LUX,2011-Q4,gdp_deflator,83.5644974809593
+Mexico,MEX,2011-Q4,gdp_deflator,73.4060846718906
+Netherlands,NLD,2011-Q4,gdp_deflator,87.3776942641168
+New Zealand,NZL,2011-Q4,gdp_deflator,83.1125892658028
+Norway,NOR,2011-Q4,gdp_deflator,91.3497156482466
+Poland,POL,2011-Q4,gdp_deflator,95.8642305024953
+Portugal,PRT,2011-Q4,gdp_deflator,87.2587165453281
+Slovakia,SVK,2011-Q4,gdp_deflator,91.2413886477063
+Slovenia,SVN,2011-Q4,gdp_deflator,89.5325445823582
+South Korea,KOR,2011-Q4,gdp_deflator,88.574996543707
+Spain,ESP,2011-Q4,gdp_deflator,94.2592767360777
+Sweden,SWE,2011-Q4,gdp_deflator,84.6997491346139
+Switzerland,CHE,2011-Q4,gdp_deflator,102.993252873952
+Turkey,TUR,2011-Q4,gdp_deflator,115.817265701763
+United Kingdom,GBR,2011-Q4,gdp_deflator,83.2970439721691
+United States,USA,2011-Q4,gdp_deflator,86.8264195702127
+Australia,AUS,2012-Q4,gdp_deflator,74.5058309694268
+Austria,AUT,2012-Q4,gdp_deflator,86.4725784355943
+Belgium,BEL,2012-Q4,gdp_deflator,88.4088007042897
+Canada,CAN,2012-Q4,gdp_deflator,90.2426030766384
+Chile,CHL,2012-Q4,gdp_deflator,79.0477470111836
+Colombia,COL,2012-Q4,gdp_deflator,93.6875101031044
+Costa Rica,CRI,2012-Q4,gdp_deflator,82.5740311746088
+Czechia,CZE,2012-Q4,gdp_deflator,82.4711057782036
+Denmark,DNK,2012-Q4,gdp_deflator,92.2094683543948
+Estonia,EST,2012-Q4,gdp_deflator,79.0769531034296
+Finland,FIN,2012-Q4,gdp_deflator,88.9305904548191
+France,FRA,2012-Q4,gdp_deflator,91.5861111187861
+Germany,DEU,2012-Q4,gdp_deflator,87.0403658745051
+Greece,GRC,2012-Q4,gdp_deflator,104.853771733192
+Hungary,HUN,2012-Q4,gdp_deflator,74.0323101015731
+Iceland,ISL,2012-Q4,gdp_deflator,74.5448180425393
+Ireland,IRL,2012-Q4,gdp_deflator,87.0217254617412
+Israel,ISR,2012-Q4,gdp_deflator,91.4378739352603
+Italy,ITA,2012-Q4,gdp_deflator,91.9274672532375
+Japan,JPN,2012-Q4,gdp_deflator,94.8253170364396
+Latvia,LVA,2012-Q4,gdp_deflator,83.9731899519099
+Lithuania,LTU,2012-Q4,gdp_deflator,86.6506995793246
+Luxembourg,LUX,2012-Q4,gdp_deflator,86.2936949318525
+Mexico,MEX,2012-Q4,gdp_deflator,76.7403468150886
+Netherlands,NLD,2012-Q4,gdp_deflator,88.5390570806176
+New Zealand,NZL,2012-Q4,gdp_deflator,82.9638803818652
+Norway,NOR,2012-Q4,gdp_deflator,94.4127532064493
+Poland,POL,2012-Q4,gdp_deflator,97.9573622966911
+Portugal,PRT,2012-Q4,gdp_deflator,86.9302728368678
+Slovakia,SVK,2012-Q4,gdp_deflator,92.4630035338618
+Slovenia,SVN,2012-Q4,gdp_deflator,90.0935721515477
+South Korea,KOR,2012-Q4,gdp_deflator,89.7194589335156
+Spain,ESP,2012-Q4,gdp_deflator,94.0679728283027
+Sweden,SWE,2012-Q4,gdp_deflator,85.5039551802105
+Switzerland,CHE,2012-Q4,gdp_deflator,103.058880426106
+Turkey,TUR,2012-Q4,gdp_deflator,124.264298226205
+United Kingdom,GBR,2012-Q4,gdp_deflator,84.5862894985228
+United States,USA,2012-Q4,gdp_deflator,88.4433048196262
+Australia,AUS,2013-Q4,gdp_deflator,74.4080251953808
+Austria,AUT,2013-Q4,gdp_deflator,87.9501551699023
+Belgium,BEL,2013-Q4,gdp_deflator,89.6575658680975
+Canada,CAN,2013-Q4,gdp_deflator,91.8134902987274
+Chile,CHL,2013-Q4,gdp_deflator,80.8348352428658
+Colombia,COL,2013-Q4,gdp_deflator,95.4747646532672
+Costa Rica,CRI,2013-Q4,gdp_deflator,86.3643539939481
+Czechia,CZE,2013-Q4,gdp_deflator,83.5197982868971
+Denmark,DNK,2013-Q4,gdp_deflator,92.9904007246024
+Estonia,EST,2013-Q4,gdp_deflator,82.3380501873219
+Finland,FIN,2013-Q4,gdp_deflator,91.2084534047575
+France,FRA,2013-Q4,gdp_deflator,92.2710614868023
+Germany,DEU,2013-Q4,gdp_deflator,88.7774294826186
+Greece,GRC,2013-Q4,gdp_deflator,102.798300595601
+Hungary,HUN,2013-Q4,gdp_deflator,76.1309851147943
+Iceland,ISL,2013-Q4,gdp_deflator,76.4032130033709
+Ireland,IRL,2013-Q4,gdp_deflator,88.1853453021704
+Israel,ISR,2013-Q4,gdp_deflator,93.1515482153056
+Italy,ITA,2013-Q4,gdp_deflator,92.9623720044883
+Japan,JPN,2013-Q4,gdp_deflator,94.4892797676362
+Latvia,LVA,2013-Q4,gdp_deflator,85.5691253595764
+Lithuania,LTU,2013-Q4,gdp_deflator,87.3732169854565
+Luxembourg,LUX,2013-Q4,gdp_deflator,88.2577610785496
+Mexico,MEX,2013-Q4,gdp_deflator,78.0479123747548
+Netherlands,NLD,2013-Q4,gdp_deflator,89.5527650413062
+New Zealand,NZL,2013-Q4,gdp_deflator,86.4345606432113
+Norway,NOR,2013-Q4,gdp_deflator,96.8233363485677
+Poland,POL,2013-Q4,gdp_deflator,98.2228030329837
+Portugal,PRT,2013-Q4,gdp_deflator,88.9074034021545
+Slovakia,SVK,2013-Q4,gdp_deflator,92.9568131798679
+Slovenia,SVN,2013-Q4,gdp_deflator,91.1141496033147
+South Korea,KOR,2013-Q4,gdp_deflator,90.6857718875055
+Spain,ESP,2013-Q4,gdp_deflator,94.4801551990007
+Sweden,SWE,2013-Q4,gdp_deflator,86.3689819677225
+Switzerland,CHE,2013-Q4,gdp_deflator,102.969381423632
+Turkey,TUR,2013-Q4,gdp_deflator,131.952560547135
+United Kingdom,GBR,2013-Q4,gdp_deflator,86.4108900194114
+United States,USA,2013-Q4,gdp_deflator,89.7487160614506
+Australia,AUS,2014-Q4,gdp_deflator,75.4624096602889
+Austria,AUT,2014-Q4,gdp_deflator,89.7150897479378
+Belgium,BEL,2014-Q4,gdp_deflator,90.4110442322977
+Canada,CAN,2014-Q4,gdp_deflator,93.5957728281348
+Chile,CHL,2014-Q4,gdp_deflator,85.5660105453844
+Colombia,COL,2014-Q4,gdp_deflator,97.6092294031774
+Costa Rica,CRI,2014-Q4,gdp_deflator,91.7249207176699
+Czechia,CZE,2014-Q4,gdp_deflator,85.7804419798355
+Denmark,DNK,2014-Q4,gdp_deflator,93.937699968998
+Estonia,EST,2014-Q4,gdp_deflator,84.6900720653938
+Finland,FIN,2014-Q4,gdp_deflator,92.7085319460865
+France,FRA,2014-Q4,gdp_deflator,92.7977401424006
+Germany,DEU,2014-Q4,gdp_deflator,90.4594991383741
+Greece,GRC,2014-Q4,gdp_deflator,100.821001437819
+Hungary,HUN,2014-Q4,gdp_deflator,78.9403106632317
+Iceland,ISL,2014-Q4,gdp_deflator,79.6216548099914
+Ireland,IRL,2014-Q4,gdp_deflator,88.4140192201743
+Israel,ISR,2014-Q4,gdp_deflator,93.8746569267927
+Italy,ITA,2014-Q4,gdp_deflator,93.801404551964
+Japan,JPN,2014-Q4,gdp_deflator,96.0826475659396
+Latvia,LVA,2014-Q4,gdp_deflator,86.9980862753768
+Lithuania,LTU,2014-Q4,gdp_deflator,87.9054864611062
+Luxembourg,LUX,2014-Q4,gdp_deflator,90.7260671392196
+Mexico,MEX,2014-Q4,gdp_deflator,81.4573331162764
+Netherlands,NLD,2014-Q4,gdp_deflator,89.8608964572882
+New Zealand,NZL,2014-Q4,gdp_deflator,86.8214619428636
+Norway,NOR,2014-Q4,gdp_deflator,97.0734628262487
+Poland,POL,2014-Q4,gdp_deflator,98.6965044902629
+Portugal,PRT,2014-Q4,gdp_deflator,89.5514991025804
+Slovakia,SVK,2014-Q4,gdp_deflator,92.8335501041545
+Slovenia,SVN,2014-Q4,gdp_deflator,91.6895823369998
+South Korea,KOR,2014-Q4,gdp_deflator,91.6391387820936
+Spain,ESP,2014-Q4,gdp_deflator,94.271649970964
+Sweden,SWE,2014-Q4,gdp_deflator,87.9519037400239
+Switzerland,CHE,2014-Q4,gdp_deflator,102.296863743271
+Turkey,TUR,2014-Q4,gdp_deflator,142.030678509985
+United Kingdom,GBR,2014-Q4,gdp_deflator,87.7900213276968
+United States,USA,2014-Q4,gdp_deflator,91.2164244283008
+Australia,AUS,2015-Q4,gdp_deflator,74.9889525144353
+Austria,AUT,2015-Q4,gdp_deflator,91.7719290280246
+Belgium,BEL,2015-Q4,gdp_deflator,91.4253101520778
+Canada,CAN,2015-Q4,gdp_deflator,92.7836878695138
+Chile,CHL,2015-Q4,gdp_deflator,89.8052634772631
+Colombia,COL,2015-Q4,gdp_deflator,100
+Costa Rica,CRI,2015-Q4,gdp_deflator,95.3528389047708
+Czechia,CZE,2015-Q4,gdp_deflator,86.8394328104214
+Denmark,DNK,2015-Q4,gdp_deflator,94.322001841369
+Estonia,EST,2015-Q4,gdp_deflator,85.7964962611494
+Finland,FIN,2015-Q4,gdp_deflator,94.2221863528743
+France,FRA,2015-Q4,gdp_deflator,93.8504749093193
+Germany,DEU,2015-Q4,gdp_deflator,92.0375107259777
+Greece,GRC,2015-Q4,gdp_deflator,100.64481297452
+Hungary,HUN,2015-Q4,gdp_deflator,81.1594474322558
+Iceland,ISL,2015-Q4,gdp_deflator,84.9974143612554
+Ireland,IRL,2015-Q4,gdp_deflator,96.2986156850128
+Israel,ISR,2015-Q4,gdp_deflator,96.0911146643028
+Italy,ITA,2015-Q4,gdp_deflator,94.5356598825873
+Japan,JPN,2015-Q4,gdp_deflator,98.1112395366545
+Latvia,LVA,2015-Q4,gdp_deflator,87.3346709249203
+Lithuania,LTU,2015-Q4,gdp_deflator,87.903506141976
+Luxembourg,LUX,2015-Q4,gdp_deflator,92.7394427000918
+Mexico,MEX,2015-Q4,gdp_deflator,84.0846815017105
+Netherlands,NLD,2015-Q4,gdp_deflator,90.6592502742771
+New Zealand,NZL,2015-Q4,gdp_deflator,88.092500734693
+Norway,NOR,2015-Q4,gdp_deflator,94.3510685160856
+Poland,POL,2015-Q4,gdp_deflator,100
+Portugal,PRT,2015-Q4,gdp_deflator,91.3088998024482
+Slovakia,SVK,2015-Q4,gdp_deflator,92.6611648599253
+Slovenia,SVN,2015-Q4,gdp_deflator,92.4847128540228
+South Korea,KOR,2015-Q4,gdp_deflator,94.597674478002
+Spain,ESP,2015-Q4,gdp_deflator,94.7924459860799
+Sweden,SWE,2015-Q4,gdp_deflator,89.9358918083127
+Switzerland,CHE,2015-Q4,gdp_deflator,101.002750413186
+Turkey,TUR,2015-Q4,gdp_deflator,153.224032628886
+United Kingdom,GBR,2015-Q4,gdp_deflator,88.3774875721393
+United States,USA,2015-Q4,gdp_deflator,91.9150325426168
+Australia,AUS,2016-Q4,gdp_deflator,74.4839637881886
+Austria,AUT,2016-Q4,gdp_deflator,93.4373608656494
+Belgium,BEL,2016-Q4,gdp_deflator,93.158084122665
+Canada,CAN,2016-Q4,gdp_deflator,93.4489266388946
+Chile,CHL,2016-Q4,gdp_deflator,93.9009726474457
+Colombia,COL,2016-Q4,gdp_deflator,105.148334305146
+Costa Rica,CRI,2016-Q4,gdp_deflator,97.2205767509792
+Czechia,CZE,2016-Q4,gdp_deflator,88.1344118797827
+Denmark,DNK,2016-Q4,gdp_deflator,94.724297380394
+Estonia,EST,2016-Q4,gdp_deflator,87.8886666505325
+Finland,FIN,2016-Q4,gdp_deflator,94.274192663407
+France,FRA,2016-Q4,gdp_deflator,94.335924216755
+Germany,DEU,2016-Q4,gdp_deflator,93.191886466528
+Greece,GRC,2016-Q4,gdp_deflator,100.151692497107
+Hungary,HUN,2016-Q4,gdp_deflator,82.2328217670034
+Iceland,ISL,2016-Q4,gdp_deflator,87.2913445593052
+Ireland,IRL,2016-Q4,gdp_deflator,96.4107698852688
+Israel,ISR,2016-Q4,gdp_deflator,96.4261436234678
+Italy,ITA,2016-Q4,gdp_deflator,95.715627369582
+Japan,JPN,2016-Q4,gdp_deflator,98.5232521694806
+Latvia,LVA,2016-Q4,gdp_deflator,87.8656050993108
+Lithuania,LTU,2016-Q4,gdp_deflator,88.7715290251284
+Luxembourg,LUX,2016-Q4,gdp_deflator,91.7122452162654
+Mexico,MEX,2016-Q4,gdp_deflator,89.1950018656993
+Netherlands,NLD,2016-Q4,gdp_deflator,91.1719680071295
+New Zealand,NZL,2016-Q4,gdp_deflator,90.2247595822385
+Norway,NOR,2016-Q4,gdp_deflator,92.8432467624147
+Poland,POL,2016-Q4,gdp_deflator,100.082862448389
+Portugal,PRT,2016-Q4,gdp_deflator,93.0018462723383
+Slovakia,SVK,2016-Q4,gdp_deflator,92.2989437097209
+Slovenia,SVN,2016-Q4,gdp_deflator,93.3036487431222
+South Korea,KOR,2016-Q4,gdp_deflator,96.548710224339
+Spain,ESP,2016-Q4,gdp_deflator,95.1452469189149
+Sweden,SWE,2016-Q4,gdp_deflator,91.4281165121289
+Switzerland,CHE,2016-Q4,gdp_deflator,100.413609839839
+Turkey,TUR,2016-Q4,gdp_deflator,165.677480117358
+United Kingdom,GBR,2016-Q4,gdp_deflator,89.911184784863
+United States,USA,2016-Q4,gdp_deflator,92.6976668789493
+Australia,AUS,2017-Q4,gdp_deflator,77.199823087594
+Austria,AUT,2017-Q4,gdp_deflator,94.3486721777502
+Belgium,BEL,2017-Q4,gdp_deflator,95.0055611847091
+Canada,CAN,2017-Q4,gdp_deflator,95.8515122282831
+Chile,CHL,2017-Q4,gdp_deflator,98.4346917898808
+Colombia,COL,2017-Q4,gdp_deflator,110.546372091236
+Costa Rica,CRI,2017-Q4,gdp_deflator,100
+Czechia,CZE,2017-Q4,gdp_deflator,89.6182609086851
+Denmark,DNK,2017-Q4,gdp_deflator,95.7668507562915
+Estonia,EST,2017-Q4,gdp_deflator,91.1766682162675
+Finland,FIN,2017-Q4,gdp_deflator,95.0623682171237
+France,FRA,2017-Q4,gdp_deflator,94.8890564538999
+Germany,DEU,2017-Q4,gdp_deflator,94.5679711473989
+Greece,GRC,2017-Q4,gdp_deflator,100.355614895143
+Hungary,HUN,2017-Q4,gdp_deflator,85.5528015079503
+Iceland,ISL,2017-Q4,gdp_deflator,88.6650883737399
+Ireland,IRL,2017-Q4,gdp_deflator,97.8511311932151
+Israel,ISR,2017-Q4,gdp_deflator,96.4324612879029
+Italy,ITA,2017-Q4,gdp_deflator,96.395037677377
+Japan,JPN,2017-Q4,gdp_deflator,98.4500006203685
+Latvia,LVA,2017-Q4,gdp_deflator,90.2460951767815
+Lithuania,LTU,2017-Q4,gdp_deflator,92.4074257931527
+Luxembourg,LUX,2017-Q4,gdp_deflator,93.6775510704305
+Mexico,MEX,2017-Q4,gdp_deflator,95.0529682857042
+Netherlands,NLD,2017-Q4,gdp_deflator,92.484230819773
+New Zealand,NZL,2017-Q4,gdp_deflator,93.4860451990841
+Norway,NOR,2017-Q4,gdp_deflator,96.6321326477995
+Poland,POL,2017-Q4,gdp_deflator,101.854532131266
+Portugal,PRT,2017-Q4,gdp_deflator,94.4268213966762
+Slovakia,SVK,2017-Q4,gdp_deflator,93.3897996205045
+Slovenia,SVN,2017-Q4,gdp_deflator,94.5050554704644
+South Korea,KOR,2017-Q4,gdp_deflator,98.4978551044644
+Spain,ESP,2017-Q4,gdp_deflator,96.3421211464971
+Sweden,SWE,2017-Q4,gdp_deflator,93.4628883950176
+Switzerland,CHE,2017-Q4,gdp_deflator,100.044218983244
+Turkey,TUR,2017-Q4,gdp_deflator,184.123036004355
+United Kingdom,GBR,2017-Q4,gdp_deflator,91.2980898191242
+United States,USA,2017-Q4,gdp_deflator,94.2597002690733
+Australia,AUS,2018-Q4,gdp_deflator,78.6250673484219
+Austria,AUT,2018-Q4,gdp_deflator,96.0568359813149
+Belgium,BEL,2018-Q4,gdp_deflator,96.6370749338723
+Canada,CAN,2018-Q4,gdp_deflator,97.4341339729069
+Chile,CHL,2018-Q4,gdp_deflator,100
+Colombia,COL,2018-Q4,gdp_deflator,115.665309926839
+Costa Rica,CRI,2018-Q4,gdp_deflator,102.192478427938
+Czechia,CZE,2018-Q4,gdp_deflator,92.1395450345647
+Denmark,DNK,2018-Q4,gdp_deflator,96.3347694410901
+Estonia,EST,2018-Q4,gdp_deflator,95.5978928919907
+Finland,FIN,2018-Q4,gdp_deflator,96.951313571673
+France,FRA,2018-Q4,gdp_deflator,95.9466835322152
+Germany,DEU,2018-Q4,gdp_deflator,96.3372050564326
+Greece,GRC,2018-Q4,gdp_deflator,100.119979458447
+Hungary,HUN,2018-Q4,gdp_deflator,89.6981632218737
+Iceland,ISL,2018-Q4,gdp_deflator,91.4178061309534
+Ireland,IRL,2018-Q4,gdp_deflator,98.7530425992657
+Israel,ISR,2018-Q4,gdp_deflator,97.0932551307358
+Italy,ITA,2018-Q4,gdp_deflator,97.4270251334841
+Japan,JPN,2018-Q4,gdp_deflator,98.4497667952571
+Latvia,LVA,2018-Q4,gdp_deflator,93.6215506880742
+Lithuania,LTU,2018-Q4,gdp_deflator,95.7276353915743
+Luxembourg,LUX,2018-Q4,gdp_deflator,95.4008321201141
+Mexico,MEX,2018-Q4,gdp_deflator,100
+Netherlands,NLD,2018-Q4,gdp_deflator,94.8272289992223
+New Zealand,NZL,2018-Q4,gdp_deflator,95.1315632127865
+Norway,NOR,2018-Q4,gdp_deflator,103.147964493482
+Poland,POL,2018-Q4,gdp_deflator,103.104285459836
+Portugal,PRT,2018-Q4,gdp_deflator,96.1759568812994
+Slovakia,SVK,2018-Q4,gdp_deflator,95.3590621189007
+Slovenia,SVN,2018-Q4,gdp_deflator,96.566166977325
+South Korea,KOR,2018-Q4,gdp_deflator,99.0559262947421
+Spain,ESP,2018-Q4,gdp_deflator,97.4860438522988
+Sweden,SWE,2018-Q4,gdp_deflator,95.9064340397959
+Switzerland,CHE,2018-Q4,gdp_deflator,100.808846141554
+Turkey,TUR,2018-Q4,gdp_deflator,214.933229774473
+United Kingdom,GBR,2018-Q4,gdp_deflator,93.090057795961
+United States,USA,2018-Q4,gdp_deflator,96.5059595651947
+Australia,AUS,2019-Q4,gdp_deflator,81.3585466868567
+Austria,AUT,2019-Q4,gdp_deflator,97.4724111917686
+Belgium,BEL,2019-Q4,gdp_deflator,98.428958972066
+Canada,CAN,2019-Q4,gdp_deflator,98.9405346031259
+Chile,CHL,2019-Q4,gdp_deflator,102.567787213795
+Colombia,COL,2019-Q4,gdp_deflator,120.294953383022
+Costa Rica,CRI,2019-Q4,gdp_deflator,104.815546908869
+Czechia,CZE,2019-Q4,gdp_deflator,95.6789178699505
+Denmark,DNK,2019-Q4,gdp_deflator,97.2507961543352
+Estonia,EST,2019-Q4,gdp_deflator,99.2522942978791
+Finland,FIN,2019-Q4,gdp_deflator,98.3879953726235
+France,FRA,2019-Q4,gdp_deflator,97.1081402840986
+Germany,DEU,2019-Q4,gdp_deflator,98.272900066236
+Greece,GRC,2019-Q4,gdp_deflator,100.36528920845
+Hungary,HUN,2019-Q4,gdp_deflator,93.9614599919338
+Iceland,ISL,2019-Q4,gdp_deflator,95.8394926578437
+Ireland,IRL,2019-Q4,gdp_deflator,102.107697913788
+Israel,ISR,2019-Q4,gdp_deflator,98.9539510336534
+Italy,ITA,2019-Q4,gdp_deflator,98.44709281329
+Japan,JPN,2019-Q4,gdp_deflator,99.0747290314779
+Latvia,LVA,2019-Q4,gdp_deflator,97.6626143415894
+Lithuania,LTU,2019-Q4,gdp_deflator,98.0019901242151
+Luxembourg,LUX,2019-Q4,gdp_deflator,96.2750571275692
+Mexico,MEX,2019-Q4,gdp_deflator,104.319010227989
+Netherlands,NLD,2019-Q4,gdp_deflator,97.6984872093347
+New Zealand,NZL,2019-Q4,gdp_deflator,98.1186282520681
+Norway,NOR,2019-Q4,gdp_deflator,102.58226288892
+Poland,POL,2019-Q4,gdp_deflator,106.224681919848
+Portugal,PRT,2019-Q4,gdp_deflator,97.9401780971481
+Slovakia,SVK,2019-Q4,gdp_deflator,97.6488313912404
+Slovenia,SVN,2019-Q4,gdp_deflator,98.824450370107
+South Korea,KOR,2019-Q4,gdp_deflator,98.4376085392717
+Spain,ESP,2019-Q4,gdp_deflator,98.8787989204417
+Sweden,SWE,2019-Q4,gdp_deflator,98.2330161854019
+Switzerland,CHE,2019-Q4,gdp_deflator,100.704110766379
+Turkey,TUR,2019-Q4,gdp_deflator,245.368437391499
+United Kingdom,GBR,2019-Q4,gdp_deflator,95.3813117700179
+United States,USA,2019-Q4,gdp_deflator,97.9600848410751
+Australia,AUS,2020-Q4,gdp_deflator,82.876562212235
+Austria,AUT,2020-Q4,gdp_deflator,100
+Belgium,BEL,2020-Q4,gdp_deflator,100
+Canada,CAN,2020-Q4,gdp_deflator,100
+Chile,CHL,2020-Q4,gdp_deflator,112.481705102267
+Colombia,COL,2020-Q4,gdp_deflator,122.077393324367
+Costa Rica,CRI,2020-Q4,gdp_deflator,105.625344746158
+Czechia,CZE,2020-Q4,gdp_deflator,100
+Denmark,DNK,2020-Q4,gdp_deflator,100
+Estonia,EST,2020-Q4,gdp_deflator,100
+Finland,FIN,2020-Q4,gdp_deflator,100
+France,FRA,2020-Q4,gdp_deflator,100
+Germany,DEU,2020-Q4,gdp_deflator,100
+Greece,GRC,2020-Q4,gdp_deflator,100
+Hungary,HUN,2020-Q4,gdp_deflator,100
+Iceland,ISL,2020-Q4,gdp_deflator,100
+Ireland,IRL,2020-Q4,gdp_deflator,100
+Israel,ISR,2020-Q4,gdp_deflator,100
+Italy,ITA,2020-Q4,gdp_deflator,100
+Japan,JPN,2020-Q4,gdp_deflator,100
+Latvia,LVA,2020-Q4,gdp_deflator,100
+Lithuania,LTU,2020-Q4,gdp_deflator,100
+Luxembourg,LUX,2020-Q4,gdp_deflator,100
+Mexico,MEX,2020-Q4,gdp_deflator,109.138329569269
+Netherlands,NLD,2020-Q4,gdp_deflator,100
+New Zealand,NZL,2020-Q4,gdp_deflator,100
+Norway,NOR,2020-Q4,gdp_deflator,100
+Poland,POL,2020-Q4,gdp_deflator,110.727115284487
+Portugal,PRT,2020-Q4,gdp_deflator,100
+Slovakia,SVK,2020-Q4,gdp_deflator,100
+Slovenia,SVN,2020-Q4,gdp_deflator,100
+South Korea,KOR,2020-Q4,gdp_deflator,100
+Spain,ESP,2020-Q4,gdp_deflator,100
+Sweden,SWE,2020-Q4,gdp_deflator,100
+Switzerland,CHE,2020-Q4,gdp_deflator,100
+Turkey,TUR,2020-Q4,gdp_deflator,281.52079580504
+United Kingdom,GBR,2020-Q4,gdp_deflator,100
+United States,USA,2020-Q4,gdp_deflator,98.6249417290025
+Australia,AUS,2021-Q4,gdp_deflator,85.4131401626059
+Austria,AUT,2021-Q4,gdp_deflator,101.801872992703
+Belgium,BEL,2021-Q4,gdp_deflator,102.69731875411
+Canada,CAN,2021-Q4,gdp_deflator,107.785020110747
+Chile,CHL,2021-Q4,gdp_deflator,120.207878124335
+Colombia,COL,2021-Q4,gdp_deflator,131.602009615523
+Costa Rica,CRI,2021-Q4,gdp_deflator,108.13302861564
+Czechia,CZE,2021-Q4,gdp_deflator,104.034426374972
+Denmark,DNK,2021-Q4,gdp_deflator,103.044354201347
+Estonia,EST,2021-Q4,gdp_deflator,104.291492700033
+Finland,FIN,2021-Q4,gdp_deflator,102.492842024653
+France,FRA,2021-Q4,gdp_deflator,101.221816140734
+Germany,DEU,2021-Q4,gdp_deflator,102.696778400829
+Greece,GRC,2021-Q4,gdp_deflator,101.39275644674
+Hungary,HUN,2021-Q4,gdp_deflator,106.166948922961
+Iceland,ISL,2021-Q4,gdp_deflator,106.148607583473
+Ireland,IRL,2021-Q4,gdp_deflator,101.048750976761
+Israel,ISR,2021-Q4,gdp_deflator,102.29713227752
+Italy,ITA,2021-Q4,gdp_deflator,101.283321872926
+Japan,JPN,2021-Q4,gdp_deflator,99.7961641781713
+Latvia,LVA,2021-Q4,gdp_deflator,103.29734326527
+Lithuania,LTU,2021-Q4,gdp_deflator,105.999766567224
+Luxembourg,LUX,2021-Q4,gdp_deflator,105.902129724706
+Mexico,MEX,2021-Q4,gdp_deflator,114.036428035472
+Netherlands,NLD,2021-Q4,gdp_deflator,102.74734329748
+New Zealand,NZL,2021-Q4,gdp_deflator,104.563446301278
+Norway,NOR,2021-Q4,gdp_deflator,120.213475493749
+Poland,POL,2021-Q4,gdp_deflator,116.640204587683
+Portugal,PRT,2021-Q4,gdp_deflator,102.019777102825
+Slovakia,SVK,2021-Q4,gdp_deflator,102.244084108307
+Slovenia,SVN,2021-Q4,gdp_deflator,102.683430771861
+South Korea,KOR,2021-Q4,gdp_deflator,103.18051786298
+Spain,ESP,2021-Q4,gdp_deflator,102.556112365016
+Sweden,SWE,2021-Q4,gdp_deflator,102.709855502178
+Switzerland,CHE,2021-Q4,gdp_deflator,101.321501346796
+Turkey,TUR,2021-Q4,gdp_deflator,364.022997339074
+United Kingdom,GBR,2021-Q4,gdp_deflator,100.711756533859
+United States,USA,2021-Q4,gdp_deflator,102.949485726156
+Australia,AUS,2022-Q4,gdp_deflator,91.5624970614141
+Austria,AUT,2022-Q4,gdp_deflator,106.915820412682
+Belgium,BEL,2022-Q4,gdp_deflator,109.577050763825
+Canada,CAN,2022-Q4,gdp_deflator,116.30732526351
+Chile,CHL,2022-Q4,gdp_deflator,129.29578290166
+Colombia,COL,2022-Q4,gdp_deflator,151.243657823175
+Costa Rica,CRI,2022-Q4,gdp_deflator,114.924199272791
+Czechia,CZE,2022-Q4,gdp_deflator,113.055356435532
+Denmark,DNK,2022-Q4,gdp_deflator,113.759329142143
+Estonia,EST,2022-Q4,gdp_deflator,121.859195530305
+Finland,FIN,2022-Q4,gdp_deflator,108.819500454481
+France,FRA,2022-Q4,gdp_deflator,104.276877010323
+Germany,DEU,2022-Q4,gdp_deflator,109.282886198775
+Greece,GRC,2022-Q4,gdp_deflator,107.765709367877
+Hungary,HUN,2022-Q4,gdp_deflator,120.996232575169
+Iceland,ISL,2022-Q4,gdp_deflator,115.523386739415
+Ireland,IRL,2022-Q4,gdp_deflator,109.136770999928
+Israel,ISR,2022-Q4,gdp_deflator,107.345806370518
+Italy,ITA,2022-Q4,gdp_deflator,104.783024424308
+Japan,JPN,2022-Q4,gdp_deflator,100.194399742189
+Latvia,LVA,2022-Q4,gdp_deflator,113.309402832947
+Lithuania,LTU,2022-Q4,gdp_deflator,123.030264452605
+Luxembourg,LUX,2022-Q4,gdp_deflator,112.48930558265
+Mexico,MEX,2022-Q4,gdp_deflator,121.63883696605
+Netherlands,NLD,2022-Q4,gdp_deflator,109.072033038788
+New Zealand,NZL,2022-Q4,gdp_deflator,110.723769075894
+Norway,NOR,2022-Q4,gdp_deflator,154.374280596998
+Poland,POL,2022-Q4,gdp_deflator,129.108549568694
+Portugal,PRT,2022-Q4,gdp_deflator,107.454881096292
+Slovakia,SVK,2022-Q4,gdp_deflator,109.74253701194
+Slovenia,SVN,2022-Q4,gdp_deflator,109.335524261356
+South Korea,KOR,2022-Q4,gdp_deflator,105.045867184315
+Spain,ESP,2022-Q4,gdp_deflator,107.369931708733
+Sweden,SWE,2022-Q4,gdp_deflator,108.900379364177
+Switzerland,CHE,2022-Q4,gdp_deflator,104.401727895844
+Turkey,TUR,2022-Q4,gdp_deflator,711.757895853495
+United Kingdom,GBR,2022-Q4,gdp_deflator,106.430816682767
+United States,USA,2022-Q4,gdp_deflator,110.289249600481
+Australia,AUS,2023-Q4,gdp_deflator,97.4769226346552
+Austria,AUT,2023-Q4,gdp_deflator,114.586723585234
+Belgium,BEL,2023-Q4,gdp_deflator,115.612328014138
+Canada,CAN,2023-Q4,gdp_deflator,117.88592495984
+Chile,CHL,2023-Q4,gdp_deflator,137.813493895772
+Colombia,COL,2023-Q4,gdp_deflator,161.758664902653
+Costa Rica,CRI,2023-Q4,gdp_deflator,114.8231549323
+Czechia,CZE,2023-Q4,gdp_deflator,122.775731690565
+Denmark,DNK,2023-Q4,gdp_deflator,111.344780139553
+Estonia,EST,2023-Q4,gdp_deflator,132.382081625219
+Finland,FIN,2023-Q4,gdp_deflator,112.621993710607
+France,FRA,2023-Q4,gdp_deflator,109.480568133252
+Germany,DEU,2023-Q4,gdp_deflator,116.595139509914
+Greece,GRC,2023-Q4,gdp_deflator,114.52230794631
+Hungary,HUN,2023-Q4,gdp_deflator,139.274039654143
+Iceland,ISL,2023-Q4,gdp_deflator,121.634122878242
+Ireland,IRL,2023-Q4,gdp_deflator,112.839324949869
+Israel,ISR,2023-Q4,gdp_deflator,112.229639547869
+Italy,ITA,2023-Q4,gdp_deflator,111.276705726009
+Japan,JPN,2023-Q4,gdp_deflator,104.270506798433
+Latvia,LVA,2023-Q4,gdp_deflator,125.402319099512
+Lithuania,LTU,2023-Q4,gdp_deflator,134.129754273152
+Luxembourg,LUX,2023-Q4,gdp_deflator,120.263159447943
+Mexico,MEX,2023-Q4,gdp_deflator,127.299730920779
+Netherlands,NLD,2023-Q4,gdp_deflator,115.945868907958
+New Zealand,NZL,2023-Q4,gdp_deflator,115.318637832612
+Norway,NOR,2023-Q4,gdp_deflator,137.274544999661
+Poland,POL,2023-Q4,gdp_deflator,141.846002321602
+Portugal,PRT,2023-Q4,gdp_deflator,115.500724441221
+Slovakia,SVK,2023-Q4,gdp_deflator,120.743776601369
+Slovenia,SVN,2023-Q4,gdp_deflator,120.25718624843
+South Korea,KOR,2023-Q4,gdp_deflator,107.187224223523
+Spain,ESP,2023-Q4,gdp_deflator,114.075403840339
+Sweden,SWE,2023-Q4,gdp_deflator,115.253699572413
+Switzerland,CHE,2023-Q4,gdp_deflator,105.337456914213
+Turkey,TUR,2023-Q4,gdp_deflator,1197.74445703307
+United Kingdom,GBR,2023-Q4,gdp_deflator,113.183760675263
+United States,USA,2023-Q4,gdp_deflator,114.257888423993
+Australia,AUS,2024-Q4,gdp_deflator,100
+Austria,AUT,2024-Q4,gdp_deflator,119.269668011096
+Belgium,BEL,2024-Q4,gdp_deflator,117.786112873964
+Canada,CAN,2024-Q4,gdp_deflator,121.562510193488
+Chile,CHL,2024-Q4,gdp_deflator,148.4457493542
+Colombia,COL,2024-Q4,gdp_deflator,171.4606813827
+Costa Rica,CRI,2024-Q4,gdp_deflator,114.877244040679
+Czechia,CZE,2024-Q4,gdp_deflator,127.572167369205
+Denmark,DNK,2024-Q4,gdp_deflator,112.965353464471
+Estonia,EST,2024-Q4,gdp_deflator,137.663920026726
+Finland,FIN,2024-Q4,gdp_deflator,113.43566797001
+France,FRA,2024-Q4,gdp_deflator,111.766084092775
+Germany,DEU,2024-Q4,gdp_deflator,120.221571808551
+Greece,GRC,2024-Q4,gdp_deflator,118.197745742627
+Hungary,HUN,2024-Q4,gdp_deflator,149.82019054087
+Iceland,ISL,2024-Q4,gdp_deflator,128.956168006281
+Ireland,IRL,2024-Q4,gdp_deflator,117.9587419922
+Israel,ISR,2024-Q4,gdp_deflator,118.4195090794
+Italy,ITA,2024-Q4,gdp_deflator,113.452081824246
+Japan,JPN,2024-Q4,gdp_deflator,107.281894964171
+Latvia,LVA,2024-Q4,gdp_deflator,127.981801971982
+Lithuania,LTU,2024-Q4,gdp_deflator,138.676763881926
+Luxembourg,LUX,2024-Q4,gdp_deflator,125.765313668516
+Mexico,MEX,2024-Q4,gdp_deflator,133.543876114864
+Netherlands,NLD,2024-Q4,gdp_deflator,122.606051120075
+New Zealand,NZL,2024-Q4,gdp_deflator,117.77389623239
+Norway,NOR,2024-Q4,gdp_deflator,136.95974151797
+Poland,POL,2024-Q4,gdp_deflator,147.277211508162
+Portugal,PRT,2024-Q4,gdp_deflator,121.059863164296
+Slovakia,SVK,2024-Q4,gdp_deflator,124.841454756541
+Slovenia,SVN,2024-Q4,gdp_deflator,124.426599819641
+South Korea,KOR,2024-Q4,gdp_deflator,111.545882684705
+Spain,ESP,2024-Q4,gdp_deflator,117.374880643264
+Sweden,SWE,2024-Q4,gdp_deflator,118.720065710754
+Switzerland,CHE,2024-Q4,gdp_deflator,106.694987749644
+Turkey,TUR,2024-Q4,gdp_deflator,1907.76827656108
+United Kingdom,GBR,2024-Q4,gdp_deflator,117.284690264803
+United States,USA,2024-Q4,gdp_deflator,117.094597692942
+European Union,EU,1960-Q4,NA,7.868859806513979
+European Union,EU,1961-Q4,NA,8.122327495502379
+European Union,EU,1962-Q4,NA,8.40362972200406
+European Union,EU,1963-Q4,NA,8.734990936030561
+European Union,EU,1964-Q4,NA,9.167560925144025
+European Union,EU,1965-Q4,NA,9.52663882441824
+European Union,EU,1966-Q4,NA,9.94725752712294
+European Union,EU,1967-Q4,NA,10.276955479407736
+European Union,EU,1968-Q4,NA,10.679604105975848
+European Union,EU,1969-Q4,NA,11.211181879377348
+European Union,EU,1970-Q4,NA,11.957098312522762
+European Union,EU,1971-Q4,NA,12.722014454075293
+European Union,EU,1972-Q4,NA,13.625601006378034
+European Union,EU,1973-Q4,NA,14.854106781785386
+European Union,EU,1974-Q4,NA,16.653785219341533
+European Union,EU,1975-Q4,NA,18.31003925304508
+European Union,EU,1976-Q4,NA,20.07779268800067
+European Union,EU,1977-Q4,NA,21.64296405792272
+European Union,EU,1978-Q4,NA,23.275350195359312
+European Union,EU,1979-Q4,NA,25.047835758424032
+European Union,EU,1980-Q4,NA,27.310076937309375
+European Union,EU,1981-Q4,NA,29.86181029967264
+European Union,EU,1982-Q4,NA,32.69204283363093
+European Union,EU,1983-Q4,NA,35.164107431253406
+European Union,EU,1984-Q4,NA,37.51366297785199
+European Union,EU,1985-Q4,NA,39.513849409451545
+European Union,EU,1986-Q4,NA,41.488211669697044
+European Union,EU,1987-Q4,NA,42.897028821060324
+European Union,EU,1988-Q4,NA,44.815156397295524
+European Union,EU,1989-Q4,NA,47.19867548840831
+European Union,EU,1990-Q4,NA,36.43548948691085
+European Union,EU,1991-Q4,NA,39.28508020011226
+European Union,EU,1992-Q4,NA,43.04031901901488
+European Union,EU,1993-Q4,NA,46.99837868935189
+European Union,EU,1994-Q4,NA,50.58084548539109
+European Union,EU,1995-Q4,NA,54.225593748782835
+European Union,EU,1996-Q4,NA,57.032354582957545
+European Union,EU,1997-Q4,NA,59.52846690971841
+European Union,EU,1998-Q4,NA,61.7323448599586
+European Union,EU,1999-Q4,NA,63.365371297579706
+European Union,EU,2000-Q4,NA,65.43797587023998
+European Union,EU,2001-Q4,NA,67.83683810249144
+European Union,EU,2002-Q4,NA,69.89532769689656
+European Union,EU,2003-Q4,NA,71.69836268201219
+European Union,EU,2004-Q4,NA,73.6886104873825
+European Union,EU,2005-Q4,NA,75.71594659942708
+European Union,EU,2006-Q4,NA,78.08219452610618
+European Union,EU,2007-Q4,NA,81.11893919968664
+European Union,EU,2008-Q4,NA,84.09870996217794
+European Union,EU,2009-Q4,NA,84.63211027062168
+European Union,EU,2010-Q4,NA,85.41893997109277
+European Union,EU,2011-Q4,NA,86.98947751472805
+European Union,EU,2012-Q4,NA,88.47745585204329
+European Union,EU,2013-Q4,NA,89.61786783990847
+European Union,EU,2014-Q4,NA,90.58918550784043
+European Union,EU,2015-Q4,NA,91.94199379125652
+European Union,EU,2016-Q4,NA,92.65626125986924
+European Union,EU,2017-Q4,NA,94.24484160710794
+European Union,EU,2018-Q4,NA,96.18976033566658
+European Union,EU,2019-Q4,NA,98.3691845374234
+European Union,EU,2020-Q4,NA,100.48759614929486
+European Union,EU,2021-Q4,NA,103.58966941369631
+European Union,EU,2022-Q4,NA,111.82002555606955
+European Union,EU,2023-Q4,NA,119.8513463381251
+European Union,EU,2024-Q4,NA,124.03815054372264

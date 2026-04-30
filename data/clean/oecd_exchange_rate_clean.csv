@@ -1,0 +1,2054 @@
+Pays,iso3,date,indicator,value
+Australia,AUS,1970-Q4,exchange_rate_lcu_per_usd,0.892856999892857
+Austria,AUT,1970-Q4,exchange_rate_lcu_per_usd,1.88949369018117
+Belgium,BEL,1970-Q4,exchange_rate_lcu_per_usd,1.23946762508088
+Canada,CAN,1970-Q4,exchange_rate_lcu_per_usd,1.04421874416666
+Chile,CHL,1970-Q4,exchange_rate_lcu_per_usd,0.011277504091988
+Colombia,COL,1970-Q4,exchange_rate_lcu_per_usd,18.4441666666666
+Costa Rica,CRI,1970-Q4,exchange_rate_lcu_per_usd,6.625000005625
+Denmark,DNK,1970-Q4,exchange_rate_lcu_per_usd,7.5000000065
+Finland,FIN,1970-Q4,exchange_rate_lcu_per_usd,0.706384246038749
+France,FRA,1970-Q4,exchange_rate_lcu_per_usd,0.846730807744134
+Germany,DEU,1970-Q4,exchange_rate_lcu_per_usd,1.8713282865382
+Greece,GRC,1970-Q4,exchange_rate_lcu_per_usd,0.088041085925165
+Hungary,HUN,1970-Q4,exchange_rate_lcu_per_usd,59.999999999
+Iceland,ISL,1970-Q4,exchange_rate_lcu_per_usd,0.879999999968158
+Ireland,IRL,1970-Q4,exchange_rate_lcu_per_usd,0.529057955184172
+Israel,ISR,1970-Q4,exchange_rate_lcu_per_usd,3.49999232783e-4
+Italy,ITA,1970-Q4,exchange_rate_lcu_per_usd,0.322785562253715
+Japan,JPN,1970-Q4,exchange_rate_lcu_per_usd,360.000000359
+Luxembourg,LUX,1970-Q4,exchange_rate_lcu_per_usd,1.23946762508088
+Mexico,MEX,1970-Q4,exchange_rate_lcu_per_usd,0.0125000000125
+Netherlands,NLD,1970-Q4,exchange_rate_lcu_per_usd,1.64268438343521
+New Zealand,NZL,1970-Q4,exchange_rate_lcu_per_usd,0.892856999892857
+Norway,NOR,1970-Q4,exchange_rate_lcu_per_usd,7.14286000614286
+Poland,POL,1970-Q4,exchange_rate_lcu_per_usd,4e-4
+Portugal,PRT,1970-Q4,exchange_rate_lcu_per_usd,0.143404395550473
+South Korea,KOR,1970-Q4,exchange_rate_lcu_per_usd,310.555833333333
+Spain,ESP,1970-Q4,exchange_rate_lcu_per_usd,0.420708473489356
+Sweden,SWE,1970-Q4,exchange_rate_lcu_per_usd,5.17321000417321
+Switzerland,CHE,1970-Q4,exchange_rate_lcu_per_usd,4.37295000337295
+Turkey,TUR,1970-Q4,exchange_rate_lcu_per_usd,1.1328499999e-5
+United Kingdom,GBR,1970-Q4,exchange_rate_lcu_per_usd,0.416666999416667
+United States,USA,1970-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1971-Q4,exchange_rate_lcu_per_usd,0.882670259295547
+Austria,AUT,1971-Q4,exchange_rate_lcu_per_usd,1.81577319507131
+Belgium,BEL,1971-Q4,exchange_rate_lcu_per_usd,1.21609070477839
+Canada,CAN,1971-Q4,exchange_rate_lcu_per_usd,1.00981054416666
+Chile,CHL,1971-Q4,exchange_rate_lcu_per_usd,0.012208643574385
+Colombia,COL,1971-Q4,exchange_rate_lcu_per_usd,19.9333333333333
+Costa Rica,CRI,1971-Q4,exchange_rate_lcu_per_usd,6.62583333840625
+Denmark,DNK,1971-Q4,exchange_rate_lcu_per_usd,7.42633796871194
+Finland,FIN,1971-Q4,exchange_rate_lcu_per_usd,0.70376855166428
+France,FRA,1971-Q4,exchange_rate_lcu_per_usd,0.84465923143147
+Germany,DEU,1971-Q4,exchange_rate_lcu_per_usd,1.79330182586747
+Greece,GRC,1971-Q4,exchange_rate_lcu_per_usd,0.088041085924916
+Hungary,HUN,1971-Q4,exchange_rate_lcu_per_usd,59.8216166656666
+Iceland,ISL,1971-Q4,exchange_rate_lcu_per_usd,0.879999999887478
+Ireland,IRL,1971-Q4,exchange_rate_lcu_per_usd,0.521761050575095
+Israel,ISR,1971-Q4,exchange_rate_lcu_per_usd,3.79165835522e-4
+Italy,ITA,1971-Q4,exchange_rate_lcu_per_usd,0.320388834871977
+Japan,JPN,1971-Q4,exchange_rate_lcu_per_usd,350.677693533362
+Luxembourg,LUX,1971-Q4,exchange_rate_lcu_per_usd,1.21609070477839
+Mexico,MEX,1971-Q4,exchange_rate_lcu_per_usd,0.012500000011458
+Netherlands,NLD,1971-Q4,exchange_rate_lcu_per_usd,1.59598156694376
+New Zealand,NZL,1971-Q4,exchange_rate_lcu_per_usd,0.880607194603158
+Norway,NOR,1971-Q4,exchange_rate_lcu_per_usd,7.05590547080102
+Poland,POL,1971-Q4,exchange_rate_lcu_per_usd,3.89333333233e-4
+Portugal,PRT,1971-Q4,exchange_rate_lcu_per_usd,0.141459932999751
+South Korea,KOR,1971-Q4,exchange_rate_lcu_per_usd,347.1475
+Spain,ESP,1971-Q4,exchange_rate_lcu_per_usd,0.417515095664099
+Sweden,SWE,1971-Q4,exchange_rate_lcu_per_usd,5.12590524750268
+Switzerland,CHE,1971-Q4,exchange_rate_lcu_per_usd,4.13385416831202
+Turkey,TUR,1971-Q4,exchange_rate_lcu_per_usd,1.4866666667e-5
+United Kingdom,GBR,1971-Q4,exchange_rate_lcu_per_usd,0.410920237429424
+United States,USA,1971-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1972-Q4,exchange_rate_lcu_per_usd,0.838697807262207
+Austria,AUT,1972-Q4,exchange_rate_lcu_per_usd,1.67985678599546
+Belgium,BEL,1972-Q4,exchange_rate_lcu_per_usd,1.09109302036776
+Canada,CAN,1972-Q4,exchange_rate_lcu_per_usd,0.990662555833333
+Chile,CHL,1972-Q4,exchange_rate_lcu_per_usd,0.020835225059597
+Colombia,COL,1972-Q4,exchange_rate_lcu_per_usd,21.8666666666666
+Costa Rica,CRI,1972-Q4,exchange_rate_lcu_per_usd,6.634999999
+Denmark,DNK,1972-Q4,exchange_rate_lcu_per_usd,6.94929166566666
+Finland,FIN,1972-Q4,exchange_rate_lcu_per_usd,0.697363205623325
+France,FRA,1972-Q4,exchange_rate_lcu_per_usd,0.769035853819781
+Germany,DEU,1972-Q4,exchange_rate_lcu_per_usd,1.63032659569936
+Greece,GRC,1972-Q4,exchange_rate_lcu_per_usd,0.088041966259721
+Hungary,HUN,1972-Q4,exchange_rate_lcu_per_usd,55.259999999
+Iceland,ISL,1972-Q4,exchange_rate_lcu_per_usd,0.882603545953388
+Ireland,IRL,1972-Q4,exchange_rate_lcu_per_usd,0.508391015244485
+Israel,ISR,1972-Q4,exchange_rate_lcu_per_usd,4.17979671411e-4
+Italy,ITA,1972-Q4,exchange_rate_lcu_per_usd,0.301206701544421
+Japan,JPN,1972-Q4,exchange_rate_lcu_per_usd,303.172499999
+Luxembourg,LUX,1972-Q4,exchange_rate_lcu_per_usd,1.09109302036776
+Mexico,MEX,1972-Q4,exchange_rate_lcu_per_usd,0.01250002303792
+Netherlands,NLD,1972-Q4,exchange_rate_lcu_per_usd,1.45640760308752
+New Zealand,NZL,1972-Q4,exchange_rate_lcu_per_usd,0.836680053547523
+Norway,NOR,1972-Q4,exchange_rate_lcu_per_usd,6.58824917226787
+Poland,POL,1972-Q4,exchange_rate_lcu_per_usd,3.679999999e-4
+Portugal,PRT,1972-Q4,exchange_rate_lcu_per_usd,0.134941873417564
+South Korea,KOR,1972-Q4,exchange_rate_lcu_per_usd,392.894166666666
+Spain,ESP,1972-Q4,exchange_rate_lcu_per_usd,0.386278993821095
+Sweden,SWE,1972-Q4,exchange_rate_lcu_per_usd,4.7624166656666604
+Switzerland,CHE,1972-Q4,exchange_rate_lcu_per_usd,3.819249999
+Turkey,TUR,1972-Q4,exchange_rate_lcu_per_usd,1.415e-5
+United Kingdom,GBR,1972-Q4,exchange_rate_lcu_per_usd,0.400390461530008
+United States,USA,1972-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1973-Q4,exchange_rate_lcu_per_usd,0.704113907966658
+Austria,AUT,1973-Q4,exchange_rate_lcu_per_usd,1.42293409294007
+Belgium,BEL,1973-Q4,exchange_rate_lcu_per_usd,0.966202196807627
+Canada,CAN,1973-Q4,exchange_rate_lcu_per_usd,1.00009014
+Chile,CHL,1973-Q4,exchange_rate_lcu_per_usd,0.071641908452915
+Colombia,COL,1973-Q4,exchange_rate_lcu_per_usd,23.5716666666666
+Costa Rica,CRI,1973-Q4,exchange_rate_lcu_per_usd,6.64675833233333
+Denmark,DNK,1973-Q4,exchange_rate_lcu_per_usd,6.049499999
+Finland,FIN,1973-Q4,exchange_rate_lcu_per_usd,0.642674098199124
+France,FRA,1973-Q4,exchange_rate_lcu_per_usd,0.678821885274619
+Germany,DEU,1973-Q4,exchange_rate_lcu_per_usd,1.36647868121633
+Greece,GRC,1973-Q4,exchange_rate_lcu_per_usd,0.086941232581071
+Hungary,HUN,1973-Q4,exchange_rate_lcu_per_usd,48.966224999
+Iceland,ISL,1973-Q4,exchange_rate_lcu_per_usd,0.90134166652092
+Ireland,IRL,1973-Q4,exchange_rate_lcu_per_usd,0.518270191754966
+Israel,ISR,1973-Q4,exchange_rate_lcu_per_usd,4.19469230655e-4
+Italy,ITA,1973-Q4,exchange_rate_lcu_per_usd,0.301092220264693
+Japan,JPN,1973-Q4,exchange_rate_lcu_per_usd,271.701666666083
+Luxembourg,LUX,1973-Q4,exchange_rate_lcu_per_usd,0.966202196807627
+Mexico,MEX,1973-Q4,exchange_rate_lcu_per_usd,0.012499951911271
+Netherlands,NLD,1973-Q4,exchange_rate_lcu_per_usd,1.26856528267482
+New Zealand,NZL,1973-Q4,exchange_rate_lcu_per_usd,0.736812125513138
+Norway,NOR,1973-Q4,exchange_rate_lcu_per_usd,5.76583333233333
+Poland,POL,1973-Q4,exchange_rate_lcu_per_usd,3.349999999e-4
+Portugal,PRT,1973-Q4,exchange_rate_lcu_per_usd,0.122281135794818
+South Korea,KOR,1973-Q4,exchange_rate_lcu_per_usd,398.321666666666
+Spain,ESP,1973-Q4,exchange_rate_lcu_per_usd,0.350150152851402
+Sweden,SWE,1973-Q4,exchange_rate_lcu_per_usd,4.367249999
+Switzerland,CHE,1973-Q4,exchange_rate_lcu_per_usd,3.16483333241666
+Turkey,TUR,1973-Q4,exchange_rate_lcu_per_usd,1.415e-5
+United Kingdom,GBR,1973-Q4,exchange_rate_lcu_per_usd,0.408170945299307
+United States,USA,1973-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1974-Q4,exchange_rate_lcu_per_usd,0.696665868638096
+Austria,AUT,1974-Q4,exchange_rate_lcu_per_usd,1.35843695261004
+Belgium,BEL,1974-Q4,exchange_rate_lcu_per_usd,0.965582462995694
+Canada,CAN,1974-Q4,exchange_rate_lcu_per_usd,0.978017525583333
+Chile,CHL,1974-Q4,exchange_rate_lcu_per_usd,0.592826261289235
+Colombia,COL,1974-Q4,exchange_rate_lcu_per_usd,26.0616666666666
+Costa Rica,CRI,1974-Q4,exchange_rate_lcu_per_usd,7.929999999
+Denmark,DNK,1974-Q4,exchange_rate_lcu_per_usd,6.094899999
+Finland,FIN,1974-Q4,exchange_rate_lcu_per_usd,0.634699187352285
+France,FRA,1974-Q4,exchange_rate_lcu_per_usd,0.733221609473766
+Germany,DEU,1974-Q4,exchange_rate_lcu_per_usd,1.32309556505422
+Greece,GRC,1974-Q4,exchange_rate_lcu_per_usd,0.088041966259721
+Hungary,HUN,1974-Q4,exchange_rate_lcu_per_usd,46.752399999
+Iceland,ISL,1974-Q4,exchange_rate_lcu_per_usd,0.999516666500499
+Ireland,IRL,1974-Q4,exchange_rate_lcu_per_usd,0.543138639840906
+Israel,ISR,1974-Q4,exchange_rate_lcu_per_usd,4.45153398231e-4
+Italy,ITA,1974-Q4,exchange_rate_lcu_per_usd,0.335874301276079
+Japan,JPN,1974-Q4,exchange_rate_lcu_per_usd,292.08249999925
+Luxembourg,LUX,1974-Q4,exchange_rate_lcu_per_usd,0.965582462995694
+Mexico,MEX,1974-Q4,exchange_rate_lcu_per_usd,0.01249996891926
+Netherlands,NLD,1974-Q4,exchange_rate_lcu_per_usd,1.21993516947935
+New Zealand,NZL,1974-Q4,exchange_rate_lcu_per_usd,0.715402588665367
+Norway,NOR,1974-Q4,exchange_rate_lcu_per_usd,5.53970833233333
+Poland,POL,1974-Q4,exchange_rate_lcu_per_usd,3.319999999e-4
+Portugal,PRT,1974-Q4,exchange_rate_lcu_per_usd,0.126735401011895
+South Korea,KOR,1974-Q4,exchange_rate_lcu_per_usd,404.4725
+Spain,ESP,1974-Q4,exchange_rate_lcu_per_usd,0.34670284758934
+Sweden,SWE,1974-Q4,exchange_rate_lcu_per_usd,4.439424999
+Switzerland,CHE,1974-Q4,exchange_rate_lcu_per_usd,2.979249999
+Turkey,TUR,1974-Q4,exchange_rate_lcu_per_usd,1.3927083333e-5
+United Kingdom,GBR,1974-Q4,exchange_rate_lcu_per_usd,0.427756439747663
+United States,USA,1974-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1975-Q4,exchange_rate_lcu_per_usd,0.763871248999999
+Austria,AUT,1975-Q4,exchange_rate_lcu_per_usd,1.26572458443251
+Belgium,BEL,1975-Q4,exchange_rate_lcu_per_usd,0.911725528959336
+Canada,CAN,1975-Q4,exchange_rate_lcu_per_usd,1.01715926333333
+Chile,CHL,1975-Q4,exchange_rate_lcu_per_usd,4.91041666666666
+Colombia,COL,1975-Q4,exchange_rate_lcu_per_usd,30.9275
+Costa Rica,CRI,1975-Q4,exchange_rate_lcu_per_usd,8.569999999
+Denmark,DNK,1975-Q4,exchange_rate_lcu_per_usd,5.746149999
+Finland,FIN,1975-Q4,exchange_rate_lcu_per_usd,0.618707318676987
+France,FRA,1975-Q4,exchange_rate_lcu_per_usd,0.653670822230203
+Germany,DEU,1975-Q4,exchange_rate_lcu_per_usd,1.25792715424312
+Greece,GRC,1975-Q4,exchange_rate_lcu_per_usd,0.094061115187087
+Hungary,HUN,1975-Q4,exchange_rate_lcu_per_usd,43.9713833323333
+Iceland,ISL,1975-Q4,exchange_rate_lcu_per_usd,1.53694999974941
+Ireland,IRL,1975-Q4,exchange_rate_lcu_per_usd,0.573973881064481
+Israel,ISR,1975-Q4,exchange_rate_lcu_per_usd,6.33614931146e-4
+Italy,ITA,1975-Q4,exchange_rate_lcu_per_usd,0.337168456189478
+Japan,JPN,1975-Q4,exchange_rate_lcu_per_usd,296.787499999166
+Luxembourg,LUX,1975-Q4,exchange_rate_lcu_per_usd,0.911725528959336
+Mexico,MEX,1975-Q4,exchange_rate_lcu_per_usd,0.0125
+Netherlands,NLD,1975-Q4,exchange_rate_lcu_per_usd,1.1476063845742
+New Zealand,NZL,1975-Q4,exchange_rate_lcu_per_usd,0.832307219423307
+Norway,NOR,1975-Q4,exchange_rate_lcu_per_usd,5.22694166566666
+Poland,POL,1975-Q4,exchange_rate_lcu_per_usd,3.32e-4
+Portugal,PRT,1975-Q4,exchange_rate_lcu_per_usd,0.127456579638072
+South Korea,KOR,1975-Q4,exchange_rate_lcu_per_usd,484
+Spain,ESP,1975-Q4,exchange_rate_lcu_per_usd,0.345022517914168
+Sweden,SWE,1975-Q4,exchange_rate_lcu_per_usd,4.15219166566666
+Switzerland,CHE,1975-Q4,exchange_rate_lcu_per_usd,2.58128333241666
+Turkey,TUR,1975-Q4,exchange_rate_lcu_per_usd,1.4442083333e-5
+United Kingdom,GBR,1975-Q4,exchange_rate_lcu_per_usd,0.452041165666666
+United States,USA,1975-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1976-Q4,exchange_rate_lcu_per_usd,0.818284082333333
+Austria,AUT,1976-Q4,exchange_rate_lcu_per_usd,1.30372642063278
+Belgium,BEL,1976-Q4,exchange_rate_lcu_per_usd,0.956997083921048
+Canada,CAN,1976-Q4,exchange_rate_lcu_per_usd,0.986028304083333
+Chile,CHL,1976-Q4,exchange_rate_lcu_per_usd,13.0541666666666
+Colombia,COL,1976-Q4,exchange_rate_lcu_per_usd,34.695
+Costa Rica,CRI,1976-Q4,exchange_rate_lcu_per_usd,8.569999999
+Denmark,DNK,1976-Q4,exchange_rate_lcu_per_usd,6.045024999
+Finland,FIN,1976-Q4,exchange_rate_lcu_per_usd,0.649948226019002
+France,FRA,1976-Q4,exchange_rate_lcu_per_usd,0.732194086382659
+Germany,DEU,1976-Q4,exchange_rate_lcu_per_usd,1.28743295638339
+Greece,GRC,1976-Q4,exchange_rate_lcu_per_usd,0.107168256294448
+Hungary,HUN,1976-Q4,exchange_rate_lcu_per_usd,41.5752666656666
+Iceland,ISL,1976-Q4,exchange_rate_lcu_per_usd,1.82171666637135
+Ireland,IRL,1976-Q4,exchange_rate_lcu_per_usd,0.706621725133872
+Israel,ISR,1976-Q4,exchange_rate_lcu_per_usd,7.92557149185e-4
+Italy,ITA,1976-Q4,exchange_rate_lcu_per_usd,0.429865153103476
+Japan,JPN,1976-Q4,exchange_rate_lcu_per_usd,296.552499999166
+Luxembourg,LUX,1976-Q4,exchange_rate_lcu_per_usd,0.956997083921048
+Mexico,MEX,1976-Q4,exchange_rate_lcu_per_usd,0.015425849999667
+Netherlands,NLD,1976-Q4,exchange_rate_lcu_per_usd,1.19976842037594
+New Zealand,NZL,1976-Q4,exchange_rate_lcu_per_usd,1.0048887896505
+Norway,NOR,1976-Q4,exchange_rate_lcu_per_usd,5.45651666566666
+Poland,POL,1976-Q4,exchange_rate_lcu_per_usd,3.32e-4
+Portugal,PRT,1976-Q4,exchange_rate_lcu_per_usd,0.150782031965879
+South Korea,KOR,1976-Q4,exchange_rate_lcu_per_usd,484
+Spain,ESP,1976-Q4,exchange_rate_lcu_per_usd,0.402094627348955
+Sweden,SWE,1976-Q4,exchange_rate_lcu_per_usd,4.35589166566666
+Switzerland,CHE,1976-Q4,exchange_rate_lcu_per_usd,2.49964166575
+Turkey,TUR,1976-Q4,exchange_rate_lcu_per_usd,1.6053083332e-5
+United Kingdom,GBR,1976-Q4,exchange_rate_lcu_per_usd,0.556509832333333
+United States,USA,1976-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1977-Q4,exchange_rate_lcu_per_usd,0.901824999
+Austria,AUT,1977-Q4,exchange_rate_lcu_per_usd,1.20105787417426
+Belgium,BEL,1977-Q4,exchange_rate_lcu_per_usd,0.888518563481813
+Canada,CAN,1977-Q4,exchange_rate_lcu_per_usd,1.06344161083333
+Chile,CHL,1977-Q4,exchange_rate_lcu_per_usd,21.5358333333333
+Colombia,COL,1977-Q4,exchange_rate_lcu_per_usd,36.7741666666666
+Costa Rica,CRI,1977-Q4,exchange_rate_lcu_per_usd,8.569999999
+Denmark,DNK,1977-Q4,exchange_rate_lcu_per_usd,6.00319166566666
+Finland,FIN,1977-Q4,exchange_rate_lcu_per_usd,0.677699233886741
+France,FRA,1977-Q4,exchange_rate_lcu_per_usd,0.747788852399192
+Germany,DEU,1977-Q4,exchange_rate_lcu_per_usd,1.18731348451382
+Greece,GRC,1977-Q4,exchange_rate_lcu_per_usd,0.108109806795794
+Hungary,HUN,1977-Q4,exchange_rate_lcu_per_usd,40.960749999
+Iceland,ISL,1977-Q4,exchange_rate_lcu_per_usd,1.98869999967762
+Ireland,IRL,1977-Q4,exchange_rate_lcu_per_usd,0.727905286427516
+Israel,ISR,1977-Q4,exchange_rate_lcu_per_usd,0.001044545798963
+Italy,ITA,1977-Q4,exchange_rate_lcu_per_usd,0.455715542424998
+Japan,JPN,1977-Q4,exchange_rate_lcu_per_usd,268.509999999333
+Luxembourg,LUX,1977-Q4,exchange_rate_lcu_per_usd,0.888518563481813
+Mexico,MEX,1977-Q4,exchange_rate_lcu_per_usd,0.02257286666575
+Netherlands,NLD,1977-Q4,exchange_rate_lcu_per_usd,1.11369009492326
+New Zealand,NZL,1977-Q4,exchange_rate_lcu_per_usd,1.03031165084621
+Norway,NOR,1977-Q4,exchange_rate_lcu_per_usd,5.323499999
+Poland,POL,1977-Q4,exchange_rate_lcu_per_usd,3.32e-4
+Portugal,PRT,1977-Q4,exchange_rate_lcu_per_usd,0.190924621656807
+South Korea,KOR,1977-Q4,exchange_rate_lcu_per_usd,484
+Spain,ESP,1977-Q4,exchange_rate_lcu_per_usd,0.456539813039659
+Sweden,SWE,1977-Q4,exchange_rate_lcu_per_usd,4.48164166566666
+Switzerland,CHE,1977-Q4,exchange_rate_lcu_per_usd,2.40352499933333
+Turkey,TUR,1977-Q4,exchange_rate_lcu_per_usd,1.8002249999e-5
+United Kingdom,GBR,1977-Q4,exchange_rate_lcu_per_usd,0.573271999
+United States,USA,1977-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1978-Q4,exchange_rate_lcu_per_usd,0.873659249
+Austria,AUT,1978-Q4,exchange_rate_lcu_per_usd,1.05533067344099
+Belgium,BEL,1978-Q4,exchange_rate_lcu_per_usd,0.780668353970469
+Canada,CAN,1978-Q4,exchange_rate_lcu_per_usd,1.14065917075
+Chile,CHL,1978-Q4,exchange_rate_lcu_per_usd,31.6558333333333
+Colombia,COL,1978-Q4,exchange_rate_lcu_per_usd,39.095
+Costa Rica,CRI,1978-Q4,exchange_rate_lcu_per_usd,8.569999999
+Denmark,DNK,1978-Q4,exchange_rate_lcu_per_usd,5.514624999
+Finland,FIN,1978-Q4,exchange_rate_lcu_per_usd,0.692485755755662
+France,FRA,1978-Q4,exchange_rate_lcu_per_usd,0.688017659592524
+Germany,DEU,1978-Q4,exchange_rate_lcu_per_usd,1.02699365444168
+Greece,GRC,1978-Q4,exchange_rate_lcu_per_usd,0.10783687942969
+Hungary,HUN,1978-Q4,exchange_rate_lcu_per_usd,37.911349999
+Iceland,ISL,1978-Q4,exchange_rate_lcu_per_usd,2.71110833289748
+Ireland,IRL,1978-Q4,exchange_rate_lcu_per_usd,0.662174226263939
+Israel,ISR,1978-Q4,exchange_rate_lcu_per_usd,0.001743537173635
+Italy,ITA,1978-Q4,exchange_rate_lcu_per_usd,0.438298033503033
+Japan,JPN,1978-Q4,exchange_rate_lcu_per_usd,210.441666666
+Luxembourg,LUX,1978-Q4,exchange_rate_lcu_per_usd,0.780668353970469
+Mexico,MEX,1978-Q4,exchange_rate_lcu_per_usd,0.022767283332333
+Netherlands,NLD,1978-Q4,exchange_rate_lcu_per_usd,0.981791312188686
+New Zealand,NZL,1978-Q4,exchange_rate_lcu_per_usd,0.964424999
+Norway,NOR,1978-Q4,exchange_rate_lcu_per_usd,5.242249999
+Poland,POL,1978-Q4,exchange_rate_lcu_per_usd,5.81e-4
+Portugal,PRT,1978-Q4,exchange_rate_lcu_per_usd,0.219158494690712
+South Korea,KOR,1978-Q4,exchange_rate_lcu_per_usd,484
+Spain,ESP,1978-Q4,exchange_rate_lcu_per_usd,0.460782958499112
+Sweden,SWE,1978-Q4,exchange_rate_lcu_per_usd,4.518474999
+Switzerland,CHE,1978-Q4,exchange_rate_lcu_per_usd,1.78802499925
+Turkey,TUR,1978-Q4,exchange_rate_lcu_per_usd,2.4282166666e-5
+United Kingdom,GBR,1978-Q4,exchange_rate_lcu_per_usd,0.521504582333333
+United States,USA,1978-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1979-Q4,exchange_rate_lcu_per_usd,0.894640915666666
+Austria,AUT,1979-Q4,exchange_rate_lcu_per_usd,0.971454110696474
+Belgium,BEL,1979-Q4,exchange_rate_lcu_per_usd,0.72679076214038
+Canada,CAN,1979-Q4,exchange_rate_lcu_per_usd,1.17142449583333
+Chile,CHL,1979-Q4,exchange_rate_lcu_per_usd,37.2458333333333
+Colombia,COL,1979-Q4,exchange_rate_lcu_per_usd,42.5483333333333
+Costa Rica,CRI,1979-Q4,exchange_rate_lcu_per_usd,8.569999999
+Denmark,DNK,1979-Q4,exchange_rate_lcu_per_usd,5.26095833233333
+Finland,FIN,1979-Q4,exchange_rate_lcu_per_usd,0.655148036079068
+France,FRA,1979-Q4,exchange_rate_lcu_per_usd,0.648581639662864
+Germany,DEU,1979-Q4,exchange_rate_lcu_per_usd,0.937138367087119
+Greece,GRC,1979-Q4,exchange_rate_lcu_per_usd,0.108696747368061
+Hungary,HUN,1979-Q4,exchange_rate_lcu_per_usd,35.577999999
+Iceland,ISL,1979-Q4,exchange_rate_lcu_per_usd,3.52599999943281
+Ireland,IRL,1979-Q4,exchange_rate_lcu_per_usd,0.620387516550313
+Israel,ISR,1979-Q4,exchange_rate_lcu_per_usd,0.002540636908276
+Italy,ITA,1979-Q4,exchange_rate_lcu_per_usd,0.429104239938602
+Japan,JPN,1979-Q4,exchange_rate_lcu_per_usd,219.139999999333
+Luxembourg,LUX,1979-Q4,exchange_rate_lcu_per_usd,0.72679076214038
+Mexico,MEX,1979-Q4,exchange_rate_lcu_per_usd,0.022805383332333
+Netherlands,NLD,1979-Q4,exchange_rate_lcu_per_usd,0.910279331559053
+New Zealand,NZL,1979-Q4,exchange_rate_lcu_per_usd,0.978502499
+Norway,NOR,1979-Q4,exchange_rate_lcu_per_usd,5.06406666566666
+Poland,POL,1979-Q4,exchange_rate_lcu_per_usd,0.00332
+Portugal,PRT,1979-Q4,exchange_rate_lcu_per_usd,0.244029222901142
+South Korea,KOR,1979-Q4,exchange_rate_lcu_per_usd,484
+Spain,ESP,1979-Q4,exchange_rate_lcu_per_usd,0.403429375065109
+Sweden,SWE,1979-Q4,exchange_rate_lcu_per_usd,4.28708333233333
+Switzerland,CHE,1979-Q4,exchange_rate_lcu_per_usd,1.66272499908333
+Turkey,TUR,1979-Q4,exchange_rate_lcu_per_usd,3.1077499999e-5
+United Kingdom,GBR,1979-Q4,exchange_rate_lcu_per_usd,0.472181165666666
+United States,USA,1979-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1980-Q4,exchange_rate_lcu_per_usd,0.878244332333333
+Austria,AUT,1980-Q4,exchange_rate_lcu_per_usd,0.94024112839715
+Belgium,BEL,1980-Q4,exchange_rate_lcu_per_usd,0.724881982001691
+Canada,CAN,1980-Q4,exchange_rate_lcu_per_usd,1.16922686666666
+Chile,CHL,1980-Q4,exchange_rate_lcu_per_usd,39
+Colombia,COL,1980-Q4,exchange_rate_lcu_per_usd,47.2783333333333
+Costa Rica,CRI,1980-Q4,exchange_rate_lcu_per_usd,8.56999999908333
+Denmark,DNK,1980-Q4,exchange_rate_lcu_per_usd,5.63594166566666
+Finland,FIN,1980-Q4,exchange_rate_lcu_per_usd,0.627354981229711
+France,FRA,1980-Q4,exchange_rate_lcu_per_usd,0.644184755873225
+Germany,DEU,1980-Q4,exchange_rate_lcu_per_usd,0.929358208961582
+Greece,GRC,1980-Q4,exchange_rate_lcu_per_usd,0.125067009045732
+Hungary,HUN,1980-Q4,exchange_rate_lcu_per_usd,32.5322833323333
+Iceland,ISL,1980-Q4,exchange_rate_lcu_per_usd,4.7976416658989
+Ireland,IRL,1980-Q4,exchange_rate_lcu_per_usd,0.617912038678237
+Israel,ISR,1980-Q4,exchange_rate_lcu_per_usd,0.005124291665684
+Italy,ITA,1980-Q4,exchange_rate_lcu_per_usd,0.442318220081609
+Japan,JPN,1980-Q4,exchange_rate_lcu_per_usd,226.740833332833
+Luxembourg,LUX,1980-Q4,exchange_rate_lcu_per_usd,0.724881982001691
+Mexico,MEX,1980-Q4,exchange_rate_lcu_per_usd,0.022951008332333
+Netherlands,NLD,1980-Q4,exchange_rate_lcu_per_usd,0.902168010272073
+New Zealand,NZL,1980-Q4,exchange_rate_lcu_per_usd,1.02667999916666
+Norway,NOR,1980-Q4,exchange_rate_lcu_per_usd,4.939224999
+Poland,POL,1980-Q4,exchange_rate_lcu_per_usd,0.004421666666667
+Portugal,PRT,1980-Q4,exchange_rate_lcu_per_usd,0.24970886828909
+South Korea,KOR,1980-Q4,exchange_rate_lcu_per_usd,607.716666666666
+Spain,ESP,1980-Q4,exchange_rate_lcu_per_usd,0.430937198237332
+Sweden,SWE,1980-Q4,exchange_rate_lcu_per_usd,4.229574999
+Switzerland,CHE,1980-Q4,exchange_rate_lcu_per_usd,1.67570833258333
+Turkey,TUR,1980-Q4,exchange_rate_lcu_per_usd,7.6038083333e-5
+United Kingdom,GBR,1980-Q4,exchange_rate_lcu_per_usd,0.430294999
+United States,USA,1980-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1981-Q4,exchange_rate_lcu_per_usd,0.870214582333333
+Austria,AUT,1981-Q4,exchange_rate_lcu_per_usd,1.1574481175798
+Belgium,BEL,1981-Q4,exchange_rate_lcu_per_usd,0.920410065448023
+Canada,CAN,1981-Q4,exchange_rate_lcu_per_usd,1.19890312083333
+Chile,CHL,1981-Q4,exchange_rate_lcu_per_usd,39
+Colombia,COL,1981-Q4,exchange_rate_lcu_per_usd,54.4891666666666
+Costa Rica,CRI,1981-Q4,exchange_rate_lcu_per_usd,21.7633333325
+Denmark,DNK,1981-Q4,exchange_rate_lcu_per_usd,7.12336666566666
+Finland,FIN,1981-Q4,exchange_rate_lcu_per_usd,0.725772949536408
+France,FRA,1981-Q4,exchange_rate_lcu_per_usd,0.82850069937257
+Germany,DEU,1981-Q4,exchange_rate_lcu_per_usd,1.15551965103477
+Greece,GRC,1981-Q4,exchange_rate_lcu_per_usd,0.16260723893079
+Hungary,HUN,1981-Q4,exchange_rate_lcu_per_usd,34.3142916656666
+Iceland,ISL,1981-Q4,exchange_rate_lcu_per_usd,7.22418333233333
+Ireland,IRL,1981-Q4,exchange_rate_lcu_per_usd,0.788885813566393
+Israel,ISR,1981-Q4,exchange_rate_lcu_per_usd,0.011430574999288
+Italy,ITA,1981-Q4,exchange_rate_lcu_per_usd,0.587090126893243
+Japan,JPN,1981-Q4,exchange_rate_lcu_per_usd,220.53583333275
+Luxembourg,LUX,1981-Q4,exchange_rate_lcu_per_usd,0.920410065448023
+Mexico,MEX,1981-Q4,exchange_rate_lcu_per_usd,0.024514599999083
+Netherlands,NLD,1981-Q4,exchange_rate_lcu_per_usd,1.13227239477215
+New Zealand,NZL,1981-Q4,exchange_rate_lcu_per_usd,1.15279499925
+Norway,NOR,1981-Q4,exchange_rate_lcu_per_usd,5.73950833233333
+Poland,POL,1981-Q4,exchange_rate_lcu_per_usd,0.00511525
+Portugal,PRT,1981-Q4,exchange_rate_lcu_per_usd,0.306992024217885
+South Korea,KOR,1981-Q4,exchange_rate_lcu_per_usd,681.028333333333
+Spain,ESP,1981-Q4,exchange_rate_lcu_per_usd,0.554865393317346
+Sweden,SWE,1981-Q4,exchange_rate_lcu_per_usd,5.06344166566666
+Switzerland,CHE,1981-Q4,exchange_rate_lcu_per_usd,1.96424166591666
+Turkey,TUR,1981-Q4,exchange_rate_lcu_per_usd,1.11218583333e-4
+United Kingdom,GBR,1981-Q4,exchange_rate_lcu_per_usd,0.497641332333333
+United States,USA,1981-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1982-Q4,exchange_rate_lcu_per_usd,0.985862832333333
+Austria,AUT,1982-Q4,exchange_rate_lcu_per_usd,1.2397440462175
+Belgium,BEL,1982-Q4,exchange_rate_lcu_per_usd,1.13263997511975
+Canada,CAN,1982-Q4,exchange_rate_lcu_per_usd,1.23373491166666
+Chile,CHL,1982-Q4,exchange_rate_lcu_per_usd,50.9083333333333
+Colombia,COL,1982-Q4,exchange_rate_lcu_per_usd,64.0858333333333
+Costa Rica,CRI,1982-Q4,exchange_rate_lcu_per_usd,37.40666666575
+Denmark,DNK,1982-Q4,exchange_rate_lcu_per_usd,8.33244166616666
+Finland,FIN,1982-Q4,exchange_rate_lcu_per_usd,0.810735883725413
+France,FRA,1982-Q4,exchange_rate_lcu_per_usd,1.00191018604624
+Germany,DEU,1982-Q4,exchange_rate_lcu_per_usd,1.24069661767638
+Greece,GRC,1982-Q4,exchange_rate_lcu_per_usd,0.196047444360235
+Hungary,HUN,1982-Q4,exchange_rate_lcu_per_usd,36.630549999
+Iceland,ISL,1982-Q4,exchange_rate_lcu_per_usd,12.35153333275
+Ireland,IRL,1982-Q4,exchange_rate_lcu_per_usd,0.894608737892998
+Israel,ISR,1982-Q4,exchange_rate_lcu_per_usd,0.024266999999082
+Italy,ITA,1982-Q4,exchange_rate_lcu_per_usd,0.69851312058653
+Japan,JPN,1982-Q4,exchange_rate_lcu_per_usd,249.076666665833
+Luxembourg,LUX,1982-Q4,exchange_rate_lcu_per_usd,1.13263997511975
+Mexico,MEX,1982-Q4,exchange_rate_lcu_per_usd,0.05640169999925
+Netherlands,NLD,1982-Q4,exchange_rate_lcu_per_usd,1.21168771408973
+New Zealand,NZL,1982-Q4,exchange_rate_lcu_per_usd,1.33260833233333
+Norway,NOR,1982-Q4,exchange_rate_lcu_per_usd,6.45403333233333
+Poland,POL,1982-Q4,exchange_rate_lcu_per_usd,0.008482416666642
+Portugal,PRT,1982-Q4,exchange_rate_lcu_per_usd,0.396411315394067
+South Korea,KOR,1982-Q4,exchange_rate_lcu_per_usd,731.1675
+Spain,ESP,1982-Q4,exchange_rate_lcu_per_usd,0.66026688943681
+Sweden,SWE,1982-Q4,exchange_rate_lcu_per_usd,6.28260833233333
+Switzerland,CHE,1982-Q4,exchange_rate_lcu_per_usd,2.03027499908333
+Turkey,TUR,1982-Q4,exchange_rate_lcu_per_usd,1.62553416666e-4
+United Kingdom,GBR,1982-Q4,exchange_rate_lcu_per_usd,0.572446832333333
+United States,USA,1982-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1983-Q4,exchange_rate_lcu_per_usd,1.11001499916666
+Austria,AUT,1983-Q4,exchange_rate_lcu_per_usd,1.30544634437476
+Belgium,BEL,1983-Q4,exchange_rate_lcu_per_usd,1.26752090773238
+Canada,CAN,1983-Q4,exchange_rate_lcu_per_usd,1.23241182741666
+Chile,CHL,1983-Q4,exchange_rate_lcu_per_usd,78.7883333333333
+Colombia,COL,1983-Q4,exchange_rate_lcu_per_usd,78.8575
+Costa Rica,CRI,1983-Q4,exchange_rate_lcu_per_usd,41.0941666656666
+Denmark,DNK,1983-Q4,exchange_rate_lcu_per_usd,9.14499166575
+Finland,FIN,1983-Q4,exchange_rate_lcu_per_usd,0.936820765936613
+France,FRA,1983-Q4,exchange_rate_lcu_per_usd,1.16185842452325
+Germany,DEU,1983-Q4,exchange_rate_lcu_per_usd,1.30546025596124
+Greece,GRC,1983-Q4,exchange_rate_lcu_per_usd,0.258442406454879
+Hungary,HUN,1983-Q4,exchange_rate_lcu_per_usd,42.671149999
+Iceland,ISL,1983-Q4,exchange_rate_lcu_per_usd,24.84276666575
+Ireland,IRL,1983-Q4,exchange_rate_lcu_per_usd,1.02173019934605
+Israel,ISR,1983-Q4,exchange_rate_lcu_per_usd,0.056214491666023
+Italy,ITA,1983-Q4,exchange_rate_lcu_per_usd,0.784419700420308
+Japan,JPN,1983-Q4,exchange_rate_lcu_per_usd,237.511666666083
+Luxembourg,LUX,1983-Q4,exchange_rate_lcu_per_usd,1.26752090773238
+Mexico,MEX,1983-Q4,exchange_rate_lcu_per_usd,0.1200935833325
+Netherlands,NLD,1983-Q4,exchange_rate_lcu_per_usd,1.29514545879449
+New Zealand,NZL,1983-Q4,exchange_rate_lcu_per_usd,1.49677333233333
+Norway,NOR,1983-Q4,exchange_rate_lcu_per_usd,7.29636666566666
+Poland,POL,1983-Q4,exchange_rate_lcu_per_usd,0.009154999999967
+Portugal,PRT,1983-Q4,exchange_rate_lcu_per_usd,0.552567479038432
+South Korea,KOR,1983-Q4,exchange_rate_lcu_per_usd,775.748333333333
+Spain,ESP,1983-Q4,exchange_rate_lcu_per_usd,0.862031160472233
+Sweden,SWE,1983-Q4,exchange_rate_lcu_per_usd,7.66710833233333
+Switzerland,CHE,1983-Q4,exchange_rate_lcu_per_usd,2.09914166575
+Turkey,TUR,1983-Q4,exchange_rate_lcu_per_usd,2.25457083332e-4
+United Kingdom,GBR,1983-Q4,exchange_rate_lcu_per_usd,0.659724582333333
+United States,USA,1983-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1984-Q4,exchange_rate_lcu_per_usd,1.13951916591666
+Austria,AUT,1984-Q4,exchange_rate_lcu_per_usd,1.45411679488577
+Belgium,BEL,1984-Q4,exchange_rate_lcu_per_usd,1.43242587776412
+Canada,CAN,1984-Q4,exchange_rate_lcu_per_usd,1.29506561083333
+Chile,CHL,1984-Q4,exchange_rate_lcu_per_usd,98.4774999999999
+Colombia,COL,1984-Q4,exchange_rate_lcu_per_usd,100.8175
+Costa Rica,CRI,1984-Q4,exchange_rate_lcu_per_usd,44.532683333
+Denmark,DNK,1984-Q4,exchange_rate_lcu_per_usd,10.35659166625
+Finland,FIN,1984-Q4,exchange_rate_lcu_per_usd,1.01080943799609
+France,FRA,1984-Q4,exchange_rate_lcu_per_usd,1.33226720647593
+Germany,DEU,1984-Q4,exchange_rate_lcu_per_usd,1.45510686826906
+Greece,GRC,1984-Q4,exchange_rate_lcu_per_usd,0.330789679627293
+Hungary,HUN,1984-Q4,exchange_rate_lcu_per_usd,48.0422083329166
+Iceland,ISL,1984-Q4,exchange_rate_lcu_per_usd,31.69374166625
+Ireland,IRL,1984-Q4,exchange_rate_lcu_per_usd,1.17140130780906
+Israel,ISR,1984-Q4,exchange_rate_lcu_per_usd,0.293209666667071
+Italy,ITA,1984-Q4,exchange_rate_lcu_per_usd,0.907394543804237
+Japan,JPN,1984-Q4,exchange_rate_lcu_per_usd,237.522499999333
+Luxembourg,LUX,1984-Q4,exchange_rate_lcu_per_usd,1.43242587776412
+Mexico,MEX,1984-Q4,exchange_rate_lcu_per_usd,0.167827583332666
+Netherlands,NLD,1984-Q4,exchange_rate_lcu_per_usd,1.45603701617575
+New Zealand,NZL,1984-Q4,exchange_rate_lcu_per_usd,1.76399249916666
+Norway,NOR,1984-Q4,exchange_rate_lcu_per_usd,8.16145833258333
+Poland,POL,1984-Q4,exchange_rate_lcu_per_usd,0.01132399999995
+Portugal,PRT,1984-Q4,exchange_rate_lcu_per_usd,0.730191904175522
+South Korea,KOR,1984-Q4,exchange_rate_lcu_per_usd,805.970833333333
+Spain,ESP,1984-Q4,exchange_rate_lcu_per_usd,0.966193069126411
+Sweden,SWE,1984-Q4,exchange_rate_lcu_per_usd,8.27179999941666
+Switzerland,CHE,1984-Q4,exchange_rate_lcu_per_usd,2.34968333283333
+Turkey,TUR,1984-Q4,exchange_rate_lcu_per_usd,3.66677833333e-4
+United Kingdom,GBR,1984-Q4,exchange_rate_lcu_per_usd,0.75180666625
+United States,USA,1984-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1985-Q4,exchange_rate_lcu_per_usd,1.4318949995
+Austria,AUT,1985-Q4,exchange_rate_lcu_per_usd,1.50356460250382
+Belgium,BEL,1985-Q4,exchange_rate_lcu_per_usd,1.47194217139854
+Canada,CAN,1985-Q4,exchange_rate_lcu_per_usd,1.36550739166666
+Chile,CHL,1985-Q4,exchange_rate_lcu_per_usd,160.859999999916
+Colombia,COL,1985-Q4,exchange_rate_lcu_per_usd,142.311666666666
+Costa Rica,CRI,1985-Q4,exchange_rate_lcu_per_usd,50.45335
+Denmark,DNK,1985-Q4,exchange_rate_lcu_per_usd,10.5963916664166
+Finland,FIN,1985-Q4,exchange_rate_lcu_per_usd,1.04241124860474
+France,FRA,1985-Q4,exchange_rate_lcu_per_usd,1.3697887208689
+Germany,DEU,1985-Q4,exchange_rate_lcu_per_usd,1.50522625509375
+Greece,GRC,1985-Q4,exchange_rate_lcu_per_usd,0.405338469062362
+Hungary,HUN,1985-Q4,exchange_rate_lcu_per_usd,50.1194
+Iceland,ISL,1985-Q4,exchange_rate_lcu_per_usd,41.5076666666666
+Ireland,IRL,1985-Q4,exchange_rate_lcu_per_usd,1.200683372928
+Israel,ISR,1985-Q4,exchange_rate_lcu_per_usd,1.17884933333439
+Italy,ITA,1985-Q4,exchange_rate_lcu_per_usd,0.986143031015303
+Japan,JPN,1985-Q4,exchange_rate_lcu_per_usd,238.53583333275
+Luxembourg,LUX,1985-Q4,exchange_rate_lcu_per_usd,1.47194217139854
+Mexico,MEX,1985-Q4,exchange_rate_lcu_per_usd,0.256871583333166
+Netherlands,NLD,1985-Q4,exchange_rate_lcu_per_usd,1.50718560972179
+New Zealand,NZL,1985-Q4,exchange_rate_lcu_per_usd,2.02337249966666
+Norway,NOR,1985-Q4,exchange_rate_lcu_per_usd,8.59723333308333
+Poland,POL,1985-Q4,exchange_rate_lcu_per_usd,0.014714166666633
+Portugal,PRT,1985-Q4,exchange_rate_lcu_per_usd,0.849925014048643
+South Korea,KOR,1985-Q4,exchange_rate_lcu_per_usd,870.02
+Spain,ESP,1985-Q4,exchange_rate_lcu_per_usd,1.02198552362078
+Sweden,SWE,1985-Q4,exchange_rate_lcu_per_usd,8.60392499966666
+Switzerland,CHE,1985-Q4,exchange_rate_lcu_per_usd,2.457125
+Turkey,TUR,1985-Q4,exchange_rate_lcu_per_usd,5.21983083333e-4
+United Kingdom,GBR,1985-Q4,exchange_rate_lcu_per_usd,0.77924599975
+United States,USA,1985-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1986-Q4,exchange_rate_lcu_per_usd,1.49597416641666
+Austria,AUT,1986-Q4,exchange_rate_lcu_per_usd,1.10950584895193
+Belgium,BEL,1986-Q4,exchange_rate_lcu_per_usd,1.10738788808764
+Canada,CAN,1986-Q4,exchange_rate_lcu_per_usd,1.38947105916666
+Chile,CHL,1986-Q4,exchange_rate_lcu_per_usd,192.929999999666
+Colombia,COL,1986-Q4,exchange_rate_lcu_per_usd,194.260833333333
+Costa Rica,CRI,1986-Q4,exchange_rate_lcu_per_usd,55.9858916666666
+Denmark,DNK,1986-Q4,exchange_rate_lcu_per_usd,8.09099166658333
+Finland,FIN,1986-Q4,exchange_rate_lcu_per_usd,0.852632056955159
+France,FRA,1986-Q4,exchange_rate_lcu_per_usd,1.05587586787955
+Germany,DEU,1986-Q4,exchange_rate_lcu_per_usd,1.11026179835841
+Greece,GRC,1986-Q4,exchange_rate_lcu_per_usd,0.410803130349473
+Hungary,HUN,1986-Q4,exchange_rate_lcu_per_usd,45.83215
+Iceland,ISL,1986-Q4,exchange_rate_lcu_per_usd,41.1041583333333
+Ireland,IRL,1986-Q4,exchange_rate_lcu_per_usd,0.943578341781324
+Israel,ISR,1986-Q4,exchange_rate_lcu_per_usd,1.48784166658333
+Italy,ITA,1986-Q4,exchange_rate_lcu_per_usd,0.769939109730952
+Japan,JPN,1986-Q4,exchange_rate_lcu_per_usd,168.519833333083
+Luxembourg,LUX,1986-Q4,exchange_rate_lcu_per_usd,1.10738788808764
+Mexico,MEX,1986-Q4,exchange_rate_lcu_per_usd,0.611772583333
+Netherlands,NLD,1986-Q4,exchange_rate_lcu_per_usd,1.11177287388843
+New Zealand,NZL,1986-Q4,exchange_rate_lcu_per_usd,1.91316083308333
+Norway,NOR,1986-Q4,exchange_rate_lcu_per_usd,7.39474166666666
+Poland,POL,1986-Q4,exchange_rate_lcu_per_usd,0.017528666666667
+Portugal,PRT,1986-Q4,exchange_rate_lcu_per_usd,0.746135563292465
+South Korea,KOR,1986-Q4,exchange_rate_lcu_per_usd,881.455833333333
+Spain,ESP,1986-Q4,exchange_rate_lcu_per_usd,0.841707688400274
+Sweden,SWE,1986-Q4,exchange_rate_lcu_per_usd,7.12358333333333
+Switzerland,CHE,1986-Q4,exchange_rate_lcu_per_usd,1.7989166665
+Turkey,TUR,1986-Q4,exchange_rate_lcu_per_usd,6.7451175e-4
+United Kingdom,GBR,1986-Q4,exchange_rate_lcu_per_usd,0.682197333333333
+United States,USA,1986-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1987-Q4,exchange_rate_lcu_per_usd,1.42818
+Austria,AUT,1987-Q4,exchange_rate_lcu_per_usd,0.918766305967166
+Belgium,BEL,1987-Q4,exchange_rate_lcu_per_usd,0.925487751167784
+Canada,CAN,1987-Q4,exchange_rate_lcu_per_usd,1.32598258166666
+Chile,CHL,1987-Q4,exchange_rate_lcu_per_usd,219.406666666666
+Colombia,COL,1987-Q4,exchange_rate_lcu_per_usd,242.606666666666
+Costa Rica,CRI,1987-Q4,exchange_rate_lcu_per_usd,62.7762
+Denmark,DNK,1987-Q4,exchange_rate_lcu_per_usd,6.84031666666666
+Finland,FIN,1987-Q4,exchange_rate_lcu_per_usd,0.739280962976792
+France,FRA,1987-Q4,exchange_rate_lcu_per_usd,0.916326578317379
+Germany,DEU,1987-Q4,exchange_rate_lcu_per_usd,0.918991766496408
+Greece,GRC,1987-Q4,exchange_rate_lcu_per_usd,0.397445341159208
+Hungary,HUN,1987-Q4,exchange_rate_lcu_per_usd,46.9705416666666
+Iceland,ISL,1987-Q4,exchange_rate_lcu_per_usd,38.6771833333333
+Ireland,IRL,1987-Q4,exchange_rate_lcu_per_usd,0.854427915276304
+Israel,ISR,1987-Q4,exchange_rate_lcu_per_usd,1.59464166666666
+Italy,ITA,1987-Q4,exchange_rate_lcu_per_usd,0.669364293202911
+Japan,JPN,1987-Q4,exchange_rate_lcu_per_usd,144.6375
+Luxembourg,LUX,1987-Q4,exchange_rate_lcu_per_usd,0.925487751167784
+Mexico,MEX,1987-Q4,exchange_rate_lcu_per_usd,1.3781825
+Netherlands,NLD,1987-Q4,exchange_rate_lcu_per_usd,0.919222583733794
+New Zealand,NZL,1987-Q4,exchange_rate_lcu_per_usd,1.69456083333333
+Norway,NOR,1987-Q4,exchange_rate_lcu_per_usd,6.73745
+Poland,POL,1987-Q4,exchange_rate_lcu_per_usd,0.02650825
+Portugal,PRT,1987-Q4,exchange_rate_lcu_per_usd,0.702718531672005
+South Korea,KOR,1987-Q4,exchange_rate_lcu_per_usd,822.564166666666
+Spain,ESP,1987-Q4,exchange_rate_lcu_per_usd,0.742119729624686
+Sweden,SWE,1987-Q4,exchange_rate_lcu_per_usd,6.34044166666666
+Switzerland,CHE,1987-Q4,exchange_rate_lcu_per_usd,1.49119166666666
+Turkey,TUR,1987-Q4,exchange_rate_lcu_per_usd,8.57214166667e-4
+United Kingdom,GBR,1987-Q4,exchange_rate_lcu_per_usd,0.6119265
+United States,USA,1987-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1988-Q4,exchange_rate_lcu_per_usd,1.27990833333333
+Austria,AUT,1988-Q4,exchange_rate_lcu_per_usd,0.89733993202667806
+Belgium,BEL,1988-Q4,exchange_rate_lcu_per_usd,0.911463175003738
+Canada,CAN,1988-Q4,exchange_rate_lcu_per_usd,1.23070084666666
+Chile,CHL,1988-Q4,exchange_rate_lcu_per_usd,245.011666666666
+Colombia,COL,1988-Q4,exchange_rate_lcu_per_usd,299.173333333333
+Costa Rica,CRI,1988-Q4,exchange_rate_lcu_per_usd,75.8047333333333
+Denmark,DNK,1988-Q4,exchange_rate_lcu_per_usd,6.73152499999999
+Finland,FIN,1988-Q4,exchange_rate_lcu_per_usd,0.703502065067423
+France,FRA,1988-Q4,exchange_rate_lcu_per_usd,0.908129902823915
+Germany,DEU,1988-Q4,exchange_rate_lcu_per_usd,0.897943584053829
+Greece,GRC,1988-Q4,exchange_rate_lcu_per_usd,0.416318415260455
+Hungary,HUN,1988-Q4,exchange_rate_lcu_per_usd,50.4132083333333
+Iceland,ISL,1988-Q4,exchange_rate_lcu_per_usd,43.0139833333333
+Ireland,IRL,1988-Q4,exchange_rate_lcu_per_usd,0.833541782001209
+Israel,ISR,1988-Q4,exchange_rate_lcu_per_usd,1.59893333333333
+Italy,ITA,1988-Q4,exchange_rate_lcu_per_usd,0.672234502419601
+Japan,JPN,1988-Q4,exchange_rate_lcu_per_usd,128.151666666666
+Luxembourg,LUX,1988-Q4,exchange_rate_lcu_per_usd,0.911463175003738
+Mexico,MEX,1988-Q4,exchange_rate_lcu_per_usd,2.273105
+Netherlands,NLD,1988-Q4,exchange_rate_lcu_per_usd,0.896934412120166
+New Zealand,NZL,1988-Q4,exchange_rate_lcu_per_usd,1.52640083333333
+Norway,NOR,1988-Q4,exchange_rate_lcu_per_usd,6.51698333333333
+Poland,POL,1988-Q4,exchange_rate_lcu_per_usd,0.043054583333333
+Portugal,PRT,1988-Q4,exchange_rate_lcu_per_usd,0.718039109080451
+South Korea,KOR,1988-Q4,exchange_rate_lcu_per_usd,731.463333333333
+Spain,ESP,1988-Q4,exchange_rate_lcu_per_usd,0.700099968346694
+Sweden,SWE,1988-Q4,exchange_rate_lcu_per_usd,6.12715
+Switzerland,CHE,1988-Q4,exchange_rate_lcu_per_usd,1.4633
+Turkey,TUR,1988-Q4,exchange_rate_lcu_per_usd,0.001422345833333
+United Kingdom,GBR,1988-Q4,exchange_rate_lcu_per_usd,0.562170166666666
+United States,USA,1988-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1989-Q4,exchange_rate_lcu_per_usd,1.26459666666666
+Austria,AUT,1989-Q4,exchange_rate_lcu_per_usd,0.961510044596898
+Belgium,BEL,1989-Q4,exchange_rate_lcu_per_usd,0.976799645016473
+Canada,CAN,1989-Q4,exchange_rate_lcu_per_usd,1.18397208416666
+Chile,CHL,1989-Q4,exchange_rate_lcu_per_usd,266.954166666666
+Colombia,COL,1989-Q4,exchange_rate_lcu_per_usd,382.566666666666
+Costa Rica,CRI,1989-Q4,exchange_rate_lcu_per_usd,81.5042083333333
+Denmark,DNK,1989-Q4,exchange_rate_lcu_per_usd,7.310175
+Finland,FIN,1989-Q4,exchange_rate_lcu_per_usd,0.721730693007138
+France,FRA,1989-Q4,exchange_rate_lcu_per_usd,0.972646326918787
+Germany,DEU,1989-Q4,exchange_rate_lcu_per_usd,0.961250040477276
+Greece,GRC,1989-Q4,exchange_rate_lcu_per_usd,0.476644411836634
+Hungary,HUN,1989-Q4,exchange_rate_lcu_per_usd,59.0663416666666
+Iceland,ISL,1989-Q4,exchange_rate_lcu_per_usd,57.0417916666666
+Ireland,IRL,1989-Q4,exchange_rate_lcu_per_usd,0.895855236315186
+Israel,ISR,1989-Q4,exchange_rate_lcu_per_usd,1.91641666666666
+Italy,ITA,1989-Q4,exchange_rate_lcu_per_usd,0.708627068194689
+Japan,JPN,1989-Q4,exchange_rate_lcu_per_usd,137.964416666666
+Luxembourg,LUX,1989-Q4,exchange_rate_lcu_per_usd,0.976799645016473
+Mexico,MEX,1989-Q4,exchange_rate_lcu_per_usd,2.4614725
+Netherlands,NLD,1989-Q4,exchange_rate_lcu_per_usd,0.962348721020461
+New Zealand,NZL,1989-Q4,exchange_rate_lcu_per_usd,1.67214833333333
+Norway,NOR,1989-Q4,exchange_rate_lcu_per_usd,6.9045
+Poland,POL,1989-Q4,exchange_rate_lcu_per_usd,0.143918416666666
+Portugal,PRT,1989-Q4,exchange_rate_lcu_per_usd,0.785398439760178
+South Korea,KOR,1989-Q4,exchange_rate_lcu_per_usd,671.455833333333
+Spain,ESP,1989-Q4,exchange_rate_lcu_per_usd,0.711464105553755
+Sweden,SWE,1989-Q4,exchange_rate_lcu_per_usd,6.44687583333333
+Switzerland,CHE,1989-Q4,exchange_rate_lcu_per_usd,1.635925
+Turkey,TUR,1989-Q4,exchange_rate_lcu_per_usd,0.002121679166667
+United Kingdom,GBR,1989-Q4,exchange_rate_lcu_per_usd,0.61117275
+United States,USA,1989-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1990-Q4,exchange_rate_lcu_per_usd,1.28105666666666
+Austria,AUT,1990-Q4,exchange_rate_lcu_per_usd,0.826278012349534
+Belgium,BEL,1990-Q4,exchange_rate_lcu_per_usd,0.828408515307839
+Canada,CAN,1990-Q4,exchange_rate_lcu_per_usd,1.16677362666666
+Chile,CHL,1990-Q4,exchange_rate_lcu_per_usd,304.903333333333
+Colombia,COL,1990-Q4,exchange_rate_lcu_per_usd,502.26
+Costa Rica,CRI,1990-Q4,exchange_rate_lcu_per_usd,91.5792916666666
+Czechia,CZE,1990-Q4,exchange_rate_lcu_per_usd,21.145
+Denmark,DNK,1990-Q4,exchange_rate_lcu_per_usd,6.18855833333333
+Finland,FIN,1990-Q4,exchange_rate_lcu_per_usd,0.64306737776522
+France,FRA,1990-Q4,exchange_rate_lcu_per_usd,0.83012682233744
+Germany,DEU,1990-Q4,exchange_rate_lcu_per_usd,0.826111335511435
+Greece,GRC,1990-Q4,exchange_rate_lcu_per_usd,0.465191244803131
+Hungary,HUN,1990-Q4,exchange_rate_lcu_per_usd,63.2058666666666
+Iceland,ISL,1990-Q4,exchange_rate_lcu_per_usd,58.283775
+Ireland,IRL,1990-Q4,exchange_rate_lcu_per_usd,0.767668828607368
+Israel,ISR,1990-Q4,exchange_rate_lcu_per_usd,2.016175
+Italy,ITA,1990-Q4,exchange_rate_lcu_per_usd,0.618767871560614
+Japan,JPN,1990-Q4,exchange_rate_lcu_per_usd,144.7925
+Luxembourg,LUX,1990-Q4,exchange_rate_lcu_per_usd,0.828408515307839
+Mexico,MEX,1990-Q4,exchange_rate_lcu_per_usd,2.81259916666666
+Netherlands,NLD,1990-Q4,exchange_rate_lcu_per_usd,0.826307302987539
+New Zealand,NZL,1990-Q4,exchange_rate_lcu_per_usd,1.67620333333333
+Norway,NOR,1990-Q4,exchange_rate_lcu_per_usd,6.25974166666666
+Poland,POL,1990-Q4,exchange_rate_lcu_per_usd,0.95
+Portugal,PRT,1990-Q4,exchange_rate_lcu_per_usd,0.711060095170639
+South Korea,KOR,1990-Q4,exchange_rate_lcu_per_usd,707.765833333333
+Spain,ESP,1990-Q4,exchange_rate_lcu_per_usd,0.612635177639146
+Sweden,SWE,1990-Q4,exchange_rate_lcu_per_usd,5.91879
+Switzerland,CHE,1990-Q4,exchange_rate_lcu_per_usd,1.38915833333333
+Turkey,TUR,1990-Q4,exchange_rate_lcu_per_usd,0.002608641666667
+United Kingdom,GBR,1990-Q4,exchange_rate_lcu_per_usd,0.563177166666666
+United States,USA,1990-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1991-Q4,exchange_rate_lcu_per_usd,1.28375583333333
+Austria,AUT,1991-Q4,exchange_rate_lcu_per_usd,0.848521955674418
+Belgium,BEL,1991-Q4,exchange_rate_lcu_per_usd,0.846513005733777
+Canada,CAN,1991-Q4,exchange_rate_lcu_per_usd,1.14572584416666
+Chile,CHL,1991-Q4,exchange_rate_lcu_per_usd,349.215833333333
+Colombia,COL,1991-Q4,exchange_rate_lcu_per_usd,627.1525
+Costa Rica,CRI,1991-Q4,exchange_rate_lcu_per_usd,122.432416666666
+Czechia,CZE,1991-Q4,exchange_rate_lcu_per_usd,27.92
+Denmark,DNK,1991-Q4,exchange_rate_lcu_per_usd,6.39645833333333
+Finland,FIN,1991-Q4,exchange_rate_lcu_per_usd,0.680148470695217
+France,FRA,1991-Q4,exchange_rate_lcu_per_usd,0.860135140972148
+Germany,DEU,1991-Q4,exchange_rate_lcu_per_usd,0.848510180673509
+Greece,GRC,1991-Q4,exchange_rate_lcu_per_usd,0.534897774516998
+Hungary,HUN,1991-Q4,exchange_rate_lcu_per_usd,74.7353833333333
+Iceland,ISL,1991-Q4,exchange_rate_lcu_per_usd,58.9963416666666
+Ireland,IRL,1991-Q4,exchange_rate_lcu_per_usd,0.788885093782854
+Israel,ISR,1991-Q4,exchange_rate_lcu_per_usd,2.27910833333333
+Italy,ITA,1991-Q4,exchange_rate_lcu_per_usd,0.640723315102403
+Japan,JPN,1991-Q4,exchange_rate_lcu_per_usd,134.706666666666
+Luxembourg,LUX,1991-Q4,exchange_rate_lcu_per_usd,0.846513005733777
+Mexico,MEX,1991-Q4,exchange_rate_lcu_per_usd,3.01843
+Netherlands,NLD,1991-Q4,exchange_rate_lcu_per_usd,0.848417744016531
+New Zealand,NZL,1991-Q4,exchange_rate_lcu_per_usd,1.73351416666666
+Norway,NOR,1991-Q4,exchange_rate_lcu_per_usd,6.4829425
+Poland,POL,1991-Q4,exchange_rate_lcu_per_usd,1.05760583333333
+Portugal,PRT,1991-Q4,exchange_rate_lcu_per_usd,0.720673177641883
+Slovenia,SVN,1991-Q4,exchange_rate_lcu_per_usd,0.115052578868302
+South Korea,KOR,1991-Q4,exchange_rate_lcu_per_usd,733.329166666666
+Spain,ESP,1991-Q4,exchange_rate_lcu_per_usd,0.624521193690172
+Sweden,SWE,1991-Q4,exchange_rate_lcu_per_usd,6.04746666666666
+Switzerland,CHE,1991-Q4,exchange_rate_lcu_per_usd,1.43399166666666
+Turkey,TUR,1991-Q4,exchange_rate_lcu_per_usd,0.004171815833333
+United Kingdom,GBR,1991-Q4,exchange_rate_lcu_per_usd,0.567015333333333
+United States,USA,1991-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1992-Q4,exchange_rate_lcu_per_usd,1.36164833333333
+Austria,AUT,1992-Q4,exchange_rate_lcu_per_usd,0.798625998948664
+Belgium,BEL,1992-Q4,exchange_rate_lcu_per_usd,0.796965287469726
+Canada,CAN,1992-Q4,exchange_rate_lcu_per_usd,1.20872292
+Chile,CHL,1992-Q4,exchange_rate_lcu_per_usd,362.575833333333
+Colombia,COL,1992-Q4,exchange_rate_lcu_per_usd,680.385833333333
+Costa Rica,CRI,1992-Q4,exchange_rate_lcu_per_usd,134.506333333333
+Czechia,CZE,1992-Q4,exchange_rate_lcu_per_usd,28.37
+Denmark,DNK,1992-Q4,exchange_rate_lcu_per_usd,6.03613333333333
+Finland,FIN,1992-Q4,exchange_rate_lcu_per_usd,0.753387725308751
+France,FRA,1992-Q4,exchange_rate_lcu_per_usd,0.807037021227509
+Germany,DEU,1992-Q4,exchange_rate_lcu_per_usd,0.798458966270075
+Greece,GRC,1992-Q4,exchange_rate_lcu_per_usd,0.559425531914894
+Hungary,HUN,1992-Q4,exchange_rate_lcu_per_usd,78.9883916666666
+Iceland,ISL,1992-Q4,exchange_rate_lcu_per_usd,57.5459333333333
+Ireland,IRL,1992-Q4,exchange_rate_lcu_per_usd,0.746251521569464
+Israel,ISR,1992-Q4,exchange_rate_lcu_per_usd,2.45908333333333
+Italy,ITA,1992-Q4,exchange_rate_lcu_per_usd,0.636484495103126
+Japan,JPN,1992-Q4,exchange_rate_lcu_per_usd,126.651333333333
+Latvia,LVA,1992-Q4,exchange_rate_lcu_per_usd,1.04789765947073
+Lithuania,LTU,1992-Q4,exchange_rate_lcu_per_usd,0.513423887859129
+Luxembourg,LUX,1992-Q4,exchange_rate_lcu_per_usd,0.796965287469726
+Mexico,MEX,1992-Q4,exchange_rate_lcu_per_usd,3.09489833333333
+Netherlands,NLD,1992-Q4,exchange_rate_lcu_per_usd,0.797957232727233
+New Zealand,NZL,1992-Q4,exchange_rate_lcu_per_usd,1.86179166666666
+Norway,NOR,1992-Q4,exchange_rate_lcu_per_usd,6.21450083333333
+Poland,POL,1992-Q4,exchange_rate_lcu_per_usd,1.36264333333333
+Portugal,PRT,1992-Q4,exchange_rate_lcu_per_usd,0.673366353754118
+Slovenia,SVN,1992-Q4,exchange_rate_lcu_per_usd,0.33920460551939
+South Korea,KOR,1992-Q4,exchange_rate_lcu_per_usd,780.670833333333
+Spain,ESP,1992-Q4,exchange_rate_lcu_per_usd,0.615310683190491
+Sweden,SWE,1992-Q4,exchange_rate_lcu_per_usd,5.82383333333333
+Switzerland,CHE,1992-Q4,exchange_rate_lcu_per_usd,1.40621833333333
+Turkey,TUR,1992-Q4,exchange_rate_lcu_per_usd,0.006872423333333
+United Kingdom,GBR,1992-Q4,exchange_rate_lcu_per_usd,0.569774166666666
+United States,USA,1992-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1993-Q4,exchange_rate_lcu_per_usd,1.47056
+Austria,AUT,1993-Q4,exchange_rate_lcu_per_usd,0.84534366983278
+Belgium,BEL,1993-Q4,exchange_rate_lcu_per_usd,0.85762534942658
+Canada,CAN,1993-Q4,exchange_rate_lcu_per_usd,1.29008788166666
+Chile,CHL,1993-Q4,exchange_rate_lcu_per_usd,404.165833333333
+Colombia,COL,1993-Q4,exchange_rate_lcu_per_usd,786.346666666666
+Costa Rica,CRI,1993-Q4,exchange_rate_lcu_per_usd,142.171666666666
+Czechia,CZE,1993-Q4,exchange_rate_lcu_per_usd,29.1528333333333
+Denmark,DNK,1993-Q4,exchange_rate_lcu_per_usd,6.48393916666666
+Estonia,EST,1993-Q4,exchange_rate_lcu_per_usd,0.845087750693441
+Finland,FIN,1993-Q4,exchange_rate_lcu_per_usd,0.960738490760036
+France,FRA,1993-Q4,exchange_rate_lcu_per_usd,0.86335384788942
+Germany,DEU,1993-Q4,exchange_rate_lcu_per_usd,0.845329519095898
+Greece,GRC,1993-Q4,exchange_rate_lcu_per_usd,0.672780171190999
+Hungary,HUN,1993-Q4,exchange_rate_lcu_per_usd,91.9331833333333
+Iceland,ISL,1993-Q4,exchange_rate_lcu_per_usd,67.6031816666666
+Ireland,IRL,1993-Q4,exchange_rate_lcu_per_usd,0.859929233264429
+Israel,ISR,1993-Q4,exchange_rate_lcu_per_usd,2.83008333333333
+Italy,ITA,1993-Q4,exchange_rate_lcu_per_usd,0.812730593701638
+Japan,JPN,1993-Q4,exchange_rate_lcu_per_usd,111.197785833333
+Latvia,LVA,1993-Q4,exchange_rate_lcu_per_usd,0.960912762780708
+Lithuania,LTU,1993-Q4,exchange_rate_lcu_per_usd,1.25812770312017
+Luxembourg,LUX,1993-Q4,exchange_rate_lcu_per_usd,0.85762534942658
+Mexico,MEX,1993-Q4,exchange_rate_lcu_per_usd,3.11561666666666
+Netherlands,NLD,1993-Q4,exchange_rate_lcu_per_usd,0.842808339875333
+New Zealand,NZL,1993-Q4,exchange_rate_lcu_per_usd,1.85051333333333
+Norway,NOR,1993-Q4,exchange_rate_lcu_per_usd,7.09412916666666
+Poland,POL,1993-Q4,exchange_rate_lcu_per_usd,1.81149666666666
+Portugal,PRT,1993-Q4,exchange_rate_lcu_per_usd,0.802067945418207
+Slovakia,SVK,1993-Q4,exchange_rate_lcu_per_usd,1.02136305295536
+Slovenia,SVN,1993-Q4,exchange_rate_lcu_per_usd,0.4725500055639
+South Korea,KOR,1993-Q4,exchange_rate_lcu_per_usd,802.538333333333
+Spain,ESP,1993-Q4,exchange_rate_lcu_per_usd,0.764850508255905
+Sweden,SWE,1993-Q4,exchange_rate_lcu_per_usd,7.78342666666666
+Switzerland,CHE,1993-Q4,exchange_rate_lcu_per_usd,1.47761666666666
+Turkey,TUR,1993-Q4,exchange_rate_lcu_per_usd,0.010984628333333
+United Kingdom,GBR,1993-Q4,exchange_rate_lcu_per_usd,0.666756553333333
+United States,USA,1993-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1994-Q4,exchange_rate_lcu_per_usd,1.36775083333333
+Austria,AUT,1994-Q4,exchange_rate_lcu_per_usd,0.830056388063247
+Belgium,BEL,1994-Q4,exchange_rate_lcu_per_usd,0.829364909184207
+Canada,CAN,1994-Q4,exchange_rate_lcu_per_usd,1.3656734475
+Chile,CHL,1994-Q4,exchange_rate_lcu_per_usd,420.176666666666
+Colombia,COL,1994-Q4,exchange_rate_lcu_per_usd,826.54
+Costa Rica,CRI,1994-Q4,exchange_rate_lcu_per_usd,157.066666666666
+Czechia,CZE,1994-Q4,exchange_rate_lcu_per_usd,28.7850833333333
+Denmark,DNK,1994-Q4,exchange_rate_lcu_per_usd,6.36055166666666
+Estonia,EST,1994-Q4,exchange_rate_lcu_per_usd,0.830292204057112
+Finland,FIN,1994-Q4,exchange_rate_lcu_per_usd,0.878531736220784
+France,FRA,1994-Q4,exchange_rate_lcu_per_usd,0.846403803907878
+Germany,DEU,1994-Q4,exchange_rate_lcu_per_usd,0.829721482269251
+Greece,GRC,1994-Q4,exchange_rate_lcu_per_usd,0.711967182685253
+Hungary,HUN,1994-Q4,exchange_rate_lcu_per_usd,105.160458333333
+Iceland,ISL,1994-Q4,exchange_rate_lcu_per_usd,69.9443783333333
+Ireland,IRL,1994-Q4,exchange_rate_lcu_per_usd,0.848982560993985
+Israel,ISR,1994-Q4,exchange_rate_lcu_per_usd,3.01105520833333
+Italy,ITA,1994-Q4,exchange_rate_lcu_per_usd,0.83275833604473
+Japan,JPN,1994-Q4,exchange_rate_lcu_per_usd,102.207805833333
+Latvia,LVA,1994-Q4,exchange_rate_lcu_per_usd,0.79645249600173
+Lithuania,LTU,1994-Q4,exchange_rate_lcu_per_usd,1.15203602873031
+Luxembourg,LUX,1994-Q4,exchange_rate_lcu_per_usd,0.829364909184207
+Mexico,MEX,1994-Q4,exchange_rate_lcu_per_usd,3.37511666666666
+Netherlands,NLD,1994-Q4,exchange_rate_lcu_per_usd,0.825877762197989
+New Zealand,NZL,1994-Q4,exchange_rate_lcu_per_usd,1.68652166666666
+Norway,NOR,1994-Q4,exchange_rate_lcu_per_usd,7.05758416666666
+Poland,POL,1994-Q4,exchange_rate_lcu_per_usd,2.27227666666666
+Portugal,PRT,1994-Q4,exchange_rate_lcu_per_usd,0.827968479298226
+Slovakia,SVK,1994-Q4,exchange_rate_lcu_per_usd,1.06369359799951
+Slovenia,SVN,1994-Q4,exchange_rate_lcu_per_usd,0.537508589272797
+South Korea,KOR,1994-Q4,exchange_rate_lcu_per_usd,803.771666666666
+Spain,ESP,1994-Q4,exchange_rate_lcu_per_usd,0.80510352433498
+Sweden,SWE,1994-Q4,exchange_rate_lcu_per_usd,7.71597
+Switzerland,CHE,1994-Q4,exchange_rate_lcu_per_usd,1.3676925
+Turkey,TUR,1994-Q4,exchange_rate_lcu_per_usd,0.029608675833333
+United Kingdom,GBR,1994-Q4,exchange_rate_lcu_per_usd,0.653426604166666
+United States,USA,1994-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1995-Q4,exchange_rate_lcu_per_usd,1.3490325
+Austria,AUT,1995-Q4,exchange_rate_lcu_per_usd,0.7326508748598
+Belgium,BEL,1995-Q4,exchange_rate_lcu_per_usd,0.730790524187385
+Canada,CAN,1995-Q4,exchange_rate_lcu_per_usd,1.37244541833333
+Chile,CHL,1995-Q4,exchange_rate_lcu_per_usd,396.773333333333
+Colombia,COL,1995-Q4,exchange_rate_lcu_per_usd,912.895
+Costa Rica,CRI,1995-Q4,exchange_rate_lcu_per_usd,179.729166666666
+Czechia,CZE,1995-Q4,exchange_rate_lcu_per_usd,26.5406666666666
+Denmark,DNK,1995-Q4,exchange_rate_lcu_per_usd,5.60236666666666
+Estonia,EST,1995-Q4,exchange_rate_lcu_per_usd,0.732731072565286
+Finland,FIN,1995-Q4,exchange_rate_lcu_per_usd,0.734420612215265
+France,FRA,1995-Q4,exchange_rate_lcu_per_usd,0.760946601682732
+Germany,DEU,1995-Q4,exchange_rate_lcu_per_usd,0.73274901192844
+Greece,GRC,1995-Q4,exchange_rate_lcu_per_usd,0.679861293714844
+Hungary,HUN,1995-Q4,exchange_rate_lcu_per_usd,125.681425
+Iceland,ISL,1995-Q4,exchange_rate_lcu_per_usd,64.6916666666666
+Ireland,IRL,1995-Q4,exchange_rate_lcu_per_usd,0.791977636103225
+Israel,ISR,1995-Q4,exchange_rate_lcu_per_usd,3.01129166666666
+Italy,ITA,1995-Q4,exchange_rate_lcu_per_usd,0.841273767776875
+Japan,JPN,1995-Q4,exchange_rate_lcu_per_usd,94.0595791666666
+Latvia,LVA,1995-Q4,exchange_rate_lcu_per_usd,0.750683452759707
+Lithuania,LTU,1995-Q4,exchange_rate_lcu_per_usd,1.15848007414272
+Luxembourg,LUX,1995-Q4,exchange_rate_lcu_per_usd,0.730790524187385
+Mexico,MEX,1995-Q4,exchange_rate_lcu_per_usd,6.419425
+Netherlands,NLD,1995-Q4,exchange_rate_lcu_per_usd,0.728623661915588
+New Zealand,NZL,1995-Q4,exchange_rate_lcu_per_usd,1.52387666666666
+Norway,NOR,1995-Q4,exchange_rate_lcu_per_usd,6.33515666666666
+Poland,POL,1995-Q4,exchange_rate_lcu_per_usd,2.42498333333333
+Portugal,PRT,1995-Q4,exchange_rate_lcu_per_usd,0.753711197680256
+Slovakia,SVK,1995-Q4,exchange_rate_lcu_per_usd,0.986304742304544
+Slovenia,SVN,1995-Q4,exchange_rate_lcu_per_usd,0.494568797640907
+South Korea,KOR,1995-Q4,exchange_rate_lcu_per_usd,771.254166666666
+Spain,ESP,1995-Q4,exchange_rate_lcu_per_usd,0.749395982835094
+Sweden,SWE,1995-Q4,exchange_rate_lcu_per_usd,7.13326833333333
+Switzerland,CHE,1995-Q4,exchange_rate_lcu_per_usd,1.18246916666666
+Turkey,TUR,1995-Q4,exchange_rate_lcu_per_usd,0.045845060833333
+United Kingdom,GBR,1995-Q4,exchange_rate_lcu_per_usd,0.63366812
+United States,USA,1995-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1996-Q4,exchange_rate_lcu_per_usd,1.27786333333333
+Austria,AUT,1996-Q4,exchange_rate_lcu_per_usd,0.769355137606011
+Belgium,BEL,1996-Q4,exchange_rate_lcu_per_usd,0.767515867251364
+Canada,CAN,1996-Q4,exchange_rate_lcu_per_usd,1.36352163583333
+Chile,CHL,1996-Q4,exchange_rate_lcu_per_usd,412.266666666666
+Colombia,COL,1996-Q4,exchange_rate_lcu_per_usd,1036.6225
+Costa Rica,CRI,1996-Q4,exchange_rate_lcu_per_usd,207.689166666666
+Czechia,CZE,1996-Q4,exchange_rate_lcu_per_usd,27.1449166666666
+Denmark,DNK,1996-Q4,exchange_rate_lcu_per_usd,5.79867166666666
+Estonia,EST,1996-Q4,exchange_rate_lcu_per_usd,0.769368425089157
+Finland,FIN,1996-Q4,exchange_rate_lcu_per_usd,0.772579649597274
+France,FRA,1996-Q4,exchange_rate_lcu_per_usd,0.779856377780861
+Germany,DEU,1996-Q4,exchange_rate_lcu_per_usd,0.769378814450474
+Greece,GRC,1996-Q4,exchange_rate_lcu_per_usd,0.706416852531181
+Hungary,HUN,1996-Q4,exchange_rate_lcu_per_usd,152.646666666666
+Iceland,ISL,1996-Q4,exchange_rate_lcu_per_usd,66.5
+Ireland,IRL,1996-Q4,exchange_rate_lcu_per_usd,0.793622319371293
+Israel,ISR,1996-Q4,exchange_rate_lcu_per_usd,3.19165
+Italy,ITA,1996-Q4,exchange_rate_lcu_per_usd,0.796865605864198
+Japan,JPN,1996-Q4,exchange_rate_lcu_per_usd,108.779056666666
+Latvia,LVA,1996-Q4,exchange_rate_lcu_per_usd,0.783646649706035
+Lithuania,LTU,1996-Q4,exchange_rate_lcu_per_usd,1.15848007414272
+Luxembourg,LUX,1996-Q4,exchange_rate_lcu_per_usd,0.767515867251364
+Mexico,MEX,1996-Q4,exchange_rate_lcu_per_usd,7.59944841666666
+Netherlands,NLD,1996-Q4,exchange_rate_lcu_per_usd,0.765026591520663
+New Zealand,NZL,1996-Q4,exchange_rate_lcu_per_usd,1.4548475
+Norway,NOR,1996-Q4,exchange_rate_lcu_per_usd,6.44980833333333
+Poland,POL,1996-Q4,exchange_rate_lcu_per_usd,2.6961
+Portugal,PRT,1996-Q4,exchange_rate_lcu_per_usd,0.769364140754118
+Slovakia,SVK,1996-Q4,exchange_rate_lcu_per_usd,1.01751809068579
+Slovenia,SVN,1996-Q4,exchange_rate_lcu_per_usd,0.564865249262782
+South Korea,KOR,1996-Q4,exchange_rate_lcu_per_usd,804.4575
+Spain,ESP,1996-Q4,exchange_rate_lcu_per_usd,0.761251447437483
+Sweden,SWE,1996-Q4,exchange_rate_lcu_per_usd,6.70595583333333
+Switzerland,CHE,1996-Q4,exchange_rate_lcu_per_usd,1.23601
+Turkey,TUR,1996-Q4,exchange_rate_lcu_per_usd,0.081404891666667
+United Kingdom,GBR,1996-Q4,exchange_rate_lcu_per_usd,0.640958255
+United States,USA,1996-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1997-Q4,exchange_rate_lcu_per_usd,1.34738
+Austria,AUT,1997-Q4,exchange_rate_lcu_per_usd,0.886917012468238
+Belgium,BEL,1997-Q4,exchange_rate_lcu_per_usd,0.886811589352807
+Canada,CAN,1997-Q4,exchange_rate_lcu_per_usd,1.38459802833333
+Chile,CHL,1997-Q4,exchange_rate_lcu_per_usd,419.295
+Colombia,COL,1997-Q4,exchange_rate_lcu_per_usd,1141.11666666666
+Costa Rica,CRI,1997-Q4,exchange_rate_lcu_per_usd,232.5975
+Czechia,CZE,1997-Q4,exchange_rate_lcu_per_usd,31.6984166666666
+Denmark,DNK,1997-Q4,exchange_rate_lcu_per_usd,6.60445916666666
+Estonia,EST,1997-Q4,exchange_rate_lcu_per_usd,0.887205527079366
+Finland,FIN,1997-Q4,exchange_rate_lcu_per_usd,0.873136688009715
+France,FRA,1997-Q4,exchange_rate_lcu_per_usd,0.889797908501117
+Germany,DEU,1997-Q4,exchange_rate_lcu_per_usd,0.886608669124275
+Greece,GRC,1997-Q4,exchange_rate_lcu_per_usd,0.801343663487404
+Hungary,HUN,1997-Q4,exchange_rate_lcu_per_usd,186.789166666666
+Iceland,ISL,1997-Q4,exchange_rate_lcu_per_usd,70.9042908333333
+Ireland,IRL,1997-Q4,exchange_rate_lcu_per_usd,0.837573996102751
+Israel,ISR,1997-Q4,exchange_rate_lcu_per_usd,3.44935
+Italy,ITA,1997-Q4,exchange_rate_lcu_per_usd,0.879576148126723
+Japan,JPN,1997-Q4,exchange_rate_lcu_per_usd,120.9908625
+Latvia,LVA,1997-Q4,exchange_rate_lcu_per_usd,0.826569949326792
+Lithuania,LTU,1997-Q4,exchange_rate_lcu_per_usd,1.15848007414272
+Luxembourg,LUX,1997-Q4,exchange_rate_lcu_per_usd,0.886811589352807
+Mexico,MEX,1997-Q4,exchange_rate_lcu_per_usd,7.91846
+Netherlands,NLD,1997-Q4,exchange_rate_lcu_per_usd,0.885447684435189
+New Zealand,NZL,1997-Q4,exchange_rate_lcu_per_usd,1.51242083333333
+Norway,NOR,1997-Q4,exchange_rate_lcu_per_usd,7.07340083333333
+Poland,POL,1997-Q4,exchange_rate_lcu_per_usd,3.27929166666666
+Portugal,PRT,1997-Q4,exchange_rate_lcu_per_usd,0.87445478895861
+Slovakia,SVK,1997-Q4,exchange_rate_lcu_per_usd,1.11585230919029
+Slovenia,SVN,1997-Q4,exchange_rate_lcu_per_usd,0.666367606966003
+South Korea,KOR,1997-Q4,exchange_rate_lcu_per_usd,949.89
+Spain,ESP,1997-Q4,exchange_rate_lcu_per_usd,0.879963628750814
+Sweden,SWE,1997-Q4,exchange_rate_lcu_per_usd,7.63489416666666
+Switzerland,CHE,1997-Q4,exchange_rate_lcu_per_usd,1.4513125
+Turkey,TUR,1997-Q4,exchange_rate_lcu_per_usd,0.151865
+United Kingdom,GBR,1997-Q4,exchange_rate_lcu_per_usd,0.61083611416666606
+United States,USA,1997-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1998-Q4,exchange_rate_lcu_per_usd,1.59182833333333
+Austria,AUT,1998-Q4,exchange_rate_lcu_per_usd,0.899621737898156
+Belgium,BEL,1998-Q4,exchange_rate_lcu_per_usd,0.899819802065283
+Canada,CAN,1998-Q4,exchange_rate_lcu_per_usd,1.48350530166666
+Chile,CHL,1998-Q4,exchange_rate_lcu_per_usd,460.2875
+Colombia,COL,1998-Q4,exchange_rate_lcu_per_usd,1426.42416666666
+Costa Rica,CRI,1998-Q4,exchange_rate_lcu_per_usd,257.229166666666
+Czechia,CZE,1998-Q4,exchange_rate_lcu_per_usd,32.2811666666666
+Denmark,DNK,1998-Q4,exchange_rate_lcu_per_usd,6.70082666666666
+Estonia,EST,1998-Q4,exchange_rate_lcu_per_usd,0.899535149276309
+Finland,FIN,1998-Q4,exchange_rate_lcu_per_usd,0.89880735138214
+France,FRA,1998-Q4,exchange_rate_lcu_per_usd,0.89937536556004
+Germany,DEU,1998-Q4,exchange_rate_lcu_per_usd,0.899703757484035
+Greece,GRC,1998-Q4,exchange_rate_lcu_per_usd,0.867290110051357
+Hungary,HUN,1998-Q4,exchange_rate_lcu_per_usd,214.401666666666
+Iceland,ISL,1998-Q4,exchange_rate_lcu_per_usd,70.9583333333333
+Ireland,IRL,1998-Q4,exchange_rate_lcu_per_usd,0.891700227960309
+Israel,ISR,1998-Q4,exchange_rate_lcu_per_usd,3.800075
+Italy,ITA,1998-Q4,exchange_rate_lcu_per_usd,0.896676281372603
+Japan,JPN,1998-Q4,exchange_rate_lcu_per_usd,130.905300666666
+Latvia,LVA,1998-Q4,exchange_rate_lcu_per_usd,0.839257222971601
+Lithuania,LTU,1998-Q4,exchange_rate_lcu_per_usd,1.15848007414272
+Luxembourg,LUX,1998-Q4,exchange_rate_lcu_per_usd,0.899819802065283
+Mexico,MEX,1998-Q4,exchange_rate_lcu_per_usd,9.13604175
+Netherlands,NLD,1998-Q4,exchange_rate_lcu_per_usd,0.90017878940514
+New Zealand,NZL,1998-Q4,exchange_rate_lcu_per_usd,1.86824916666666
+Norway,NOR,1998-Q4,exchange_rate_lcu_per_usd,7.5450975
+Poland,POL,1998-Q4,exchange_rate_lcu_per_usd,3.4754
+Portugal,PRT,1998-Q4,exchange_rate_lcu_per_usd,0.898357358765375
+Slovakia,SVK,1998-Q4,exchange_rate_lcu_per_usd,1.16953517448937
+Slovenia,SVN,1998-Q4,exchange_rate_lcu_per_usd,0.693265592833696
+South Korea,KOR,1998-Q4,exchange_rate_lcu_per_usd,1403.18333333333
+Spain,ESP,1998-Q4,exchange_rate_lcu_per_usd,0.897884026700966
+Sweden,SWE,1998-Q4,exchange_rate_lcu_per_usd,7.94986816666666
+Switzerland,CHE,1998-Q4,exchange_rate_lcu_per_usd,1.44981330833333
+Turkey,TUR,1998-Q4,exchange_rate_lcu_per_usd,0.26072425
+United Kingdom,GBR,1998-Q4,exchange_rate_lcu_per_usd,0.603823594166666
+United States,USA,1998-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,1999-Q4,exchange_rate_lcu_per_usd,1.54995
+Austria,AUT,1999-Q4,exchange_rate_lcu_per_usd,0.938283072395283
+Belgium,BEL,1999-Q4,exchange_rate_lcu_per_usd,0.938283072395283
+Canada,CAN,1999-Q4,exchange_rate_lcu_per_usd,1.48570481916666
+Chile,CHL,1999-Q4,exchange_rate_lcu_per_usd,508.776666666666
+Colombia,COL,1999-Q4,exchange_rate_lcu_per_usd,1756.68583333333
+Costa Rica,CRI,1999-Q4,exchange_rate_lcu_per_usd,285.684694833333
+Czechia,CZE,1999-Q4,exchange_rate_lcu_per_usd,34.56925
+Denmark,DNK,1999-Q4,exchange_rate_lcu_per_usd,6.97623999999999
+Estonia,EST,1999-Q4,exchange_rate_lcu_per_usd,0.938068547373442
+Finland,FIN,1999-Q4,exchange_rate_lcu_per_usd,0.938283072395283
+France,FRA,1999-Q4,exchange_rate_lcu_per_usd,0.938283072395283
+Germany,DEU,1999-Q4,exchange_rate_lcu_per_usd,0.938283072395283
+Greece,GRC,1999-Q4,exchange_rate_lcu_per_usd,0.896981963805332
+Hungary,HUN,1999-Q4,exchange_rate_lcu_per_usd,237.145833333333
+Iceland,ISL,1999-Q4,exchange_rate_lcu_per_usd,72.3352933333333
+Ireland,IRL,1999-Q4,exchange_rate_lcu_per_usd,0.938283072395283
+Israel,ISR,1999-Q4,exchange_rate_lcu_per_usd,4.13971666666666
+Italy,ITA,1999-Q4,exchange_rate_lcu_per_usd,0.938283072395283
+Japan,JPN,1999-Q4,exchange_rate_lcu_per_usd,113.906805
+Latvia,LVA,1999-Q4,exchange_rate_lcu_per_usd,0.832617154521982
+Lithuania,LTU,1999-Q4,exchange_rate_lcu_per_usd,1.15848007414272
+Luxembourg,LUX,1999-Q4,exchange_rate_lcu_per_usd,0.938283072395283
+Mexico,MEX,1999-Q4,exchange_rate_lcu_per_usd,9.5603975
+Netherlands,NLD,1999-Q4,exchange_rate_lcu_per_usd,0.938283072395283
+New Zealand,NZL,1999-Q4,exchange_rate_lcu_per_usd,1.88961389919166
+Norway,NOR,1999-Q4,exchange_rate_lcu_per_usd,7.79917166666666
+Poland,POL,1999-Q4,exchange_rate_lcu_per_usd,3.96710833333333
+Portugal,PRT,1999-Q4,exchange_rate_lcu_per_usd,0.938283072395283
+Slovakia,SVK,1999-Q4,exchange_rate_lcu_per_usd,1.37299453406802
+Slovenia,SVN,1999-Q4,exchange_rate_lcu_per_usd,0.758509402993378
+South Korea,KOR,1999-Q4,exchange_rate_lcu_per_usd,1189.43916666666
+Spain,ESP,1999-Q4,exchange_rate_lcu_per_usd,0.938283072395283
+Sweden,SWE,1999-Q4,exchange_rate_lcu_per_usd,8.26242833333333
+Switzerland,CHE,1999-Q4,exchange_rate_lcu_per_usd,1.502155
+Turkey,TUR,1999-Q4,exchange_rate_lcu_per_usd,0.418782916666666
+United Kingdom,GBR,1999-Q4,exchange_rate_lcu_per_usd,0.618056844999999
+United States,USA,1999-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2000-Q4,exchange_rate_lcu_per_usd,1.72482666666666
+Austria,AUT,2000-Q4,exchange_rate_lcu_per_usd,1.08270508132602
+Belgium,BEL,2000-Q4,exchange_rate_lcu_per_usd,1.08270508132602
+Canada,CAN,2000-Q4,exchange_rate_lcu_per_usd,1.485394095
+Chile,CHL,2000-Q4,exchange_rate_lcu_per_usd,539.5875
+Colombia,COL,2000-Q4,exchange_rate_lcu_per_usd,2087.91833333333
+Costa Rica,CRI,2000-Q4,exchange_rate_lcu_per_usd,308.186666666666
+Czechia,CZE,2000-Q4,exchange_rate_lcu_per_usd,38.5984166666666
+Denmark,DNK,2000-Q4,exchange_rate_lcu_per_usd,8.08314416666666
+Estonia,EST,2000-Q4,exchange_rate_lcu_per_usd,1.08449354279311
+Finland,FIN,2000-Q4,exchange_rate_lcu_per_usd,1.08270508132602
+France,FRA,2000-Q4,exchange_rate_lcu_per_usd,1.08270508132602
+Germany,DEU,2000-Q4,exchange_rate_lcu_per_usd,1.08270508132602
+Greece,GRC,2000-Q4,exchange_rate_lcu_per_usd,1.07233620200538
+Hungary,HUN,2000-Q4,exchange_rate_lcu_per_usd,282.179166666666
+Iceland,ISL,2000-Q4,exchange_rate_lcu_per_usd,78.6159466666666
+Ireland,IRL,2000-Q4,exchange_rate_lcu_per_usd,1.08270508132602
+Israel,ISR,2000-Q4,exchange_rate_lcu_per_usd,4.07733333333333
+Italy,ITA,2000-Q4,exchange_rate_lcu_per_usd,1.08270508132602
+Japan,JPN,2000-Q4,exchange_rate_lcu_per_usd,107.765498333333
+Latvia,LVA,2000-Q4,exchange_rate_lcu_per_usd,0.862971753148815
+Lithuania,LTU,2000-Q4,exchange_rate_lcu_per_usd,1.15848007414272
+Luxembourg,LUX,2000-Q4,exchange_rate_lcu_per_usd,1.08270508132602
+Mexico,MEX,2000-Q4,exchange_rate_lcu_per_usd,9.45555833333333
+Netherlands,NLD,2000-Q4,exchange_rate_lcu_per_usd,1.08270508132602
+New Zealand,NZL,2000-Q4,exchange_rate_lcu_per_usd,2.20114916666666
+Norway,NOR,2000-Q4,exchange_rate_lcu_per_usd,8.80184166666666
+Poland,POL,2000-Q4,exchange_rate_lcu_per_usd,4.346075
+Portugal,PRT,2000-Q4,exchange_rate_lcu_per_usd,1.08270508132602
+Slovakia,SVK,2000-Q4,exchange_rate_lcu_per_usd,1.52808758768727
+Slovenia,SVN,2000-Q4,exchange_rate_lcu_per_usd,0.929127382045289
+South Korea,KOR,2000-Q4,exchange_rate_lcu_per_usd,1130.3625
+Spain,ESP,2000-Q4,exchange_rate_lcu_per_usd,1.08270508132602
+Sweden,SWE,2000-Q4,exchange_rate_lcu_per_usd,9.16224416666666
+Switzerland,CHE,2000-Q4,exchange_rate_lcu_per_usd,1.6888425
+Turkey,TUR,2000-Q4,exchange_rate_lcu_per_usd,0.6252185
+United Kingdom,GBR,2000-Q4,exchange_rate_lcu_per_usd,0.660930833333333
+United States,USA,2000-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2001-Q4,exchange_rate_lcu_per_usd,1.9334425
+Austria,AUT,2001-Q4,exchange_rate_lcu_per_usd,1.11653308564462
+Belgium,BEL,2001-Q4,exchange_rate_lcu_per_usd,1.11653308564462
+Canada,CAN,2001-Q4,exchange_rate_lcu_per_usd,1.548839955
+Chile,CHL,2001-Q4,exchange_rate_lcu_per_usd,634.938333333333
+Colombia,COL,2001-Q4,exchange_rate_lcu_per_usd,2299.89333333333
+Costa Rica,CRI,2001-Q4,exchange_rate_lcu_per_usd,328.870833333333
+Czechia,CZE,2001-Q4,exchange_rate_lcu_per_usd,38.0353283333333
+Denmark,DNK,2001-Q4,exchange_rate_lcu_per_usd,8.32281749999999
+Estonia,EST,2001-Q4,exchange_rate_lcu_per_usd,1.11705236494403
+Finland,FIN,2001-Q4,exchange_rate_lcu_per_usd,1.11653308564462
+France,FRA,2001-Q4,exchange_rate_lcu_per_usd,1.11653308564462
+Germany,DEU,2001-Q4,exchange_rate_lcu_per_usd,1.11653308564462
+Greece,GRC,2001-Q4,exchange_rate_lcu_per_usd,1.11653308564462
+Hungary,HUN,2001-Q4,exchange_rate_lcu_per_usd,286.49
+Iceland,ISL,2001-Q4,exchange_rate_lcu_per_usd,97.4246033333333
+Ireland,IRL,2001-Q4,exchange_rate_lcu_per_usd,1.11653308564462
+Israel,ISR,2001-Q4,exchange_rate_lcu_per_usd,4.20565
+Italy,ITA,2001-Q4,exchange_rate_lcu_per_usd,1.11653308564462
+Japan,JPN,2001-Q4,exchange_rate_lcu_per_usd,121.5289475
+Latvia,LVA,2001-Q4,exchange_rate_lcu_per_usd,0.893444924426536
+Lithuania,LTU,2001-Q4,exchange_rate_lcu_per_usd,1.15848007414272
+Luxembourg,LUX,2001-Q4,exchange_rate_lcu_per_usd,1.11653308564462
+Mexico,MEX,2001-Q4,exchange_rate_lcu_per_usd,9.34234166666666
+Netherlands,NLD,2001-Q4,exchange_rate_lcu_per_usd,1.11653308564462
+New Zealand,NZL,2001-Q4,exchange_rate_lcu_per_usd,2.37875083333333
+Norway,NOR,2001-Q4,exchange_rate_lcu_per_usd,8.99165416666666
+Poland,POL,2001-Q4,exchange_rate_lcu_per_usd,4.0939
+Portugal,PRT,2001-Q4,exchange_rate_lcu_per_usd,1.11653308564462
+Slovakia,SVK,2001-Q4,exchange_rate_lcu_per_usd,1.60508641483547
+Slovenia,SVN,2001-Q4,exchange_rate_lcu_per_usd,1.01297293857453
+South Korea,KOR,2001-Q4,exchange_rate_lcu_per_usd,1290.79
+Spain,ESP,2001-Q4,exchange_rate_lcu_per_usd,1.11653308564462
+Sweden,SWE,2001-Q4,exchange_rate_lcu_per_usd,10.3291358333333
+Switzerland,CHE,2001-Q4,exchange_rate_lcu_per_usd,1.687615
+Turkey,TUR,2001-Q4,exchange_rate_lcu_per_usd,1.22558808333333
+United Kingdom,GBR,2001-Q4,exchange_rate_lcu_per_usd,0.694654999999999
+United States,USA,2001-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2002-Q4,exchange_rate_lcu_per_usd,1.8405625
+Austria,AUT,2002-Q4,exchange_rate_lcu_per_usd,1.05755899623964
+Belgium,BEL,2002-Q4,exchange_rate_lcu_per_usd,1.05755899623964
+Canada,CAN,2002-Q4,exchange_rate_lcu_per_usd,1.57034283416666
+Chile,CHL,2002-Q4,exchange_rate_lcu_per_usd,688.936666666666
+Colombia,COL,2002-Q4,exchange_rate_lcu_per_usd,2504.68083333333
+Costa Rica,CRI,2002-Q4,exchange_rate_lcu_per_usd,359.81752688172
+Czechia,CZE,2002-Q4,exchange_rate_lcu_per_usd,32.7385183333333
+Denmark,DNK,2002-Q4,exchange_rate_lcu_per_usd,7.89471416666666
+Estonia,EST,2002-Q4,exchange_rate_lcu_per_usd,1.0616869905709
+Finland,FIN,2002-Q4,exchange_rate_lcu_per_usd,1.05755899623964
+France,FRA,2002-Q4,exchange_rate_lcu_per_usd,1.05755899623964
+Germany,DEU,2002-Q4,exchange_rate_lcu_per_usd,1.05755899623964
+Greece,GRC,2002-Q4,exchange_rate_lcu_per_usd,1.05755899623964
+Hungary,HUN,2002-Q4,exchange_rate_lcu_per_usd,257.886666666666
+Iceland,ISL,2002-Q4,exchange_rate_lcu_per_usd,91.6616666666666
+Ireland,IRL,2002-Q4,exchange_rate_lcu_per_usd,1.05755899623964
+Israel,ISR,2002-Q4,exchange_rate_lcu_per_usd,4.737825
+Italy,ITA,2002-Q4,exchange_rate_lcu_per_usd,1.05755899623964
+Japan,JPN,2002-Q4,exchange_rate_lcu_per_usd,125.388019166666
+Latvia,LVA,2002-Q4,exchange_rate_lcu_per_usd,0.879607496068131
+Lithuania,LTU,2002-Q4,exchange_rate_lcu_per_usd,1.06492074065493
+Luxembourg,LUX,2002-Q4,exchange_rate_lcu_per_usd,1.05755899623964
+Mexico,MEX,2002-Q4,exchange_rate_lcu_per_usd,9.65595833333333
+Netherlands,NLD,2002-Q4,exchange_rate_lcu_per_usd,1.05755899623964
+New Zealand,NZL,2002-Q4,exchange_rate_lcu_per_usd,2.16219083333333
+Norway,NOR,2002-Q4,exchange_rate_lcu_per_usd,7.98377883333333
+Poland,POL,2002-Q4,exchange_rate_lcu_per_usd,4.08003333333333
+Portugal,PRT,2002-Q4,exchange_rate_lcu_per_usd,1.05755899623964
+Slovakia,SVK,2002-Q4,exchange_rate_lcu_per_usd,1.5045724623249
+Slovenia,SVN,2002-Q4,exchange_rate_lcu_per_usd,1.002538036221
+South Korea,KOR,2002-Q4,exchange_rate_lcu_per_usd,1251.6025
+Spain,ESP,2002-Q4,exchange_rate_lcu_per_usd,1.05755899623964
+Sweden,SWE,2002-Q4,exchange_rate_lcu_per_usd,9.73712333333333
+Switzerland,CHE,2002-Q4,exchange_rate_lcu_per_usd,1.5586075
+Turkey,TUR,2002-Q4,exchange_rate_lcu_per_usd,1.50722641666666
+United Kingdom,GBR,2002-Q4,exchange_rate_lcu_per_usd,0.667223333333333
+United States,USA,2002-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2003-Q4,exchange_rate_lcu_per_usd,1.54191416666666
+Austria,AUT,2003-Q4,exchange_rate_lcu_per_usd,0.88404792718493
+Belgium,BEL,2003-Q4,exchange_rate_lcu_per_usd,0.88404792718493
+Canada,CAN,2003-Q4,exchange_rate_lcu_per_usd,1.4010145475
+Chile,CHL,2003-Q4,exchange_rate_lcu_per_usd,691.3975
+Colombia,COL,2003-Q4,exchange_rate_lcu_per_usd,2877.54333333333
+Costa Rica,CRI,2003-Q4,exchange_rate_lcu_per_usd,398.662222222222
+Czechia,CZE,2003-Q4,exchange_rate_lcu_per_usd,28.209
+Denmark,DNK,2003-Q4,exchange_rate_lcu_per_usd,6.58767333333333
+Estonia,EST,2003-Q4,exchange_rate_lcu_per_usd,0.885586095670018
+Finland,FIN,2003-Q4,exchange_rate_lcu_per_usd,0.88404792718493
+France,FRA,2003-Q4,exchange_rate_lcu_per_usd,0.88404792718493
+Germany,DEU,2003-Q4,exchange_rate_lcu_per_usd,0.88404792718493
+Greece,GRC,2003-Q4,exchange_rate_lcu_per_usd,0.88404792718493
+Hungary,HUN,2003-Q4,exchange_rate_lcu_per_usd,224.306666666666
+Iceland,ISL,2003-Q4,exchange_rate_lcu_per_usd,76.7089825
+Ireland,IRL,2003-Q4,exchange_rate_lcu_per_usd,0.88404792718493
+Israel,ISR,2003-Q4,exchange_rate_lcu_per_usd,4.55413333333333
+Italy,ITA,2003-Q4,exchange_rate_lcu_per_usd,0.88404792718493
+Japan,JPN,2003-Q4,exchange_rate_lcu_per_usd,115.933464166666
+Latvia,LVA,2003-Q4,exchange_rate_lcu_per_usd,0.8131356679814
+Lithuania,LTU,2003-Q4,exchange_rate_lcu_per_usd,0.88648826073525
+Luxembourg,LUX,2003-Q4,exchange_rate_lcu_per_usd,0.88404792718493
+Mexico,MEX,2003-Q4,exchange_rate_lcu_per_usd,10.7890191666666
+Netherlands,NLD,2003-Q4,exchange_rate_lcu_per_usd,0.88404792718493
+New Zealand,NZL,2003-Q4,exchange_rate_lcu_per_usd,1.72209914639778
+Norway,NOR,2003-Q4,exchange_rate_lcu_per_usd,7.08021666666666
+Poland,POL,2003-Q4,exchange_rate_lcu_per_usd,3.889075
+Portugal,PRT,2003-Q4,exchange_rate_lcu_per_usd,0.88404792718493
+Slovakia,SVK,2003-Q4,exchange_rate_lcu_per_usd,1.22063721259599
+Slovenia,SVN,2003-Q4,exchange_rate_lcu_per_usd,0.864270220733521
+South Korea,KOR,2003-Q4,exchange_rate_lcu_per_usd,1191.64583333333
+Spain,ESP,2003-Q4,exchange_rate_lcu_per_usd,0.88404792718493
+Sweden,SWE,2003-Q4,exchange_rate_lcu_per_usd,8.08630416666666
+Switzerland,CHE,2003-Q4,exchange_rate_lcu_per_usd,1.34665083333333
+Turkey,TUR,2003-Q4,exchange_rate_lcu_per_usd,1.50088520858333
+United Kingdom,GBR,2003-Q4,exchange_rate_lcu_per_usd,0.6124725
+United States,USA,2003-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2004-Q4,exchange_rate_lcu_per_usd,1.3597525
+Austria,AUT,2004-Q4,exchange_rate_lcu_per_usd,0.803921647747617
+Belgium,BEL,2004-Q4,exchange_rate_lcu_per_usd,0.803921647747617
+Canada,CAN,2004-Q4,exchange_rate_lcu_per_usd,1.301281595
+Chile,CHL,2004-Q4,exchange_rate_lcu_per_usd,609.529166666666
+Colombia,COL,2004-Q4,exchange_rate_lcu_per_usd,2628.36833333333
+Costa Rica,CRI,2004-Q4,exchange_rate_lcu_per_usd,437.935
+Czechia,CZE,2004-Q4,exchange_rate_lcu_per_usd,25.69975
+Denmark,DNK,2004-Q4,exchange_rate_lcu_per_usd,5.99105666666666
+Estonia,EST,2004-Q4,exchange_rate_lcu_per_usd,0.805003233161473
+Finland,FIN,2004-Q4,exchange_rate_lcu_per_usd,0.803921647747617
+France,FRA,2004-Q4,exchange_rate_lcu_per_usd,0.803921647747617
+Germany,DEU,2004-Q4,exchange_rate_lcu_per_usd,0.803921647747617
+Greece,GRC,2004-Q4,exchange_rate_lcu_per_usd,0.803921647747617
+Hungary,HUN,2004-Q4,exchange_rate_lcu_per_usd,202.745833333333
+Iceland,ISL,2004-Q4,exchange_rate_lcu_per_usd,70.1916666666666
+Ireland,IRL,2004-Q4,exchange_rate_lcu_per_usd,0.803921647747617
+Israel,ISR,2004-Q4,exchange_rate_lcu_per_usd,4.48198333333333
+Italy,ITA,2004-Q4,exchange_rate_lcu_per_usd,0.803921647747617
+Japan,JPN,2004-Q4,exchange_rate_lcu_per_usd,108.192569166666
+Latvia,LVA,2004-Q4,exchange_rate_lcu_per_usd,0.768682781164212
+Lithuania,LTU,2004-Q4,exchange_rate_lcu_per_usd,0.805315010040162
+Luxembourg,LUX,2004-Q4,exchange_rate_lcu_per_usd,0.803921647747617
+Mexico,MEX,2004-Q4,exchange_rate_lcu_per_usd,11.2859666666666
+Netherlands,NLD,2004-Q4,exchange_rate_lcu_per_usd,0.803921647747617
+New Zealand,NZL,2004-Q4,exchange_rate_lcu_per_usd,1.50868127077322
+Norway,NOR,2004-Q4,exchange_rate_lcu_per_usd,6.74083333333333
+Poland,POL,2004-Q4,exchange_rate_lcu_per_usd,3.65764166666666
+Portugal,PRT,2004-Q4,exchange_rate_lcu_per_usd,0.803921647747617
+Slovakia,SVK,2004-Q4,exchange_rate_lcu_per_usd,1.07073347496072
+Slovenia,SVN,2004-Q4,exchange_rate_lcu_per_usd,0.802792206365102
+South Korea,KOR,2004-Q4,exchange_rate_lcu_per_usd,1146.24916666666
+Spain,ESP,2004-Q4,exchange_rate_lcu_per_usd,0.803921647747617
+Sweden,SWE,2004-Q4,exchange_rate_lcu_per_usd,7.34888666666666
+Switzerland,CHE,2004-Q4,exchange_rate_lcu_per_usd,1.24349583333333
+Turkey,TUR,2004-Q4,exchange_rate_lcu_per_usd,1.42553725
+United Kingdom,GBR,2004-Q4,exchange_rate_lcu_per_usd,0.54618
+United States,USA,2004-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2005-Q4,exchange_rate_lcu_per_usd,1.30947333333333
+Austria,AUT,2005-Q4,exchange_rate_lcu_per_usd,0.803800192161442
+Belgium,BEL,2005-Q4,exchange_rate_lcu_per_usd,0.803800192161442
+Canada,CAN,2005-Q4,exchange_rate_lcu_per_usd,1.21140513416666
+Chile,CHL,2005-Q4,exchange_rate_lcu_per_usd,559.7675
+Colombia,COL,2005-Q4,exchange_rate_lcu_per_usd,2321.13166666666
+Costa Rica,CRI,2005-Q4,exchange_rate_lcu_per_usd,477.786741487455
+Czechia,CZE,2005-Q4,exchange_rate_lcu_per_usd,23.9574166666666
+Denmark,DNK,2005-Q4,exchange_rate_lcu_per_usd,5.99691
+Estonia,EST,2005-Q4,exchange_rate_lcu_per_usd,0.804250545545965
+Finland,FIN,2005-Q4,exchange_rate_lcu_per_usd,0.803800192161442
+France,FRA,2005-Q4,exchange_rate_lcu_per_usd,0.803800192161442
+Germany,DEU,2005-Q4,exchange_rate_lcu_per_usd,0.803800192161442
+Greece,GRC,2005-Q4,exchange_rate_lcu_per_usd,0.803800192161442
+Hungary,HUN,2005-Q4,exchange_rate_lcu_per_usd,199.5825
+Iceland,ISL,2005-Q4,exchange_rate_lcu_per_usd,62.9816666666666
+Ireland,IRL,2005-Q4,exchange_rate_lcu_per_usd,0.803800192161442
+Israel,ISR,2005-Q4,exchange_rate_lcu_per_usd,4.4877
+Italy,ITA,2005-Q4,exchange_rate_lcu_per_usd,0.803800192161442
+Japan,JPN,2005-Q4,exchange_rate_lcu_per_usd,110.218211666666
+Latvia,LVA,2005-Q4,exchange_rate_lcu_per_usd,0.80351942599454
+Lithuania,LTU,2005-Q4,exchange_rate_lcu_per_usd,0.803413171918443
+Luxembourg,LUX,2005-Q4,exchange_rate_lcu_per_usd,0.803800192161442
+Mexico,MEX,2005-Q4,exchange_rate_lcu_per_usd,10.8978916666666
+Netherlands,NLD,2005-Q4,exchange_rate_lcu_per_usd,0.803800192161442
+New Zealand,NZL,2005-Q4,exchange_rate_lcu_per_usd,1.42027345661432
+Norway,NOR,2005-Q4,exchange_rate_lcu_per_usd,6.4425
+Poland,POL,2005-Q4,exchange_rate_lcu_per_usd,3.23548333333333
+Portugal,PRT,2005-Q4,exchange_rate_lcu_per_usd,0.803800192161442
+Slovakia,SVK,2005-Q4,exchange_rate_lcu_per_usd,1.02961727411538
+Slovenia,SVN,2005-Q4,exchange_rate_lcu_per_usd,0.804145668502754
+South Korea,KOR,2005-Q4,exchange_rate_lcu_per_usd,1024.32833333333
+Spain,ESP,2005-Q4,exchange_rate_lcu_per_usd,0.803800192161442
+Sweden,SWE,2005-Q4,exchange_rate_lcu_per_usd,7.47308833333333
+Switzerland,CHE,2005-Q4,exchange_rate_lcu_per_usd,1.24517666666666
+Turkey,TUR,2005-Q4,exchange_rate_lcu_per_usd,1.34358310833333
+United Kingdom,GBR,2005-Q4,exchange_rate_lcu_per_usd,0.549998333333333
+United States,USA,2005-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2006-Q4,exchange_rate_lcu_per_usd,1.3279734405
+Austria,AUT,2006-Q4,exchange_rate_lcu_per_usd,0.796432730949102
+Belgium,BEL,2006-Q4,exchange_rate_lcu_per_usd,0.796432730949102
+Canada,CAN,2006-Q4,exchange_rate_lcu_per_usd,1.13434472583333
+Chile,CHL,2006-Q4,exchange_rate_lcu_per_usd,530.275
+Colombia,COL,2006-Q4,exchange_rate_lcu_per_usd,2358.59460526315
+Costa Rica,CRI,2006-Q4,exchange_rate_lcu_per_usd,511.301817940348
+Czechia,CZE,2006-Q4,exchange_rate_lcu_per_usd,22.5955833333333
+Denmark,DNK,2006-Q4,exchange_rate_lcu_per_usd,5.94677833333333
+Estonia,EST,2006-Q4,exchange_rate_lcu_per_usd,0.796689616771196
+Finland,FIN,2006-Q4,exchange_rate_lcu_per_usd,0.796432730949102
+France,FRA,2006-Q4,exchange_rate_lcu_per_usd,0.796432730949102
+Germany,DEU,2006-Q4,exchange_rate_lcu_per_usd,0.796432730949102
+Greece,GRC,2006-Q4,exchange_rate_lcu_per_usd,0.796432730949102
+Hungary,HUN,2006-Q4,exchange_rate_lcu_per_usd,210.39
+Iceland,ISL,2006-Q4,exchange_rate_lcu_per_usd,70.18
+Ireland,IRL,2006-Q4,exchange_rate_lcu_per_usd,0.796432730949102
+Israel,ISR,2006-Q4,exchange_rate_lcu_per_usd,4.45580833333333
+Italy,ITA,2006-Q4,exchange_rate_lcu_per_usd,0.796432730949102
+Japan,JPN,2006-Q4,exchange_rate_lcu_per_usd,116.299311666666
+Latvia,LVA,2006-Q4,exchange_rate_lcu_per_usd,0.79738921994373
+Lithuania,LTU,2006-Q4,exchange_rate_lcu_per_usd,0.797099455514365
+Luxembourg,LUX,2006-Q4,exchange_rate_lcu_per_usd,0.796432730949102
+Mexico,MEX,2006-Q4,exchange_rate_lcu_per_usd,10.8992416666666
+Netherlands,NLD,2006-Q4,exchange_rate_lcu_per_usd,0.796432730949102
+New Zealand,NZL,2006-Q4,exchange_rate_lcu_per_usd,1.54205575669681
+Norway,NOR,2006-Q4,exchange_rate_lcu_per_usd,6.4133333333333304
+Poland,POL,2006-Q4,exchange_rate_lcu_per_usd,3.10315833333333
+Portugal,PRT,2006-Q4,exchange_rate_lcu_per_usd,0.796432730949102
+Slovakia,SVK,2006-Q4,exchange_rate_lcu_per_usd,0.985768107282746
+Slovenia,SVN,2006-Q4,exchange_rate_lcu_per_usd,0.7971467944973
+South Korea,KOR,2006-Q4,exchange_rate_lcu_per_usd,955.340833333333
+Spain,ESP,2006-Q4,exchange_rate_lcu_per_usd,0.796432730949102
+Sweden,SWE,2006-Q4,exchange_rate_lcu_per_usd,7.37824916666666
+Switzerland,CHE,2006-Q4,exchange_rate_lcu_per_usd,1.25384333333333
+Turkey,TUR,2006-Q4,exchange_rate_lcu_per_usd,1.42845341333845
+United Kingdom,GBR,2006-Q4,exchange_rate_lcu_per_usd,0.543486666666666
+United States,USA,2006-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2007-Q4,exchange_rate_lcu_per_usd,1.1950725
+Austria,AUT,2007-Q4,exchange_rate_lcu_per_usd,0.729672399984083
+Belgium,BEL,2007-Q4,exchange_rate_lcu_per_usd,0.729672399984083
+Canada,CAN,2007-Q4,exchange_rate_lcu_per_usd,1.07404562166666
+Chile,CHL,2007-Q4,exchange_rate_lcu_per_usd,522.464166666666
+Colombia,COL,2007-Q4,exchange_rate_lcu_per_usd,2077.81095833333
+Costa Rica,CRI,2007-Q4,exchange_rate_lcu_per_usd,516.617390232975
+Czechia,CZE,2007-Q4,exchange_rate_lcu_per_usd,20.2936666666666
+Denmark,DNK,2007-Q4,exchange_rate_lcu_per_usd,5.44370083333333
+Estonia,EST,2007-Q4,exchange_rate_lcu_per_usd,0.730756394115169
+Finland,FIN,2007-Q4,exchange_rate_lcu_per_usd,0.729672399984083
+France,FRA,2007-Q4,exchange_rate_lcu_per_usd,0.729672399984083
+Germany,DEU,2007-Q4,exchange_rate_lcu_per_usd,0.729672399984083
+Greece,GRC,2007-Q4,exchange_rate_lcu_per_usd,0.729672399984083
+Hungary,HUN,2007-Q4,exchange_rate_lcu_per_usd,183.625833333333
+Iceland,ISL,2007-Q4,exchange_rate_lcu_per_usd,64.055
+Ireland,IRL,2007-Q4,exchange_rate_lcu_per_usd,0.729672399984083
+Israel,ISR,2007-Q4,exchange_rate_lcu_per_usd,4.10808294905577
+Italy,ITA,2007-Q4,exchange_rate_lcu_per_usd,0.729672399984083
+Japan,JPN,2007-Q4,exchange_rate_lcu_per_usd,117.753529166666
+Latvia,LVA,2007-Q4,exchange_rate_lcu_per_usd,0.731059679038063
+Lithuania,LTU,2007-Q4,exchange_rate_lcu_per_usd,0.730921281278962
+Luxembourg,LUX,2007-Q4,exchange_rate_lcu_per_usd,0.729672399984083
+Mexico,MEX,2007-Q4,exchange_rate_lcu_per_usd,10.9281916666666
+Netherlands,NLD,2007-Q4,exchange_rate_lcu_per_usd,0.729672399984083
+New Zealand,NZL,2007-Q4,exchange_rate_lcu_per_usd,1.36067522852426
+Norway,NOR,2007-Q4,exchange_rate_lcu_per_usd,5.86166666666666
+Poland,POL,2007-Q4,exchange_rate_lcu_per_usd,2.76795
+Portugal,PRT,2007-Q4,exchange_rate_lcu_per_usd,0.729672399984083
+Slovakia,SVK,2007-Q4,exchange_rate_lcu_per_usd,0.819701697315717
+Slovenia,SVN,2007-Q4,exchange_rate_lcu_per_usd,0.729672399984083
+South Korea,KOR,2007-Q4,exchange_rate_lcu_per_usd,929.375833333333
+Spain,ESP,2007-Q4,exchange_rate_lcu_per_usd,0.729672399984083
+Sweden,SWE,2007-Q4,exchange_rate_lcu_per_usd,6.75877
+Switzerland,CHE,2007-Q4,exchange_rate_lcu_per_usd,1.20036583333333
+Turkey,TUR,2007-Q4,exchange_rate_lcu_per_usd,1.30293090533794
+United Kingdom,GBR,2007-Q4,exchange_rate_lcu_per_usd,0.499771666666666
+United States,USA,2007-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2008-Q4,exchange_rate_lcu_per_usd,1.19217833333333
+Austria,AUT,2008-Q4,exchange_rate_lcu_per_usd,0.679922680042728
+Belgium,BEL,2008-Q4,exchange_rate_lcu_per_usd,0.679922680042728
+Canada,CAN,2008-Q4,exchange_rate_lcu_per_usd,1.06708691833333
+Chile,CHL,2008-Q4,exchange_rate_lcu_per_usd,522.461035833333
+Colombia,COL,2008-Q4,exchange_rate_lcu_per_usd,1965.1375
+Costa Rica,CRI,2008-Q4,exchange_rate_lcu_per_usd,526.23551344086
+Czechia,CZE,2008-Q4,exchange_rate_lcu_per_usd,17.0716666666666
+Denmark,DNK,2008-Q4,exchange_rate_lcu_per_usd,5.09813083333333
+Estonia,EST,2008-Q4,exchange_rate_lcu_per_usd,0.683499488313199
+Finland,FIN,2008-Q4,exchange_rate_lcu_per_usd,0.679922680042728
+France,FRA,2008-Q4,exchange_rate_lcu_per_usd,0.679922680042728
+Germany,DEU,2008-Q4,exchange_rate_lcu_per_usd,0.679922680042728
+Greece,GRC,2008-Q4,exchange_rate_lcu_per_usd,0.679922680042728
+Hungary,HUN,2008-Q4,exchange_rate_lcu_per_usd,172.113333333333
+Iceland,ISL,2008-Q4,exchange_rate_lcu_per_usd,87.9479166666666
+Ireland,IRL,2008-Q4,exchange_rate_lcu_per_usd,0.679922680042728
+Israel,ISR,2008-Q4,exchange_rate_lcu_per_usd,3.58802119408369
+Italy,ITA,2008-Q4,exchange_rate_lcu_per_usd,0.679922680042728
+Japan,JPN,2008-Q4,exchange_rate_lcu_per_usd,103.359493968254
+Latvia,LVA,2008-Q4,exchange_rate_lcu_per_usd,0.684140481082446
+Lithuania,LTU,2008-Q4,exchange_rate_lcu_per_usd,0.682656105189991
+Luxembourg,LUX,2008-Q4,exchange_rate_lcu_per_usd,0.679922680042728
+Mexico,MEX,2008-Q4,exchange_rate_lcu_per_usd,11.1297166666666
+Netherlands,NLD,2008-Q4,exchange_rate_lcu_per_usd,0.679922680042728
+New Zealand,NZL,2008-Q4,exchange_rate_lcu_per_usd,1.42272680952649
+Norway,NOR,2008-Q4,exchange_rate_lcu_per_usd,5.64
+Poland,POL,2008-Q4,exchange_rate_lcu_per_usd,2.40924166666666
+Portugal,PRT,2008-Q4,exchange_rate_lcu_per_usd,0.679922680042728
+Slovakia,SVK,2008-Q4,exchange_rate_lcu_per_usd,0.709069131868376
+Slovenia,SVN,2008-Q4,exchange_rate_lcu_per_usd,0.679922680042728
+South Korea,KOR,2008-Q4,exchange_rate_lcu_per_usd,1100.12583333333
+Spain,ESP,2008-Q4,exchange_rate_lcu_per_usd,0.679922680042728
+Sweden,SWE,2008-Q4,exchange_rate_lcu_per_usd,6.59109916666666
+Switzerland,CHE,2008-Q4,exchange_rate_lcu_per_usd,1.08309
+Turkey,TUR,2008-Q4,exchange_rate_lcu_per_usd,1.30152170281794
+United Kingdom,GBR,2008-Q4,exchange_rate_lcu_per_usd,0.54396625
+United States,USA,2008-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2009-Q4,exchange_rate_lcu_per_usd,1.28218881008451
+Austria,AUT,2009-Q4,exchange_rate_lcu_per_usd,0.716957702016135
+Belgium,BEL,2009-Q4,exchange_rate_lcu_per_usd,0.716957702016135
+Canada,CAN,2009-Q4,exchange_rate_lcu_per_usd,1.14153540591269
+Chile,CHL,2009-Q4,exchange_rate_lcu_per_usd,560.859894841269
+Colombia,COL,2009-Q4,exchange_rate_lcu_per_usd,2157.59833333333
+Costa Rica,CRI,2009-Q4,exchange_rate_lcu_per_usd,573.28795673323
+Czechia,CZE,2009-Q4,exchange_rate_lcu_per_usd,19.063
+Denmark,DNK,2009-Q4,exchange_rate_lcu_per_usd,5.36086666666666
+Estonia,EST,2009-Q4,exchange_rate_lcu_per_usd,0.719480966157293
+Finland,FIN,2009-Q4,exchange_rate_lcu_per_usd,0.716957702016135
+France,FRA,2009-Q4,exchange_rate_lcu_per_usd,0.716957702016135
+Germany,DEU,2009-Q4,exchange_rate_lcu_per_usd,0.716957702016135
+Greece,GRC,2009-Q4,exchange_rate_lcu_per_usd,0.716957702016135
+Hungary,HUN,2009-Q4,exchange_rate_lcu_per_usd,202.341666666666
+Iceland,ISL,2009-Q4,exchange_rate_lcu_per_usd,123.638381413043
+Ireland,IRL,2009-Q4,exchange_rate_lcu_per_usd,0.716957702016135
+Israel,ISR,2009-Q4,exchange_rate_lcu_per_usd,3.93233547791666
+Italy,ITA,2009-Q4,exchange_rate_lcu_per_usd,0.716957702016135
+Japan,JPN,2009-Q4,exchange_rate_lcu_per_usd,93.5700890870456
+Latvia,LVA,2009-Q4,exchange_rate_lcu_per_usd,0.719332843865431
+Lithuania,LTU,2009-Q4,exchange_rate_lcu_per_usd,0.719425780043249
+Luxembourg,LUX,2009-Q4,exchange_rate_lcu_per_usd,0.716957702016135
+Mexico,MEX,2009-Q4,exchange_rate_lcu_per_usd,13.513475
+Netherlands,NLD,2009-Q4,exchange_rate_lcu_per_usd,0.716957702016135
+New Zealand,NZL,2009-Q4,exchange_rate_lcu_per_usd,1.60087729521946
+Norway,NOR,2009-Q4,exchange_rate_lcu_per_usd,6.2883333333333304
+Poland,POL,2009-Q4,exchange_rate_lcu_per_usd,3.12014166666666
+Portugal,PRT,2009-Q4,exchange_rate_lcu_per_usd,0.716957702016135
+Slovakia,SVK,2009-Q4,exchange_rate_lcu_per_usd,0.716957702016135
+Slovenia,SVN,2009-Q4,exchange_rate_lcu_per_usd,0.716957702016135
+South Korea,KOR,2009-Q4,exchange_rate_lcu_per_usd,1277.24583333333
+Spain,ESP,2009-Q4,exchange_rate_lcu_per_usd,0.716957702016135
+Sweden,SWE,2009-Q4,exchange_rate_lcu_per_usd,7.65381916666666
+Switzerland,CHE,2009-Q4,exchange_rate_lcu_per_usd,1.08814169630268
+Turkey,TUR,2009-Q4,exchange_rate_lcu_per_usd,1.54995977566564
+United Kingdom,GBR,2009-Q4,exchange_rate_lcu_per_usd,0.641919263495996
+United States,USA,2009-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2010-Q4,exchange_rate_lcu_per_usd,1.09015948638677
+Austria,AUT,2010-Q4,exchange_rate_lcu_per_usd,0.754308990105961
+Belgium,BEL,2010-Q4,exchange_rate_lcu_per_usd,0.754308990105961
+Canada,CAN,2010-Q4,exchange_rate_lcu_per_usd,1.03011273517598
+Chile,CHL,2010-Q4,exchange_rate_lcu_per_usd,510.249166666666
+Colombia,COL,2010-Q4,exchange_rate_lcu_per_usd,1898.9975
+Costa Rica,CRI,2010-Q4,exchange_rate_lcu_per_usd,525.829200716845
+Czechia,CZE,2010-Q4,exchange_rate_lcu_per_usd,19.09825
+Denmark,DNK,2010-Q4,exchange_rate_lcu_per_usd,5.624075
+Estonia,EST,2010-Q4,exchange_rate_lcu_per_usd,0.754595134719025
+Finland,FIN,2010-Q4,exchange_rate_lcu_per_usd,0.754308990105961
+France,FRA,2010-Q4,exchange_rate_lcu_per_usd,0.754308990105961
+Germany,DEU,2010-Q4,exchange_rate_lcu_per_usd,0.754308990105961
+Greece,GRC,2010-Q4,exchange_rate_lcu_per_usd,0.754308990105961
+Hungary,HUN,2010-Q4,exchange_rate_lcu_per_usd,207.944166666666
+Iceland,ISL,2010-Q4,exchange_rate_lcu_per_usd,122.241811205165
+Ireland,IRL,2010-Q4,exchange_rate_lcu_per_usd,0.754308990105961
+Israel,ISR,2010-Q4,exchange_rate_lcu_per_usd,3.738975
+Italy,ITA,2010-Q4,exchange_rate_lcu_per_usd,0.754308990105961
+Japan,JPN,2010-Q4,exchange_rate_lcu_per_usd,87.779875
+Latvia,LVA,2010-Q4,exchange_rate_lcu_per_usd,0.754797923745454
+Lithuania,LTU,2010-Q4,exchange_rate_lcu_per_usd,0.754846308310163
+Luxembourg,LUX,2010-Q4,exchange_rate_lcu_per_usd,0.754308990105961
+Mexico,MEX,2010-Q4,exchange_rate_lcu_per_usd,12.6360083333333
+Netherlands,NLD,2010-Q4,exchange_rate_lcu_per_usd,0.754308990105961
+New Zealand,NZL,2010-Q4,exchange_rate_lcu_per_usd,1.38783382768108
+Norway,NOR,2010-Q4,exchange_rate_lcu_per_usd,6.04416666666666
+Poland,POL,2010-Q4,exchange_rate_lcu_per_usd,3.0153
+Portugal,PRT,2010-Q4,exchange_rate_lcu_per_usd,0.754308990105961
+Slovakia,SVK,2010-Q4,exchange_rate_lcu_per_usd,0.754308990105961
+Slovenia,SVN,2010-Q4,exchange_rate_lcu_per_usd,0.754308990105961
+South Korea,KOR,2010-Q4,exchange_rate_lcu_per_usd,1156.46
+Spain,ESP,2010-Q4,exchange_rate_lcu_per_usd,0.754308990105961
+Sweden,SWE,2010-Q4,exchange_rate_lcu_per_usd,7.20752416666666
+Switzerland,CHE,2010-Q4,exchange_rate_lcu_per_usd,1.04290564573351
+Turkey,TUR,2010-Q4,exchange_rate_lcu_per_usd,1.50284862967229
+United Kingdom,GBR,2010-Q4,exchange_rate_lcu_per_usd,0.647179345560164
+United States,USA,2010-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2011-Q4,exchange_rate_lcu_per_usd,0.969463201496735
+Austria,AUT,2011-Q4,exchange_rate_lcu_per_usd,0.718413898653317
+Belgium,BEL,2011-Q4,exchange_rate_lcu_per_usd,0.718413898653317
+Canada,CAN,2011-Q4,exchange_rate_lcu_per_usd,0.989258158636363
+Chile,CHL,2011-Q4,exchange_rate_lcu_per_usd,483.6675
+Colombia,COL,2011-Q4,exchange_rate_lcu_per_usd,1848.01666666666
+Costa Rica,CRI,2011-Q4,exchange_rate_lcu_per_usd,505.664239919355
+Czechia,CZE,2011-Q4,exchange_rate_lcu_per_usd,17.6959166666666
+Denmark,DNK,2011-Q4,exchange_rate_lcu_per_usd,5.36871153508772
+Estonia,EST,2011-Q4,exchange_rate_lcu_per_usd,0.718413898653317
+Finland,FIN,2011-Q4,exchange_rate_lcu_per_usd,0.718413898653317
+France,FRA,2011-Q4,exchange_rate_lcu_per_usd,0.718413898653317
+Germany,DEU,2011-Q4,exchange_rate_lcu_per_usd,0.718413898653317
+Greece,GRC,2011-Q4,exchange_rate_lcu_per_usd,0.718413898653317
+Hungary,HUN,2011-Q4,exchange_rate_lcu_per_usd,201.055
+Iceland,ISL,2011-Q4,exchange_rate_lcu_per_usd,115.954039762284
+Ireland,IRL,2011-Q4,exchange_rate_lcu_per_usd,0.718413898653317
+Israel,ISR,2011-Q4,exchange_rate_lcu_per_usd,3.57812930622009
+Italy,ITA,2011-Q4,exchange_rate_lcu_per_usd,0.718413898653317
+Japan,JPN,2011-Q4,exchange_rate_lcu_per_usd,79.8070198321891
+Latvia,LVA,2011-Q4,exchange_rate_lcu_per_usd,0.713190780549532
+Lithuania,LTU,2011-Q4,exchange_rate_lcu_per_usd,0.718576227988879
+Luxembourg,LUX,2011-Q4,exchange_rate_lcu_per_usd,0.718413898653317
+Mexico,MEX,2011-Q4,exchange_rate_lcu_per_usd,12.423325
+Netherlands,NLD,2011-Q4,exchange_rate_lcu_per_usd,0.718413898653317
+New Zealand,NZL,2011-Q4,exchange_rate_lcu_per_usd,1.26581069673446
+Norway,NOR,2011-Q4,exchange_rate_lcu_per_usd,5.60460730676328
+Poland,POL,2011-Q4,exchange_rate_lcu_per_usd,2.96284777777777
+Portugal,PRT,2011-Q4,exchange_rate_lcu_per_usd,0.718413898653317
+Slovakia,SVK,2011-Q4,exchange_rate_lcu_per_usd,0.718413898653317
+Slovenia,SVN,2011-Q4,exchange_rate_lcu_per_usd,0.718413898653317
+South Korea,KOR,2011-Q4,exchange_rate_lcu_per_usd,1108.23333333333
+Spain,ESP,2011-Q4,exchange_rate_lcu_per_usd,0.718413898653317
+Sweden,SWE,2011-Q4,exchange_rate_lcu_per_usd,6.49354333333333
+Switzerland,CHE,2011-Q4,exchange_rate_lcu_per_usd,0.888042028223281
+Turkey,TUR,2011-Q4,exchange_rate_lcu_per_usd,1.67495455197132
+United Kingdom,GBR,2011-Q4,exchange_rate_lcu_per_usd,0.624140835740494
+United States,USA,2011-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2012-Q4,exchange_rate_lcu_per_usd,0.965801030658707
+Austria,AUT,2012-Q4,exchange_rate_lcu_per_usd,0.778338120416812
+Belgium,BEL,2012-Q4,exchange_rate_lcu_per_usd,0.778338120416812
+Canada,CAN,2012-Q4,exchange_rate_lcu_per_usd,0.999364743593073
+Chile,CHL,2012-Q4,exchange_rate_lcu_per_usd,486.471303391053
+Colombia,COL,2012-Q4,exchange_rate_lcu_per_usd,1798.01166666666
+Costa Rica,CRI,2012-Q4,exchange_rate_lcu_per_usd,502.901461981566
+Czechia,CZE,2012-Q4,exchange_rate_lcu_per_usd,19.5775
+Denmark,DNK,2012-Q4,exchange_rate_lcu_per_usd,5.79247553703915
+Estonia,EST,2012-Q4,exchange_rate_lcu_per_usd,0.778338120416812
+Finland,FIN,2012-Q4,exchange_rate_lcu_per_usd,0.778338120416812
+France,FRA,2012-Q4,exchange_rate_lcu_per_usd,0.778338120416812
+Germany,DEU,2012-Q4,exchange_rate_lcu_per_usd,0.778338120416812
+Greece,GRC,2012-Q4,exchange_rate_lcu_per_usd,0.778338120416812
+Hungary,HUN,2012-Q4,exchange_rate_lcu_per_usd,225.104166666666
+Iceland,ISL,2012-Q4,exchange_rate_lcu_per_usd,125.082787013768
+Ireland,IRL,2012-Q4,exchange_rate_lcu_per_usd,0.778338120416812
+Israel,ISR,2012-Q4,exchange_rate_lcu_per_usd,3.85592182539682
+Italy,ITA,2012-Q4,exchange_rate_lcu_per_usd,0.778338120416812
+Japan,JPN,2012-Q4,exchange_rate_lcu_per_usd,79.7904554170065
+Latvia,LVA,2012-Q4,exchange_rate_lcu_per_usd,0.778133021439832
+Lithuania,LTU,2012-Q4,exchange_rate_lcu_per_usd,0.778003842292247
+Luxembourg,LUX,2012-Q4,exchange_rate_lcu_per_usd,0.778338120416812
+Mexico,MEX,2012-Q4,exchange_rate_lcu_per_usd,13.1694583333333
+Netherlands,NLD,2012-Q4,exchange_rate_lcu_per_usd,0.778338120416812
+New Zealand,NZL,2012-Q4,exchange_rate_lcu_per_usd,1.23428365501328
+Norway,NOR,2012-Q4,exchange_rate_lcu_per_usd,5.8175
+Poland,POL,2012-Q4,exchange_rate_lcu_per_usd,3.25654166666666
+Portugal,PRT,2012-Q4,exchange_rate_lcu_per_usd,0.778338120416812
+Slovakia,SVK,2012-Q4,exchange_rate_lcu_per_usd,0.778338120416812
+Slovenia,SVN,2012-Q4,exchange_rate_lcu_per_usd,0.778338120416812
+South Korea,KOR,2012-Q4,exchange_rate_lcu_per_usd,1126.80666666666
+Spain,ESP,2012-Q4,exchange_rate_lcu_per_usd,0.778338120416812
+Sweden,SWE,2012-Q4,exchange_rate_lcu_per_usd,6.77501583333333
+Switzerland,CHE,2012-Q4,exchange_rate_lcu_per_usd,0.937684480709349
+Turkey,TUR,2012-Q4,exchange_rate_lcu_per_usd,1.79600094441354
+United Kingdom,GBR,2012-Q4,exchange_rate_lcu_per_usd,0.633046988857327
+United States,USA,2012-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2013-Q4,exchange_rate_lcu_per_usd,1.03584309652053
+Austria,AUT,2013-Q4,exchange_rate_lcu_per_usd,0.752945122701996
+Belgium,BEL,2013-Q4,exchange_rate_lcu_per_usd,0.752945122701996
+Canada,CAN,2013-Q4,exchange_rate_lcu_per_usd,1.03013736373015
+Chile,CHL,2013-Q4,exchange_rate_lcu_per_usd,495.272877645502
+Colombia,COL,2013-Q4,exchange_rate_lcu_per_usd,1868.895
+Costa Rica,CRI,2013-Q4,exchange_rate_lcu_per_usd,499.766832565284
+Czechia,CZE,2013-Q4,exchange_rate_lcu_per_usd,19.5705833333333
+Denmark,DNK,2013-Q4,exchange_rate_lcu_per_usd,5.61631168617622
+Estonia,EST,2013-Q4,exchange_rate_lcu_per_usd,0.752945122701996
+Finland,FIN,2013-Q4,exchange_rate_lcu_per_usd,0.752945122701996
+France,FRA,2013-Q4,exchange_rate_lcu_per_usd,0.752945122701996
+Germany,DEU,2013-Q4,exchange_rate_lcu_per_usd,0.752945122701996
+Greece,GRC,2013-Q4,exchange_rate_lcu_per_usd,0.752945122701996
+Hungary,HUN,2013-Q4,exchange_rate_lcu_per_usd,223.695
+Iceland,ISL,2013-Q4,exchange_rate_lcu_per_usd,122.179121320458
+Ireland,IRL,2013-Q4,exchange_rate_lcu_per_usd,0.752945122701996
+Israel,ISR,2013-Q4,exchange_rate_lcu_per_usd,3.61075833333333
+Italy,ITA,2013-Q4,exchange_rate_lcu_per_usd,0.752945122701996
+Japan,JPN,2013-Q4,exchange_rate_lcu_per_usd,97.5956582776385
+Latvia,LVA,2013-Q4,exchange_rate_lcu_per_usd,0.753256479283936
+Lithuania,LTU,2013-Q4,exchange_rate_lcu_per_usd,0.75330408171146
+Luxembourg,LUX,2013-Q4,exchange_rate_lcu_per_usd,0.752945122701996
+Mexico,MEX,2013-Q4,exchange_rate_lcu_per_usd,12.7719916666666
+Netherlands,NLD,2013-Q4,exchange_rate_lcu_per_usd,0.752945122701996
+New Zealand,NZL,2013-Q4,exchange_rate_lcu_per_usd,1.21940797394828
+Norway,NOR,2013-Q4,exchange_rate_lcu_per_usd,5.875
+Poland,POL,2013-Q4,exchange_rate_lcu_per_usd,3.16061666666666
+Portugal,PRT,2013-Q4,exchange_rate_lcu_per_usd,0.752945122701996
+Slovakia,SVK,2013-Q4,exchange_rate_lcu_per_usd,0.752945122701996
+Slovenia,SVN,2013-Q4,exchange_rate_lcu_per_usd,0.752945122701996
+South Korea,KOR,2013-Q4,exchange_rate_lcu_per_usd,1094.9825
+Spain,ESP,2013-Q4,exchange_rate_lcu_per_usd,0.752945122701996
+Sweden,SWE,2013-Q4,exchange_rate_lcu_per_usd,6.51397166666666
+Switzerland,CHE,2013-Q4,exchange_rate_lcu_per_usd,0.926903547758284
+Turkey,TUR,2013-Q4,exchange_rate_lcu_per_usd,1.90376824244751
+United Kingdom,GBR,2013-Q4,exchange_rate_lcu_per_usd,0.639660577613476
+United States,USA,2013-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2014-Q4,exchange_rate_lcu_per_usd,1.10936329281691
+Austria,AUT,2014-Q4,exchange_rate_lcu_per_usd,0.752728196932602
+Belgium,BEL,2014-Q4,exchange_rate_lcu_per_usd,0.752728196932602
+Canada,CAN,2014-Q4,exchange_rate_lcu_per_usd,1.10474713237886
+Chile,CHL,2014-Q4,exchange_rate_lcu_per_usd,570.348216127439
+Colombia,COL,2014-Q4,exchange_rate_lcu_per_usd,2001.105
+Costa Rica,CRI,2014-Q4,exchange_rate_lcu_per_usd,538.317200279058
+Czechia,CZE,2014-Q4,exchange_rate_lcu_per_usd,20.7575
+Denmark,DNK,2014-Q4,exchange_rate_lcu_per_usd,5.61246666666666
+Estonia,EST,2014-Q4,exchange_rate_lcu_per_usd,0.752728196932602
+Finland,FIN,2014-Q4,exchange_rate_lcu_per_usd,0.752728196932602
+France,FRA,2014-Q4,exchange_rate_lcu_per_usd,0.752728196932602
+Germany,DEU,2014-Q4,exchange_rate_lcu_per_usd,0.752728196932602
+Greece,GRC,2014-Q4,exchange_rate_lcu_per_usd,0.752728196932602
+Hungary,HUN,2014-Q4,exchange_rate_lcu_per_usd,232.601666666666
+Iceland,ISL,2014-Q4,exchange_rate_lcu_per_usd,116.767352506898
+Ireland,IRL,2014-Q4,exchange_rate_lcu_per_usd,0.752728196932602
+Israel,ISR,2014-Q4,exchange_rate_lcu_per_usd,3.577925
+Italy,ITA,2014-Q4,exchange_rate_lcu_per_usd,0.752728196932602
+Japan,JPN,2014-Q4,exchange_rate_lcu_per_usd,105.944781034024
+Latvia,LVA,2014-Q4,exchange_rate_lcu_per_usd,0.752728196932602
+Lithuania,LTU,2014-Q4,exchange_rate_lcu_per_usd,0.753096520698178
+Luxembourg,LUX,2014-Q4,exchange_rate_lcu_per_usd,0.752728196932602
+Mexico,MEX,2014-Q4,exchange_rate_lcu_per_usd,13.29245
+Netherlands,NLD,2014-Q4,exchange_rate_lcu_per_usd,0.752728196932602
+New Zealand,NZL,2014-Q4,exchange_rate_lcu_per_usd,1.20543333333333
+Norway,NOR,2014-Q4,exchange_rate_lcu_per_usd,6.30166666666666
+Poland,POL,2014-Q4,exchange_rate_lcu_per_usd,3.15454166666666
+Portugal,PRT,2014-Q4,exchange_rate_lcu_per_usd,0.752728196932602
+Slovakia,SVK,2014-Q4,exchange_rate_lcu_per_usd,0.752728196932602
+Slovenia,SVN,2014-Q4,exchange_rate_lcu_per_usd,0.752728196932602
+South Korea,KOR,2014-Q4,exchange_rate_lcu_per_usd,1052.84
+Spain,ESP,2014-Q4,exchange_rate_lcu_per_usd,0.752728196932602
+Sweden,SWE,2014-Q4,exchange_rate_lcu_per_usd,6.860785
+Switzerland,CHE,2014-Q4,exchange_rate_lcu_per_usd,0.916151047283613
+Turkey,TUR,2014-Q4,exchange_rate_lcu_per_usd,2.18854241775473
+United Kingdom,GBR,2014-Q4,exchange_rate_lcu_per_usd,0.607729626878255
+United States,USA,2014-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2015-Q4,exchange_rate_lcu_per_usd,1.33109026245501
+Austria,AUT,2015-Q4,exchange_rate_lcu_per_usd,0.901296423367095
+Belgium,BEL,2015-Q4,exchange_rate_lcu_per_usd,0.901296423367095
+Canada,CAN,2015-Q4,exchange_rate_lcu_per_usd,1.27878620362554
+Chile,CHL,2015-Q4,exchange_rate_lcu_per_usd,654.124084254196
+Colombia,COL,2015-Q4,exchange_rate_lcu_per_usd,2741.78166666666
+Costa Rica,CRI,2015-Q4,exchange_rate_lcu_per_usd,534.565769969278
+Czechia,CZE,2015-Q4,exchange_rate_lcu_per_usd,24.59875
+Denmark,DNK,2015-Q4,exchange_rate_lcu_per_usd,6.72790683129629
+Estonia,EST,2015-Q4,exchange_rate_lcu_per_usd,0.901296423367095
+Finland,FIN,2015-Q4,exchange_rate_lcu_per_usd,0.901296423367095
+France,FRA,2015-Q4,exchange_rate_lcu_per_usd,0.901296423367095
+Germany,DEU,2015-Q4,exchange_rate_lcu_per_usd,0.901296423367095
+Greece,GRC,2015-Q4,exchange_rate_lcu_per_usd,0.901296423367095
+Hungary,HUN,2015-Q4,exchange_rate_lcu_per_usd,279.3325
+Iceland,ISL,2015-Q4,exchange_rate_lcu_per_usd,131.918708431432
+Ireland,IRL,2015-Q4,exchange_rate_lcu_per_usd,0.901296423367095
+Israel,ISR,2015-Q4,exchange_rate_lcu_per_usd,3.88683333333333
+Italy,ITA,2015-Q4,exchange_rate_lcu_per_usd,0.901296423367095
+Japan,JPN,2015-Q4,exchange_rate_lcu_per_usd,121.044025684011
+Latvia,LVA,2015-Q4,exchange_rate_lcu_per_usd,0.901296423367095
+Lithuania,LTU,2015-Q4,exchange_rate_lcu_per_usd,0.901296423367095
+Luxembourg,LUX,2015-Q4,exchange_rate_lcu_per_usd,0.901296423367095
+Mexico,MEX,2015-Q4,exchange_rate_lcu_per_usd,15.8482666666666
+Netherlands,NLD,2015-Q4,exchange_rate_lcu_per_usd,0.901296423367095
+New Zealand,NZL,2015-Q4,exchange_rate_lcu_per_usd,1.433975
+Norway,NOR,2015-Q4,exchange_rate_lcu_per_usd,8.06416666666666
+Poland,POL,2015-Q4,exchange_rate_lcu_per_usd,3.7695
+Portugal,PRT,2015-Q4,exchange_rate_lcu_per_usd,0.901296423367095
+Slovakia,SVK,2015-Q4,exchange_rate_lcu_per_usd,0.901296423367095
+Slovenia,SVN,2015-Q4,exchange_rate_lcu_per_usd,0.901296423367095
+South Korea,KOR,2015-Q4,exchange_rate_lcu_per_usd,1130.9525
+Spain,ESP,2015-Q4,exchange_rate_lcu_per_usd,0.901296423367095
+Sweden,SWE,2015-Q4,exchange_rate_lcu_per_usd,8.43484083333333
+Switzerland,CHE,2015-Q4,exchange_rate_lcu_per_usd,0.962381328004354
+Turkey,TUR,2015-Q4,exchange_rate_lcu_per_usd,2.72000852790578
+United Kingdom,GBR,2015-Q4,exchange_rate_lcu_per_usd,0.654545478931426
+United States,USA,2015-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2016-Q4,exchange_rate_lcu_per_usd,1.34521397601946
+Austria,AUT,2016-Q4,exchange_rate_lcu_per_usd,0.903421436257263
+Belgium,BEL,2016-Q4,exchange_rate_lcu_per_usd,0.903421436257263
+Canada,CAN,2016-Q4,exchange_rate_lcu_per_usd,1.32561516374819
+Chile,CHL,2016-Q4,exchange_rate_lcu_per_usd,676.957736044657
+Colombia,COL,2016-Q4,exchange_rate_lcu_per_usd,3055.255
+Costa Rica,CRI,2016-Q4,exchange_rate_lcu_per_usd,544.73936722902
+Czechia,CZE,2016-Q4,exchange_rate_lcu_per_usd,24.4399166666666
+Denmark,DNK,2016-Q4,exchange_rate_lcu_per_usd,6.73171825724637
+Estonia,EST,2016-Q4,exchange_rate_lcu_per_usd,0.903421436257263
+Finland,FIN,2016-Q4,exchange_rate_lcu_per_usd,0.903421436257263
+France,FRA,2016-Q4,exchange_rate_lcu_per_usd,0.903421436257263
+Germany,DEU,2016-Q4,exchange_rate_lcu_per_usd,0.903421436257263
+Greece,GRC,2016-Q4,exchange_rate_lcu_per_usd,0.903421436257263
+Hungary,HUN,2016-Q4,exchange_rate_lcu_per_usd,281.523333333333
+Iceland,ISL,2016-Q4,exchange_rate_lcu_per_usd,120.811548065238
+Ireland,IRL,2016-Q4,exchange_rate_lcu_per_usd,0.903421436257263
+Israel,ISR,2016-Q4,exchange_rate_lcu_per_usd,3.84056666666666
+Italy,ITA,2016-Q4,exchange_rate_lcu_per_usd,0.903421436257263
+Japan,JPN,2016-Q4,exchange_rate_lcu_per_usd,108.792900046834
+Latvia,LVA,2016-Q4,exchange_rate_lcu_per_usd,0.903421436257263
+Lithuania,LTU,2016-Q4,exchange_rate_lcu_per_usd,0.903421436257263
+Luxembourg,LUX,2016-Q4,exchange_rate_lcu_per_usd,0.903421436257263
+Mexico,MEX,2016-Q4,exchange_rate_lcu_per_usd,18.6640583333333
+Netherlands,NLD,2016-Q4,exchange_rate_lcu_per_usd,0.903421436257263
+New Zealand,NZL,2016-Q4,exchange_rate_lcu_per_usd,1.436525
+Norway,NOR,2016-Q4,exchange_rate_lcu_per_usd,8.4
+Poland,POL,2016-Q4,exchange_rate_lcu_per_usd,3.94278333333333
+Portugal,PRT,2016-Q4,exchange_rate_lcu_per_usd,0.903421436257263
+Slovakia,SVK,2016-Q4,exchange_rate_lcu_per_usd,0.903421436257263
+Slovenia,SVN,2016-Q4,exchange_rate_lcu_per_usd,0.903421436257263
+South Korea,KOR,2016-Q4,exchange_rate_lcu_per_usd,1160.7675
+Spain,ESP,2016-Q4,exchange_rate_lcu_per_usd,0.903421436257263
+Sweden,SWE,2016-Q4,exchange_rate_lcu_per_usd,8.56199166666666
+Switzerland,CHE,2016-Q4,exchange_rate_lcu_per_usd,0.985394394244834
+Turkey,TUR,2016-Q4,exchange_rate_lcu_per_usd,3.02013474808043
+United Kingdom,GBR,2016-Q4,exchange_rate_lcu_per_usd,0.740634463697084
+United States,USA,2016-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2017-Q4,exchange_rate_lcu_per_usd,1.30475807671592
+Austria,AUT,2017-Q4,exchange_rate_lcu_per_usd,0.885205508269372
+Belgium,BEL,2017-Q4,exchange_rate_lcu_per_usd,0.885205508269372
+Canada,CAN,2017-Q4,exchange_rate_lcu_per_usd,1.29793584646039
+Chile,CHL,2017-Q4,exchange_rate_lcu_per_usd,648.833792598261
+Colombia,COL,2017-Q4,exchange_rate_lcu_per_usd,2951.48691120161
+Costa Rica,CRI,2017-Q4,exchange_rate_lcu_per_usd,567.51309030978
+Czechia,CZE,2017-Q4,exchange_rate_lcu_per_usd,23.3763333333333
+Denmark,DNK,2017-Q4,exchange_rate_lcu_per_usd,6.60289346561403
+Estonia,EST,2017-Q4,exchange_rate_lcu_per_usd,0.885205508269372
+Finland,FIN,2017-Q4,exchange_rate_lcu_per_usd,0.885205508269372
+France,FRA,2017-Q4,exchange_rate_lcu_per_usd,0.885205508269372
+Germany,DEU,2017-Q4,exchange_rate_lcu_per_usd,0.885205508269372
+Greece,GRC,2017-Q4,exchange_rate_lcu_per_usd,0.885205508269372
+Hungary,HUN,2017-Q4,exchange_rate_lcu_per_usd,274.433333333333
+Iceland,ISL,2017-Q4,exchange_rate_lcu_per_usd,106.839572013999
+Ireland,IRL,2017-Q4,exchange_rate_lcu_per_usd,0.885205508269372
+Israel,ISR,2017-Q4,exchange_rate_lcu_per_usd,3.59955554812834
+Italy,ITA,2017-Q4,exchange_rate_lcu_per_usd,0.885205508269372
+Japan,JPN,2017-Q4,exchange_rate_lcu_per_usd,112.166141081871
+Latvia,LVA,2017-Q4,exchange_rate_lcu_per_usd,0.885205508269372
+Lithuania,LTU,2017-Q4,exchange_rate_lcu_per_usd,0.885205508269372
+Luxembourg,LUX,2017-Q4,exchange_rate_lcu_per_usd,0.885205508269372
+Mexico,MEX,2017-Q4,exchange_rate_lcu_per_usd,18.9265166666666
+Netherlands,NLD,2017-Q4,exchange_rate_lcu_per_usd,0.885205508269372
+New Zealand,NZL,2017-Q4,exchange_rate_lcu_per_usd,1.40740833333333
+Norway,NOR,2017-Q4,exchange_rate_lcu_per_usd,8.27166666666666
+Poland,POL,2017-Q4,exchange_rate_lcu_per_usd,3.77933333333333
+Portugal,PRT,2017-Q4,exchange_rate_lcu_per_usd,0.885205508269372
+Slovakia,SVK,2017-Q4,exchange_rate_lcu_per_usd,0.885205508269372
+Slovenia,SVN,2017-Q4,exchange_rate_lcu_per_usd,0.885205508269372
+South Korea,KOR,2017-Q4,exchange_rate_lcu_per_usd,1131.00083333333
+Spain,ESP,2017-Q4,exchange_rate_lcu_per_usd,0.885205508269372
+Sweden,SWE,2017-Q4,exchange_rate_lcu_per_usd,8.54886083333333
+Switzerland,CHE,2017-Q4,exchange_rate_lcu_per_usd,0.984691666666666
+Turkey,TUR,2017-Q4,exchange_rate_lcu_per_usd,3.64813263536866
+United Kingdom,GBR,2017-Q4,exchange_rate_lcu_per_usd,0.776976682344122
+United States,USA,2017-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2018-Q4,exchange_rate_lcu_per_usd,1.3384121464645
+Austria,AUT,2018-Q4,exchange_rate_lcu_per_usd,0.84677266710811006
+Belgium,BEL,2018-Q4,exchange_rate_lcu_per_usd,0.84677266710811006
+Canada,CAN,2018-Q4,exchange_rate_lcu_per_usd,1.29581792813533
+Chile,CHL,2018-Q4,exchange_rate_lcu_per_usd,641.276813066394
+Colombia,COL,2018-Q4,exchange_rate_lcu_per_usd,2955.70396997842
+Costa Rica,CRI,2018-Q4,exchange_rate_lcu_per_usd,576.97250124808
+Czechia,CZE,2018-Q4,exchange_rate_lcu_per_usd,21.7299166666666
+Denmark,DNK,2018-Q4,exchange_rate_lcu_per_usd,6.31461878666666
+Estonia,EST,2018-Q4,exchange_rate_lcu_per_usd,0.84677266710811006
+Finland,FIN,2018-Q4,exchange_rate_lcu_per_usd,0.84677266710811006
+France,FRA,2018-Q4,exchange_rate_lcu_per_usd,0.84677266710811006
+Germany,DEU,2018-Q4,exchange_rate_lcu_per_usd,0.84677266710811006
+Greece,GRC,2018-Q4,exchange_rate_lcu_per_usd,0.84677266710811006
+Hungary,HUN,2018-Q4,exchange_rate_lcu_per_usd,270.211666666666
+Iceland,ISL,2018-Q4,exchange_rate_lcu_per_usd,108.300176306626
+Ireland,IRL,2018-Q4,exchange_rate_lcu_per_usd,0.84677266710811006
+Israel,ISR,2018-Q4,exchange_rate_lcu_per_usd,3.59055812689937
+Italy,ITA,2018-Q4,exchange_rate_lcu_per_usd,0.84677266710811006
+Japan,JPN,2018-Q4,exchange_rate_lcu_per_usd,110.42317934106
+Latvia,LVA,2018-Q4,exchange_rate_lcu_per_usd,0.84677266710811006
+Lithuania,LTU,2018-Q4,exchange_rate_lcu_per_usd,0.84677266710811006
+Luxembourg,LUX,2018-Q4,exchange_rate_lcu_per_usd,0.84677266710811006
+Mexico,MEX,2018-Q4,exchange_rate_lcu_per_usd,19.2443416666666
+Netherlands,NLD,2018-Q4,exchange_rate_lcu_per_usd,0.84677266710811006
+New Zealand,NZL,2018-Q4,exchange_rate_lcu_per_usd,1.44525833333333
+Norway,NOR,2018-Q4,exchange_rate_lcu_per_usd,8.1325
+Poland,POL,2018-Q4,exchange_rate_lcu_per_usd,3.61171666666666
+Portugal,PRT,2018-Q4,exchange_rate_lcu_per_usd,0.84677266710811006
+Slovakia,SVK,2018-Q4,exchange_rate_lcu_per_usd,0.84677266710811006
+Slovenia,SVN,2018-Q4,exchange_rate_lcu_per_usd,0.84677266710811006
+South Korea,KOR,2018-Q4,exchange_rate_lcu_per_usd,1100.16333333333
+Spain,ESP,2018-Q4,exchange_rate_lcu_per_usd,0.84677266710811006
+Sweden,SWE,2018-Q4,exchange_rate_lcu_per_usd,8.69251833333333
+Switzerland,CHE,2018-Q4,exchange_rate_lcu_per_usd,0.977891666666666
+Turkey,TUR,2018-Q4,exchange_rate_lcu_per_usd,4.82837014720942
+United Kingdom,GBR,2018-Q4,exchange_rate_lcu_per_usd,0.749531540259846
+United States,USA,2018-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2019-Q4,exchange_rate_lcu_per_usd,1.43850654421381
+Austria,AUT,2019-Q4,exchange_rate_lcu_per_usd,0.893276257067408
+Belgium,BEL,2019-Q4,exchange_rate_lcu_per_usd,0.893276257067408
+Canada,CAN,2019-Q4,exchange_rate_lcu_per_usd,1.32679336266012
+Chile,CHL,2019-Q4,exchange_rate_lcu_per_usd,702.897422561528
+Colombia,COL,2019-Q4,exchange_rate_lcu_per_usd,3281.62219381787
+Costa Rica,CRI,2019-Q4,exchange_rate_lcu_per_usd,587.294595686123
+Czechia,CZE,2019-Q4,exchange_rate_lcu_per_usd,22.93225
+Denmark,DNK,2019-Q4,exchange_rate_lcu_per_usd,6.669446615
+Estonia,EST,2019-Q4,exchange_rate_lcu_per_usd,0.893276257067408
+Finland,FIN,2019-Q4,exchange_rate_lcu_per_usd,0.893276257067408
+France,FRA,2019-Q4,exchange_rate_lcu_per_usd,0.893276257067408
+Germany,DEU,2019-Q4,exchange_rate_lcu_per_usd,0.893276257067408
+Greece,GRC,2019-Q4,exchange_rate_lcu_per_usd,0.893276257067408
+Hungary,HUN,2019-Q4,exchange_rate_lcu_per_usd,290.66
+Iceland,ISL,2019-Q4,exchange_rate_lcu_per_usd,122.606773601906
+Ireland,IRL,2019-Q4,exchange_rate_lcu_per_usd,0.893276257067408
+Israel,ISR,2019-Q4,exchange_rate_lcu_per_usd,3.56452734661092
+Italy,ITA,2019-Q4,exchange_rate_lcu_per_usd,0.893276257067408
+Japan,JPN,2019-Q4,exchange_rate_lcu_per_usd,109.009665900863
+Latvia,LVA,2019-Q4,exchange_rate_lcu_per_usd,0.893276257067408
+Lithuania,LTU,2019-Q4,exchange_rate_lcu_per_usd,0.893276257067408
+Luxembourg,LUX,2019-Q4,exchange_rate_lcu_per_usd,0.893276257067408
+Mexico,MEX,2019-Q4,exchange_rate_lcu_per_usd,19.2636333333333
+Netherlands,NLD,2019-Q4,exchange_rate_lcu_per_usd,0.893276257067408
+New Zealand,NZL,2019-Q4,exchange_rate_lcu_per_usd,1.517875
+Norway,NOR,2019-Q4,exchange_rate_lcu_per_usd,8.79999999999999
+Poland,POL,2019-Q4,exchange_rate_lcu_per_usd,3.839375
+Portugal,PRT,2019-Q4,exchange_rate_lcu_per_usd,0.893276257067408
+Slovakia,SVK,2019-Q4,exchange_rate_lcu_per_usd,0.893276257067408
+Slovenia,SVN,2019-Q4,exchange_rate_lcu_per_usd,0.893276257067408
+South Korea,KOR,2019-Q4,exchange_rate_lcu_per_usd,1165.3575
+Spain,ESP,2019-Q4,exchange_rate_lcu_per_usd,0.893276257067408
+Sweden,SWE,2019-Q4,exchange_rate_lcu_per_usd,9.45834916666666
+Switzerland,CHE,2019-Q4,exchange_rate_lcu_per_usd,0.993709166666666
+Turkey,TUR,2019-Q4,exchange_rate_lcu_per_usd,5.67381930843574
+United Kingdom,GBR,2019-Q4,exchange_rate_lcu_per_usd,0.783445110011929
+United States,USA,2019-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2020-Q4,exchange_rate_lcu_per_usd,1.45308511847016
+Austria,AUT,2020-Q4,exchange_rate_lcu_per_usd,0.875506396987998
+Belgium,BEL,2020-Q4,exchange_rate_lcu_per_usd,0.875506396987998
+Canada,CAN,2020-Q4,exchange_rate_lcu_per_usd,1.34115267222386
+Chile,CHL,2020-Q4,exchange_rate_lcu_per_usd,792.727206103168
+Colombia,COL,2020-Q4,exchange_rate_lcu_per_usd,3693.27583333333
+Costa Rica,CRI,2020-Q4,exchange_rate_lcu_per_usd,584.900854962303
+Czechia,CZE,2020-Q4,exchange_rate_lcu_per_usd,23.21025
+Denmark,DNK,2020-Q4,exchange_rate_lcu_per_usd,6.54215220416666
+Estonia,EST,2020-Q4,exchange_rate_lcu_per_usd,0.875506396987998
+Finland,FIN,2020-Q4,exchange_rate_lcu_per_usd,0.875506396987998
+France,FRA,2020-Q4,exchange_rate_lcu_per_usd,0.875506396987998
+Germany,DEU,2020-Q4,exchange_rate_lcu_per_usd,0.875506396987998
+Greece,GRC,2020-Q4,exchange_rate_lcu_per_usd,0.875506396987998
+Hungary,HUN,2020-Q4,exchange_rate_lcu_per_usd,307.996666666666
+Iceland,ISL,2020-Q4,exchange_rate_lcu_per_usd,135.421711629204
+Ireland,IRL,2020-Q4,exchange_rate_lcu_per_usd,0.875506396987998
+Israel,ISR,2020-Q4,exchange_rate_lcu_per_usd,3.44240585198792
+Italy,ITA,2020-Q4,exchange_rate_lcu_per_usd,0.875506396987998
+Japan,JPN,2020-Q4,exchange_rate_lcu_per_usd,106.774582262437
+Latvia,LVA,2020-Q4,exchange_rate_lcu_per_usd,0.875506396987998
+Lithuania,LTU,2020-Q4,exchange_rate_lcu_per_usd,0.875506396987998
+Luxembourg,LUX,2020-Q4,exchange_rate_lcu_per_usd,0.875506396987998
+Mexico,MEX,2020-Q4,exchange_rate_lcu_per_usd,21.4856083333333
+Netherlands,NLD,2020-Q4,exchange_rate_lcu_per_usd,0.875506396987998
+New Zealand,NZL,2020-Q4,exchange_rate_lcu_per_usd,1.54205833333333
+Norway,NOR,2020-Q4,exchange_rate_lcu_per_usd,9.41583333333333
+Poland,POL,2020-Q4,exchange_rate_lcu_per_usd,3.89974166666666
+Portugal,PRT,2020-Q4,exchange_rate_lcu_per_usd,0.875506396987998
+Slovakia,SVK,2020-Q4,exchange_rate_lcu_per_usd,0.875506396987998
+Slovenia,SVN,2020-Q4,exchange_rate_lcu_per_usd,0.875506396987998
+South Korea,KOR,2020-Q4,exchange_rate_lcu_per_usd,1180.26583333333
+Spain,ESP,2020-Q4,exchange_rate_lcu_per_usd,0.875506396987998
+Sweden,SWE,2020-Q4,exchange_rate_lcu_per_usd,9.21030902842085
+Switzerland,CHE,2020-Q4,exchange_rate_lcu_per_usd,0.938965
+Turkey,TUR,2020-Q4,exchange_rate_lcu_per_usd,7.00860541558521
+United Kingdom,GBR,2020-Q4,exchange_rate_lcu_per_usd,0.779999576697153
+United States,USA,2020-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2021-Q4,exchange_rate_lcu_per_usd,1.3312242595708
+Austria,AUT,2021-Q4,exchange_rate_lcu_per_usd,0.84549413889045
+Belgium,BEL,2021-Q4,exchange_rate_lcu_per_usd,0.84549413889045
+Canada,CAN,2021-Q4,exchange_rate_lcu_per_usd,1.25387690212679
+Chile,CHL,2021-Q4,exchange_rate_lcu_per_usd,758.955378658977
+Colombia,COL,2021-Q4,exchange_rate_lcu_per_usd,3744.24416666666
+Costa Rica,CRI,2021-Q4,exchange_rate_lcu_per_usd,620.784720014081
+Czechia,CZE,2021-Q4,exchange_rate_lcu_per_usd,21.6781666666666
+Denmark,DNK,2021-Q4,exchange_rate_lcu_per_usd,6.2871130825
+Estonia,EST,2021-Q4,exchange_rate_lcu_per_usd,0.84549413889045
+Finland,FIN,2021-Q4,exchange_rate_lcu_per_usd,0.84549413889045
+France,FRA,2021-Q4,exchange_rate_lcu_per_usd,0.84549413889045
+Germany,DEU,2021-Q4,exchange_rate_lcu_per_usd,0.84549413889045
+Greece,GRC,2021-Q4,exchange_rate_lcu_per_usd,0.84549413889045
+Hungary,HUN,2021-Q4,exchange_rate_lcu_per_usd,303.140833333333
+Iceland,ISL,2021-Q4,exchange_rate_lcu_per_usd,126.988860204557
+Ireland,IRL,2021-Q4,exchange_rate_lcu_per_usd,0.84549413889045
+Israel,ISR,2021-Q4,exchange_rate_lcu_per_usd,3.23019832251082
+Italy,ITA,2021-Q4,exchange_rate_lcu_per_usd,0.84549413889045
+Japan,JPN,2021-Q4,exchange_rate_lcu_per_usd,109.754323839417
+Latvia,LVA,2021-Q4,exchange_rate_lcu_per_usd,0.84549413889045
+Lithuania,LTU,2021-Q4,exchange_rate_lcu_per_usd,0.84549413889045
+Luxembourg,LUX,2021-Q4,exchange_rate_lcu_per_usd,0.84549413889045
+Mexico,MEX,2021-Q4,exchange_rate_lcu_per_usd,20.2724083333333
+Netherlands,NLD,2021-Q4,exchange_rate_lcu_per_usd,0.84549413889045
+New Zealand,NZL,2021-Q4,exchange_rate_lcu_per_usd,1.4138
+Norway,NOR,2021-Q4,exchange_rate_lcu_per_usd,8.59
+Poland,POL,2021-Q4,exchange_rate_lcu_per_usd,3.86191666666666
+Portugal,PRT,2021-Q4,exchange_rate_lcu_per_usd,0.84549413889045
+Slovakia,SVK,2021-Q4,exchange_rate_lcu_per_usd,0.84549413889045
+Slovenia,SVN,2021-Q4,exchange_rate_lcu_per_usd,0.84549413889045
+South Korea,KOR,2021-Q4,exchange_rate_lcu_per_usd,1143.95166666666
+Spain,ESP,2021-Q4,exchange_rate_lcu_per_usd,0.84549413889045
+Sweden,SWE,2021-Q4,exchange_rate_lcu_per_usd,8.57656671607378
+Switzerland,CHE,2021-Q4,exchange_rate_lcu_per_usd,0.913845833333333
+Turkey,TUR,2021-Q4,exchange_rate_lcu_per_usd,8.85040754928314
+United Kingdom,GBR,2021-Q4,exchange_rate_lcu_per_usd,0.727064944688322
+United States,USA,2021-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2022-Q4,exchange_rate_lcu_per_usd,1.44166445896521
+Austria,AUT,2022-Q4,exchange_rate_lcu_per_usd,0.94962375315694
+Belgium,BEL,2022-Q4,exchange_rate_lcu_per_usd,0.94962375315694
+Canada,CAN,2022-Q4,exchange_rate_lcu_per_usd,1.30155477474355
+Chile,CHL,2022-Q4,exchange_rate_lcu_per_usd,873.314189543013
+Colombia,COL,2022-Q4,exchange_rate_lcu_per_usd,4256.19416666666
+Costa Rica,CRI,2022-Q4,exchange_rate_lcu_per_usd,647.135817631362
+Czechia,CZE,2022-Q4,exchange_rate_lcu_per_usd,23.357
+Denmark,DNK,2022-Q4,exchange_rate_lcu_per_usd,7.0761518625
+Estonia,EST,2022-Q4,exchange_rate_lcu_per_usd,0.94962375315694
+Finland,FIN,2022-Q4,exchange_rate_lcu_per_usd,0.94962375315694
+France,FRA,2022-Q4,exchange_rate_lcu_per_usd,0.94962375315694
+Germany,DEU,2022-Q4,exchange_rate_lcu_per_usd,0.94962375315694
+Greece,GRC,2022-Q4,exchange_rate_lcu_per_usd,0.94962375315694
+Hungary,HUN,2022-Q4,exchange_rate_lcu_per_usd,372.595833333333
+Iceland,ISL,2022-Q4,exchange_rate_lcu_per_usd,135.27990200138
+Ireland,IRL,2022-Q4,exchange_rate_lcu_per_usd,0.94962375315694
+Israel,ISR,2022-Q4,exchange_rate_lcu_per_usd,3.35961440158188
+Italy,ITA,2022-Q4,exchange_rate_lcu_per_usd,0.94962375315694
+Japan,JPN,2022-Q4,exchange_rate_lcu_per_usd,131.498140443763
+Latvia,LVA,2022-Q4,exchange_rate_lcu_per_usd,0.94962375315694
+Lithuania,LTU,2022-Q4,exchange_rate_lcu_per_usd,0.94962375315694
+Luxembourg,LUX,2022-Q4,exchange_rate_lcu_per_usd,0.94962375315694
+Mexico,MEX,2022-Q4,exchange_rate_lcu_per_usd,20.12735
+Netherlands,NLD,2022-Q4,exchange_rate_lcu_per_usd,0.94962375315694
+New Zealand,NZL,2022-Q4,exchange_rate_lcu_per_usd,1.57718333333333
+Norway,NOR,2022-Q4,exchange_rate_lcu_per_usd,9.61416666666666
+Poland,POL,2022-Q4,exchange_rate_lcu_per_usd,4.45775833333333
+Portugal,PRT,2022-Q4,exchange_rate_lcu_per_usd,0.94962375315694
+Slovakia,SVK,2022-Q4,exchange_rate_lcu_per_usd,0.94962375315694
+Slovenia,SVN,2022-Q4,exchange_rate_lcu_per_usd,0.94962375315694
+South Korea,KOR,2022-Q4,exchange_rate_lcu_per_usd,1291.44666666666
+Spain,ESP,2022-Q4,exchange_rate_lcu_per_usd,0.94962375315694
+Sweden,SWE,2022-Q4,exchange_rate_lcu_per_usd,10.1142512775639
+Switzerland,CHE,2022-Q4,exchange_rate_lcu_per_usd,0.9548325
+Turkey,TUR,2022-Q4,exchange_rate_lcu_per_usd,16.5488604173067
+United Kingdom,GBR,2022-Q4,exchange_rate_lcu_per_usd,0.811301715827773
+United States,USA,2022-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2023-Q4,exchange_rate_lcu_per_usd,1.50519106560508
+Austria,AUT,2023-Q4,exchange_rate_lcu_per_usd,0.924839558470697
+Belgium,BEL,2023-Q4,exchange_rate_lcu_per_usd,0.924839558470697
+Canada,CAN,2023-Q4,exchange_rate_lcu_per_usd,1.3499086407939
+Chile,CHL,2023-Q4,exchange_rate_lcu_per_usd,840.066526651499
+Colombia,COL,2023-Q4,exchange_rate_lcu_per_usd,4325.955
+Costa Rica,CRI,2023-Q4,exchange_rate_lcu_per_usd,544.050775505632
+Czechia,CZE,2023-Q4,exchange_rate_lcu_per_usd,22.1980833333333
+Denmark,DNK,2023-Q4,exchange_rate_lcu_per_usd,6.88970258583333
+Estonia,EST,2023-Q4,exchange_rate_lcu_per_usd,0.924839558470697
+Finland,FIN,2023-Q4,exchange_rate_lcu_per_usd,0.924839558470697
+France,FRA,2023-Q4,exchange_rate_lcu_per_usd,0.924839558470697
+Germany,DEU,2023-Q4,exchange_rate_lcu_per_usd,0.924839558470697
+Greece,GRC,2023-Q4,exchange_rate_lcu_per_usd,0.924839558470697
+Hungary,HUN,2023-Q4,exchange_rate_lcu_per_usd,353.088333333333
+Iceland,ISL,2023-Q4,exchange_rate_lcu_per_usd,137.942952429967
+Ireland,IRL,2023-Q4,exchange_rate_lcu_per_usd,0.924839558470697
+Israel,ISR,2023-Q4,exchange_rate_lcu_per_usd,3.66737471602259
+Italy,ITA,2023-Q4,exchange_rate_lcu_per_usd,0.924839558470697
+Japan,JPN,2023-Q4,exchange_rate_lcu_per_usd,140.49110006234
+Latvia,LVA,2023-Q4,exchange_rate_lcu_per_usd,0.924839558470697
+Lithuania,LTU,2023-Q4,exchange_rate_lcu_per_usd,0.924839558470697
+Luxembourg,LUX,2023-Q4,exchange_rate_lcu_per_usd,0.924839558470697
+Mexico,MEX,2023-Q4,exchange_rate_lcu_per_usd,17.7587166666666
+Netherlands,NLD,2023-Q4,exchange_rate_lcu_per_usd,0.924839558470697
+New Zealand,NZL,2023-Q4,exchange_rate_lcu_per_usd,1.62843333333333
+Norway,NOR,2023-Q4,exchange_rate_lcu_per_usd,10.5633333333333
+Poland,POL,2023-Q4,exchange_rate_lcu_per_usd,4.20366666666666
+Portugal,PRT,2023-Q4,exchange_rate_lcu_per_usd,0.924839558470697
+Slovakia,SVK,2023-Q4,exchange_rate_lcu_per_usd,0.924839558470697
+Slovenia,SVN,2023-Q4,exchange_rate_lcu_per_usd,0.924839558470697
+South Korea,KOR,2023-Q4,exchange_rate_lcu_per_usd,1305.6625
+Spain,ESP,2023-Q4,exchange_rate_lcu_per_usd,0.924839558470697
+Sweden,SWE,2023-Q4,exchange_rate_lcu_per_usd,10.6101612965535
+Switzerland,CHE,2023-Q4,exchange_rate_lcu_per_usd,0.89849
+Turkey,TUR,2023-Q4,exchange_rate_lcu_per_usd,23.7385661219918
+United Kingdom,GBR,2023-Q4,exchange_rate_lcu_per_usd,0.804538906734352
+United States,USA,2023-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2024-Q4,exchange_rate_lcu_per_usd,1.51535803855596
+Austria,AUT,2024-Q4,exchange_rate_lcu_per_usd,0.923889546117606
+Belgium,BEL,2024-Q4,exchange_rate_lcu_per_usd,0.923889546117606
+Canada,CAN,2024-Q4,exchange_rate_lcu_per_usd,1.36935976604091
+Chile,CHL,2024-Q4,exchange_rate_lcu_per_usd,943.572167421487
+Colombia,COL,2024-Q4,exchange_rate_lcu_per_usd,4074.43416666666
+Costa Rica,CRI,2024-Q4,exchange_rate_lcu_per_usd,515.109771921403
+Czechia,CZE,2024-Q4,exchange_rate_lcu_per_usd,23.2168333333333
+Denmark,DNK,2024-Q4,exchange_rate_lcu_per_usd,6.89448141666666
+Estonia,EST,2024-Q4,exchange_rate_lcu_per_usd,0.923889546117606
+Finland,FIN,2024-Q4,exchange_rate_lcu_per_usd,0.923889546117606
+France,FRA,2024-Q4,exchange_rate_lcu_per_usd,0.923889546117606
+Germany,DEU,2024-Q4,exchange_rate_lcu_per_usd,0.923889546117606
+Greece,GRC,2024-Q4,exchange_rate_lcu_per_usd,0.923889546117606
+Hungary,HUN,2024-Q4,exchange_rate_lcu_per_usd,365.690833333333
+Iceland,ISL,2024-Q4,exchange_rate_lcu_per_usd,137.958025978153
+Ireland,IRL,2024-Q4,exchange_rate_lcu_per_usd,0.923889546117606
+Israel,ISR,2024-Q4,exchange_rate_lcu_per_usd,3.69971964970892
+Italy,ITA,2024-Q4,exchange_rate_lcu_per_usd,0.923889546117606
+Japan,JPN,2024-Q4,exchange_rate_lcu_per_usd,151.366291302751
+Latvia,LVA,2024-Q4,exchange_rate_lcu_per_usd,0.923889546117606
+Lithuania,LTU,2024-Q4,exchange_rate_lcu_per_usd,0.923889546117606
+Luxembourg,LUX,2024-Q4,exchange_rate_lcu_per_usd,0.923889546117606
+Mexico,MEX,2024-Q4,exchange_rate_lcu_per_usd,18.3048583333333
+Netherlands,NLD,2024-Q4,exchange_rate_lcu_per_usd,0.923889546117606
+New Zealand,NZL,2024-Q4,exchange_rate_lcu_per_usd,1.65230833333333
+Norway,NOR,2024-Q4,exchange_rate_lcu_per_usd,10.7458333333333
+Poland,POL,2024-Q4,exchange_rate_lcu_per_usd,3.98078333333333
+Portugal,PRT,2024-Q4,exchange_rate_lcu_per_usd,0.923889546117606
+Slovakia,SVK,2024-Q4,exchange_rate_lcu_per_usd,0.923889546117606
+Slovenia,SVN,2024-Q4,exchange_rate_lcu_per_usd,0.923889546117606
+South Korea,KOR,2024-Q4,exchange_rate_lcu_per_usd,1363.375
+Spain,ESP,2024-Q4,exchange_rate_lcu_per_usd,0.923889546117606
+Sweden,SWE,2024-Q4,exchange_rate_lcu_per_usd,10.5676364344775
+Switzerland,CHE,2024-Q4,exchange_rate_lcu_per_usd,0.880440833333333
+Turkey,TUR,2024-Q4,exchange_rate_lcu_per_usd,32.8058614432703
+United Kingdom,GBR,2024-Q4,exchange_rate_lcu_per_usd,0.782414580986261
+United States,USA,2024-Q4,exchange_rate_lcu_per_usd,1
+Australia,AUS,2025-Q4,exchange_rate_lcu_per_usd,1.5519978866485
+Austria,AUT,2025-Q4,exchange_rate_lcu_per_usd,0.88496895841236
+Belgium,BEL,2025-Q4,exchange_rate_lcu_per_usd,0.88496895841236
+Canada,CAN,2025-Q4,exchange_rate_lcu_per_usd,1.39810565893901
+Chile,CHL,2025-Q4,exchange_rate_lcu_per_usd,951.329454191033
+Colombia,COL,2025-Q4,exchange_rate_lcu_per_usd,4053.13583333333
+Costa Rica,CRI,2025-Q4,exchange_rate_lcu_per_usd,503.496832373272
+Czechia,CZE,2025-Q4,exchange_rate_lcu_per_usd,21.882
+Denmark,DNK,2025-Q4,exchange_rate_lcu_per_usd,6.62182508333333
+Estonia,EST,2025-Q4,exchange_rate_lcu_per_usd,0.88496895841236
+Finland,FIN,2025-Q4,exchange_rate_lcu_per_usd,0.88496895841236
+France,FRA,2025-Q4,exchange_rate_lcu_per_usd,0.88496895841236
+Germany,DEU,2025-Q4,exchange_rate_lcu_per_usd,0.88496895841236
+Greece,GRC,2025-Q4,exchange_rate_lcu_per_usd,0.88496895841236
+Hungary,HUN,2025-Q4,exchange_rate_lcu_per_usd,353.14
+Iceland,ISL,2025-Q4,exchange_rate_lcu_per_usd,128.44148705495
+Ireland,IRL,2025-Q4,exchange_rate_lcu_per_usd,0.88496895841236
+Israel,ISR,2025-Q4,exchange_rate_lcu_per_usd,3.45189166666666
+Italy,ITA,2025-Q4,exchange_rate_lcu_per_usd,0.88496895841236
+Japan,JPN,2025-Q4,exchange_rate_lcu_per_usd,149.657926890951
+Latvia,LVA,2025-Q4,exchange_rate_lcu_per_usd,0.88496895841236
+Lithuania,LTU,2025-Q4,exchange_rate_lcu_per_usd,0.88496895841236
+Luxembourg,LUX,2025-Q4,exchange_rate_lcu_per_usd,0.88496895841236
+Mexico,MEX,2025-Q4,exchange_rate_lcu_per_usd,19.2375083333333
+Netherlands,NLD,2025-Q4,exchange_rate_lcu_per_usd,0.88496895841236
+New Zealand,NZL,2025-Q4,exchange_rate_lcu_per_usd,1.72010833333333
+Norway,NOR,2025-Q4,exchange_rate_lcu_per_usd,10.3958333333333
+Poland,POL,2025-Q4,exchange_rate_lcu_per_usd,3.76054166666666
+Portugal,PRT,2025-Q4,exchange_rate_lcu_per_usd,0.88496895841236
+Slovakia,SVK,2025-Q4,exchange_rate_lcu_per_usd,0.88496895841236
+Slovenia,SVN,2025-Q4,exchange_rate_lcu_per_usd,0.88496895841236
+South Korea,KOR,2025-Q4,exchange_rate_lcu_per_usd,1422.44083333333
+Spain,ESP,2025-Q4,exchange_rate_lcu_per_usd,0.88496895841236
+Sweden,SWE,2025-Q4,exchange_rate_lcu_per_usd,9.82070570950185
+Switzerland,CHE,2025-Q4,exchange_rate_lcu_per_usd,0.831355833333333
+Turkey,TUR,2025-Q4,exchange_rate_lcu_per_usd,39.4548130977982
+United Kingdom,GBR,2025-Q4,exchange_rate_lcu_per_usd,0.759473957338607
+United States,USA,2025-Q4,exchange_rate_lcu_per_usd,1
+European Union,EU,1970-Q4,NA,5.225822759135958
+European Union,EU,1971-Q4,NA,5.190567562236585
+European Union,EU,1972-Q4,NA,4.800382060348842
+European Union,EU,1973-Q4,NA,4.254620210260441
+European Union,EU,1974-Q4,NA,4.12050647268368
+European Union,EU,1975-Q4,NA,3.882176679316809
+European Union,EU,1976-Q4,NA,3.8037569626134844
+European Union,EU,1977-Q4,NA,3.755606066721187
+European Union,EU,1978-Q4,NA,3.4899523345466856
+European Union,EU,1979-Q4,NA,3.2819494859284517
+European Union,EU,1980-Q4,NA,3.1100772529209846
+European Union,EU,1981-Q4,NA,3.4841868616948326
+European Union,EU,1982-Q4,NA,3.8668740199895026
+European Union,EU,1983-Q4,NA,4.469460562991895
+European Union,EU,1984-Q4,NA,5.022567723903536
+European Union,EU,1985-Q4,NA,5.229410438938441
+European Union,EU,1986-Q4,NA,4.5144526076466605
+European Union,EU,1987-Q4,NA,4.362965485047634
+European Union,EU,1988-Q4,NA,4.548871746242158
+European Union,EU,1989-Q4,NA,5.1923990808987845
+European Union,EU,1990-Q4,NA,6.246602711726334
+European Union,EU,1991-Q4,NA,6.964468155764923
+European Union,EU,1992-Q4,NA,6.563088196223481
+European Union,EU,1993-Q4,NA,6.895822884541726
+European Union,EU,1994-Q4,NA,7.480473817747537
+European Union,EU,1995-Q4,NA,8.203303174022727
+European Union,EU,1996-Q4,NA,9.47749718152888
+European Union,EU,1997-Q4,NA,11.414961234850374
+European Union,EU,1998-Q4,NA,12.741737999595014
+European Union,EU,1999-Q4,NA,13.963619339693302
+European Union,EU,2000-Q4,NA,16.405195413776124
+European Union,EU,2001-Q4,NA,16.65711888233297
+European Union,EU,2002-Q4,NA,15.02459497791128
+European Union,EU,2003-Q4,NA,13.016245988663696
+European Union,EU,2004-Q4,NA,11.788307036908911
+European Union,EU,2005-Q4,NA,11.551633942061256
+European Union,EU,2006-Q4,NA,11.961138869639326
+European Union,EU,2007-Q4,NA,10.51764095840336
+European Union,EU,2008-Q4,NA,9.76735598698526
+European Union,EU,2009-Q4,NA,11.351597344770811
+European Union,EU,2010-Q4,NA,11.623358230072308
+European Union,EU,2011-Q4,NA,11.171999763691073
+European Union,EU,2012-Q4,NA,12.442586744258609
+European Union,EU,2013-Q4,NA,12.334419125198552
+European Union,EU,2014-Q4,NA,12.808350348709961
+European Union,EU,2015-Q4,NA,15.372069857357737
+European Union,EU,2016-Q4,NA,15.47990489425543
+European Union,EU,2017-Q4,NA,15.08132945179665
+European Union,EU,2018-Q4,NA,14.770707839128962
+European Union,EU,2019-Q4,NA,15.852050779627847
+European Union,EU,2020-Q4,NA,16.624669468850733
+European Union,EU,2021-Q4,NA,16.26899985574444
+European Union,EU,2022-Q4,NA,19.71566357319992
+European Union,EU,2023-Q4,NA,18.759646350441894
+European Union,EU,2024-Q4,NA,19.366213187961048
+European Union,EU,2025-Q4,NA,18.648615670568724

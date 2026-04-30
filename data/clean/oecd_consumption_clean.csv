@@ -1,0 +1,59 @@
+Pays,iso3,date,indicator,value
+Austria,AUT,1995-Q4,household_consumption_total,98018.91
+Austria,AUT,1996-Q4,household_consumption_total,101892.27
+Austria,AUT,1997-Q4,household_consumption_total,103490.19
+Austria,AUT,1998-Q4,household_consumption_total,106811.42
+Austria,AUT,1999-Q4,household_consumption_total,109738.95
+Austria,AUT,2000-Q4,household_consumption_total,115443.39
+Austria,AUT,2001-Q4,household_consumption_total,119540.95
+Austria,AUT,2002-Q4,household_consumption_total,121797.79
+Austria,AUT,2003-Q4,household_consumption_total,125613.39
+Austria,AUT,2004-Q4,household_consumption_total,130855.49
+Austria,AUT,2005-Q4,household_consumption_total,137193.99
+Austria,AUT,2006-Q4,household_consumption_total,142683.32
+Austria,AUT,2007-Q4,household_consumption_total,147969.48
+Austria,AUT,2008-Q4,household_consumption_total,153183.39
+Austria,AUT,2009-Q4,household_consumption_total,153680.69
+Austria,AUT,2010-Q4,household_consumption_total,158025
+Austria,AUT,2011-Q4,household_consumption_total,165633.75
+Austria,AUT,2012-Q4,household_consumption_total,170584.53
+Austria,AUT,2013-Q4,household_consumption_total,174241
+Austria,AUT,2014-Q4,household_consumption_total,177798.69
+Austria,AUT,2015-Q4,household_consumption_total,181398.42
+Austria,AUT,2016-Q4,household_consumption_total,187075.83
+Austria,AUT,2017-Q4,household_consumption_total,193752.04
+Austria,AUT,2018-Q4,household_consumption_total,200085.71
+Austria,AUT,2019-Q4,household_consumption_total,204678.81
+Austria,AUT,2020-Q4,household_consumption_total,187510.1
+Austria,AUT,2021-Q4,household_consumption_total,194235.88
+Austria,AUT,2022-Q4,household_consumption_total,225953.75
+Austria,AUT,2023-Q4,household_consumption_total,243825.77
+European Union,EU,1995-Q4,NA,98018.91
+European Union,EU,1996-Q4,NA,101892.27
+European Union,EU,1997-Q4,NA,103490.19
+European Union,EU,1998-Q4,NA,106811.42
+European Union,EU,1999-Q4,NA,109738.95
+European Union,EU,2000-Q4,NA,115443.39
+European Union,EU,2001-Q4,NA,119540.95
+European Union,EU,2002-Q4,NA,121797.79
+European Union,EU,2003-Q4,NA,125613.39
+European Union,EU,2004-Q4,NA,130855.49
+European Union,EU,2005-Q4,NA,137193.99
+European Union,EU,2006-Q4,NA,142683.32
+European Union,EU,2007-Q4,NA,147969.48
+European Union,EU,2008-Q4,NA,153183.39
+European Union,EU,2009-Q4,NA,153680.69
+European Union,EU,2010-Q4,NA,158025
+European Union,EU,2011-Q4,NA,165633.75
+European Union,EU,2012-Q4,NA,170584.53
+European Union,EU,2013-Q4,NA,174241
+European Union,EU,2014-Q4,NA,177798.69
+European Union,EU,2015-Q4,NA,181398.42
+European Union,EU,2016-Q4,NA,187075.83
+European Union,EU,2017-Q4,NA,193752.04
+European Union,EU,2018-Q4,NA,200085.71
+European Union,EU,2019-Q4,NA,204678.81
+European Union,EU,2020-Q4,NA,187510.1
+European Union,EU,2021-Q4,NA,194235.88
+European Union,EU,2022-Q4,NA,225953.75
+European Union,EU,2023-Q4,NA,243825.77
