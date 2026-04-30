@@ -1,0 +1,163 @@
+Starting Dynare (version 6.5).
+Calling Dynare with arguments: none
+Starting preprocessing of the model file ... 
+Found 59 equation(s). 
+Evaluating expressions... 
+Computing static model derivatives (order 1). 
+Normalizing the static model... 
+Normalization failed with cutoff, trying symbolic normalization... 
+Finding the optimal block decomposition of the static model... 
+20 block(s) found: 
+  19 recursive block(s) and 1 simultaneous block(s). 
+  the largest simultaneous block has 37 equation(s) 
+                                 and 37 feedback variable(s). 
+Computing dynamic model derivatives (order 1). 
+Normalizing the dynamic model... 
+Normalization failed with cutoff, trying symbolic normalization... 
+Finding the optimal block decomposition of the dynamic model... 
+20 block(s) found: 
+  19 recursive block(s) and 1 simultaneous block(s). 
+  the largest simultaneous block has 37 equation(s) 
+                                 and 30 feedback variable(s). 
+Preprocessing completed. 
+Preprocessing time: 0h00m01s.
+
+STEADY-STATE RESULTS:
+
+c_H     		 0.562245
+lb_H    		 2.37198
+r_H     		 1.00604
+w_H     		 0.13771
+n_H     		 0.57153
+cpi_H   		 1
+b_F     		 -4.78805
+c_H_h   		 0.506021
+c_H_f   		 0.0562245
+c_F     		 0.714027
+lb_F    		 1.6574
+r_F     		 1.00604
+w_F     		 0.186925
+n_F     		 0.556606
+cpi_F   		 1
+b_H     		 3.19204
+c_F_f   		 0.642624
+c_F_h   		 0.0714027
+p_H     		 1
+PG_H    		 0.890952
+p_int_H 		 0.418994
+pi_H    		 1
+p_F     		 1
+PG_F    		 0.721826
+p_int_F 		 0.37749
+pi_F    		 1
+y_H     		 0.24525
+G_H     		 0.0908382
+y_F     		 0.408064
+G_F     		 0.186556
+y_int_H 		 0.513506
+mc_H    		 0.235139
+mu_H    		 0.310405
+y_int_F 		 0.569284
+mc_F    		 0.261482
+mu_F    		 0.0269199
+e_H     		 0.0283289
+e_F     		 0.0664751
+de      		 1
+rer     		 1
+NFA_H   		 -4.78805
+NFA_F   		 3.19204
+ex_H    		 0.225992
+ex_F    		 0.0917949
+tau_H   		 0.1
+tau_F   		 0.002
+T_H     		 0.00283289
+T_F     		 0.00013295
+e_z_H   		 1
+e_z_F   		 1
+e_p_H   		 1
+e_p_F   		 1
+e_r_H   		 1
+e_r_F   		 1
+e_x_H   		 1
+e_x_F   		 1
+e_t_H   		 1
+e_t_F   		 1
+e_e     		 1
+
+STEADY-STATE RESULTS:
+
+c_H     		 0.557245
+lb_H    		 2.40398
+r_H     		 1.00604
+w_H     		 0.135875
+n_H     		 0.571524
+cpi_H   		 1
+b_F     		 -5.35618
+c_H_h   		 0.50152
+c_H_f   		 0.0557245
+c_F     		 0.715717
+lb_F    		 1.65154
+r_F     		 1.00604
+w_F     		 0.186212
+n_F     		 0.554559
+cpi_F   		 1
+b_H     		 3.57079
+c_F_f   		 0.644145
+c_F_h   		 0.0715717
+p_H     		 1
+PG_H    		 0.903614
+p_int_H 		 0.419673
+pi_H    		 1
+p_F     		 1
+PG_F    		 0.719274
+p_int_F 		 0.375681
+pi_F    		 1
+y_H     		 0.243551
+G_H     		 0.0889449
+y_F     		 0.408777
+G_F     		 0.187545
+y_int_H 		 0.513502
+mc_H    		 0.232219
+mu_H    		 0.310405
+y_int_F 		 0.567818
+mc_F    		 0.260211
+mu_F    		 0.055666
+e_H     		 0.0283287
+e_F     		 0.0643452
+de      		 1
+rer     		 1
+NFA_H   		 -5.35618
+NFA_F   		 3.57079
+ex_H    		 0.224857
+ex_F    		 0.0865867
+tau_H   		 0.1
+tau_F   		 0.002
+T_H     		 0.00401031
+T_F     		 0.00012869
+e_z_H   		 1
+e_z_F   		 1
+e_p_H   		 1
+e_p_F   		 1
+e_r_H   		 1
+e_r_F   		 1
+e_x_H   		 1
+e_x_F   		 1
+e_t_H   		 1
+e_t_F   		 1
+e_e     		 1
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 0.571554,	 time = 0.134
+Iter: 2,	 err. = 0.0219289,	 time = 0.019
+Iter: 3,	 err. = 2.72233e-05,	 time = 0.016
+Iter: 4,	 err. = 4.65847e-10,	 time = 0.015
+
+Total time of simulation: 0.236.
+--------------------------------------------------------
+
+
+Perfect foresight solution found.
+
+Total computing time : 0h00m00s

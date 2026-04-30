@@ -135,6 +135,12 @@ psi_F = (cF_init^(-sigmaC_F) * wF_init) / (nF_init^sigmaH_F);
 % MODEL
 % ================================================================
 
+% ---- Estimated param overrides from C:\Users\juliendubois\Documents\cbam\dynare\cbam_estimation\Output\cbam_estimation_mode.mat ----
+kappa_H = 131.6243707221697;
+kappa_F = 121.1098370509483;
+rho_r_H = 0.07314269147704391;
+rho_r_F = 0.3810403157223092;
+rho_e = 0.9859458719876648;
 model;
 % --- Local definitions ---
 #e_t = rer * cpi_H / cpi_F;

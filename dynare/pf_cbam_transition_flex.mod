@@ -105,8 +105,8 @@ theta2_H  = 2.6;
 theta2_F  = 2.6;
 tau_H_ss  = 0.1;
 tau_F_ss  = 0.02;
-kappa_H   = 100;
-kappa_F   = 100;
+kappa_H   = 0;
+kappa_F   = 0;
 tau_i     = 0.05;
 rho       = 0.8;
 phi_pi    = 1.5;
@@ -135,6 +135,12 @@ psi_F = (cF_init^(-sigmaC_F) * wF_init) / (nF_init^sigmaH_F);
 % MODEL
 % ================================================================
 
+% ---- Estimated param overrides from C:\Users\juliendubois\Documents\cbam\dynare\cbam_estimation\Output\cbam_estimation_mode.mat ----
+kappa_H   = 0;
+kappa_F   = 0;
+rho_r_H = 0.07314269147704391;
+rho_r_F = 0.3810403157223092;
+rho_e = 0.9859458719876648;
 model;
 % --- Local definitions ---
 #e_t = rer * cpi_H / cpi_F;
