@@ -1,0 +1,82 @@
+Récapitulatif: passage de raw a clean (cbam/data/clean)
+
+Regles communes appliquees a toutes les tables
+- Harmonisation pays: conversion vers ISO3 puis filtrage sur les pays OCDE.
+- Fusion UE: ajout d'une ligne agregat EU (Pays = European Union) par date.
+- Harmonisation temporelle: sortie en trimestriel au format YYYY-Qn.
+- Schema final combine: format large (une ligne par Pays-date, une colonne par variable).
+- Construction finale: merge des datasets clean par cles (Pays, iso3, date) en intersection (inner join) pour eviter les NA structurels.
+- Sortie:
+  - panel_all_indicators.csv = panel merge final (sans NA structurels)
+  - panel_all_indicators_sparse.csv = panel large diagnostique (peut contenir des NA)
+  - + un fichier *_clean.csv par table dans cbam/data/clean.
+
+Table: oecd_real_gdp (raw: oecd_real_gdp.csv)
+- Variable recuperee: real_gdp_growth_qoq
+- Colonnes source utilisees: REF_AREA, TIME_PERIOD, OBS_VALUE
+- Filtres: TRANSACTION=B1GQ, ADJUSTMENT=Y, TRANSFORMATION=G1
+- Modif raw -> clean:
+  - frequence deja trimestrielle
+  - agrégation par pays-trimestre: first (pas de lissage de taux deja trimestriels)
+  - ajout agregat UE
+
+Table: oecd_gdp_expenditures (raw: oecd_gdp_expenditures.csv)
+- Variable recuperee: final_consumption_expenditure
+- Colonnes source utilisees: REF_AREA, TIME_PERIOD, OBS_VALUE
+- Filtres: TRANSACTION=P3, PRICE_BASE=V, TRANSFORMATION=N (ou vide)
+- Modif raw -> clean:
+  - frequence deja trimestrielle
+  - agrégation par pays-trimestre: sum
+  - ajout agregat UE
+
+Table: oecd_cpi (raw: oecd_cpi.csv)
+- Variable recuperee: cpi_index
+- Colonnes source utilisees: REF_AREA, TIME_PERIOD, OBS_VALUE
+- Filtres: MEASURE=CPI, EXPENDITURE=_T, ADJUSTMENT=N, TRANSFORMATION=_Z
+- Modif raw -> clean:
+  - mensuel -> trimestriel
+  - agrégation intra-trimestre: last (valeur de fin de trimestre)
+  - ajout agregat UE
+
+Table: oecd_short_term_interest (raw: oecd_short_term_interest.csv)
+- Variable recuperee: short_term_interest
+- Colonnes source utilisees: REF_AREA, TIME_PERIOD, OBS_VALUE
+- Filtres: MEASURE=IR3TIB, METHODOLOGY=N
+- Modif raw -> clean:
+  - mensuel -> trimestriel
+  - agrégation intra-trimestre: mean
+  - ajout agregat UE
+
+Table: oecd_trade (raw: oecd_trade.csv)
+- Variable recuperee: trade_balance_usd_billion
+- Colonnes source utilisees: REF_AREA, TIME_PERIOD, OBS_VALUE
+- Filtres: TRADE_FLOW=TB, COUNTERPART_AREA=W, PRODUCT_TYPE=C, ADJUSTMENT=Y, TRANSFORMATION=N
+- Modif raw -> clean:
+  - mensuel -> trimestriel
+  - agrégation intra-trimestre: sum
+  - ajout agregat UE
+
+Table: oecd_exchange_rate
+- Table retiree du pipeline clean (serie annuelle, skip demande)
+
+Table: oecd_consumption
+- Table retiree du pipeline clean (serie annuelle, skip demande)
+
+Table: oecd_deflator (raw: oecd_deflator.csv, format WDI)
+- Variable recuperee: gdp_deflator
+- Colonnes source utilisees: Country Code, Indicator Code, colonnes annees (1960..)
+- Filtre: Indicator Code=NY.GDP.DEFL.ZS
+- Modif raw -> clean:
+  - format large -> long (pivot des annees)
+  - annuel -> trimestriel (affectation a Q4)
+  - agrégation par pays-trimestre: mean
+  - ajout agregat UE
+
+Table: eurostar_reer (raw: eurostar_reer.csv)
+- Variable recuperee: reer_ic37_41_cpi
+- Colonnes source utilisees: geo, TIME_PERIOD, OBS_VALUE
+- Filtre: exch_rt in {REER_IC37_CPI, REER_IC41_CPI, REER_IC42_CPI}
+- Modif raw -> clean:
+  - frequence deja trimestrielle
+  - agrégation par pays-trimestre: mean
+  - ajout agregat UE

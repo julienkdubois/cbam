@@ -1,0 +1,113 @@
+================================================================
+DATASET: EU27 vs Rest of World (RoW) — Bilateral Dynare Panel
+Output file: dynare_data_bilateral_eu_row.csv
+================================================================
+
+OVERVIEW
+--------
+This dataset mirrors the structure of the EU27/USA bilateral panel
+(dynare_data_bilateral_2002Q1_2019Q4.csv) but replaces the USA with
+an aggregate Rest of World (RoW) block. It contains 11 observables,
+named identically to the bilateral case: h = home = EU27, f = foreign = RoW.
+
+
+OBSERVABLES
+-----------
+
+obs_dy_h, obs_dy_f — Real GDP growth, quarter-on-quarter (%)
+  EU27 : taken directly from the OECD quarterly national accounts
+         (TRANSACTION = B1GQ, seasonally adjusted, growth rate G1).
+  RoW  : GDP levels of all RoW countries are SUMMED each quarter,
+         then QoQ % change is computed on that aggregate.
+         Rationale: avoids bias from averaging individual growth rates
+         when country sizes differ.
+
+obs_dc_h, obs_dc_f — Real consumption growth, quarter-on-quarter (%)
+  EU27 : final consumption expenditure (P3) seasonally adjusted,
+         deflated by SA CPI, then QoQ % change.
+  RoW  : consumption levels are SUMMED across RoW countries, the
+         aggregate is deflated by a GDP-weighted aggregate CPI index,
+         then QoQ % change is computed on the deflated aggregate.
+
+obs_pi_h, obs_pi_f — CPI inflation, quarter-on-quarter (%)
+  EU27 : QoQ % change of the seasonally adjusted CPI index (OECD).
+  RoW  : QoQ % change of a GDP-weighted average CPI index across
+         RoW countries, after seasonal adjustment of the aggregate.
+
+obs_r_h, obs_r_f — Short-term interest rate, quarterly (%)
+  EU27 : 3-month Euribor / ECB deposit facility rate (annualised),
+         divided by 4 to convert to a quarterly rate.
+  RoW  : GDP-weighted mean of country short-term rates (annualised),
+         divided by 4. Weighting reflects the relative size of each
+         RoW economy in the aggregate.
+
+obs_de — Real exchange rate, LEVEL index (base = 100)
+  Source: Eurostat CPI-based REER for EU27, IC37/IC41 basket.
+  The EU27 REER is already a bilateral real exchange rate of the
+  EU27 against its non-EU trading partners — which is exactly the
+  RoW definition used here. It is therefore used directly as a
+  level index without any further transformation.
+  A rise in obs_de means a real appreciation of the EU27 vs RoW.
+  NOTE: unlike the bilateral EU27/USA dataset where obs_de is a
+  QoQ change, here obs_de is kept as a LEVEL index to allow
+  Dynare measurement equations written in levels.
+
+obs_tb_h — Trade balance of EU27, % of EU27 GDP
+  Source: OECD trade balance (goods + services, current USD billions,
+  COUNTERPART_AREA = World). Converted to % of EU27 GDP in USD millions
+  (×1000 to harmonise units).
+
+obs_tb_f — Trade balance of RoW, % of RoW GDP
+  Sum of individual country trade balances (OECD, vs World) for all
+  RoW countries present in the panel, expressed as % of total RoW GDP.
+  This does NOT cover the entire world — only the 25 countries listed
+  below. Partial coverage is accepted by construction.
+
+
+REST OF WORLD — COUNTRY LIST
+-----------------------------
+RoW is defined as the non-EU countries in the Eurostat IC37/IC41
+REER basket. All 27 EU member states are excluded by construction,
+including Denmark and Sweden (EU members, non-euro area).
+
+The following 28 countries are defined as the RoW basket:
+
+  USA  — United States          JPN  — Japan
+  GBR  — United Kingdom         CHE  — Switzerland
+  NOR  — Norway                 ISL  — Iceland
+  CAN  — Canada                 AUS  — Australia
+  NZL  — New Zealand            CHN  — China
+  KOR  — South Korea            HKG  — Hong Kong
+  SGP  — Singapore *            IDN  — Indonesia
+  IND  — India                  THA  — Thailand *
+  MYS  — Malaysia *             BRA  — Brazil
+  MEX  — Mexico                 ARG  — Argentina
+  CHL  — Chile                  COL  — Colombia
+  CRI  — Costa Rica             TUR  — Turkey
+  RUS  — Russia                 ZAF  — South Africa
+  SAU  — Saudi Arabia           ISR  — Israel
+
+  * SGP, THA, MYS are in the theoretical basket but are absent from
+    the panel (no OECD data available). They are excluded from all
+    aggregations. The 25 countries effectively used are all others above.
+
+Countries excluded from RoW (EU members):
+  AUT BEL BGR CYP CZE DEU DNK ESP EST FIN FRA GRC HRV HUN IRL
+  ITA LTU LUX LVA MLT NLD POL PRT ROU SVK SVN SWE
+
+
+UNITS SUMMARY
+-------------
+  obs_dy_h / obs_dy_f  : percent (QoQ growth rate)
+  obs_dc_h / obs_dc_f  : percent (QoQ growth rate)
+  obs_pi_h / obs_pi_f  : percent (QoQ inflation)
+  obs_r_h  / obs_r_f   : percent (quarterly rate = annualised / 4)
+  obs_de               : index level, base = 100 (reference year of Eurostat REER)
+  obs_tb_h / obs_tb_f  : percent of own GDP
+
+
+SAMPLE PERIOD
+-------------
+  Starts : 2002-Q1 (same as bilateral EU27/USA panel)
+  Ends   : last quarter with complete observations across all 11 variables
+================================================================

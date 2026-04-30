@@ -1,0 +1,161 @@
+CBAM OBSERVABLES: SOURCES, TRANSFORMATIONS, STATS, MODEL MATCH, SHOCK IDENTIFICATION
+
+Scope
+- Data file used for stats: data/clean/dynare_data_bilateral_2002Q1_2019Q4.csv
+- Sample in this file: N = 94 for each listed observable, missing = 0
+- Home = EU27, Foreign = USA
+
+Notation
+- Source (first word) = first token of the raw file name (example: oecd_real_gdp.csv -> oecd)
+- SE = standard error of the mean = sd / sqrt(N)
+
+--------------------------------------------------------------------
+1) Observable definitions, source, transformations, and model match
+--------------------------------------------------------------------
+
+obs_dy_h
+- Source: oecd
+- Raw files used: oecd_real_gdp.csv
+- Pipeline transformation: dy_h = real_gdp_growth_qoq (kept as provided in prepare.R)
+- Model match: obs_dy_h = trend_g_H + 100 * (y_H / y_H(-1) - 1)
+- Stats: mean = 0.3499, sd = 1.7173, SE = 0.1771
+
+obs_dy_f
+- Source: oecd
+- Raw files used: oecd_real_gdp.csv
+- Pipeline transformation: dy_f = real_gdp_growth_qoq (kept as provided in prepare.R)
+- Model match: obs_dy_f = trend_g_F + 100 * (y_F / y_F(-1) - 1)
+- Stats: mean = 0.5539, sd = 1.2932, SE = 0.1334
+
+obs_dc_h
+- Source: oecd
+- Raw files used: oecd_gdp_expenditures.csv (consumption), oecd_cpi.csv (deflator)
+- Pipeline transformation:
+  1) seasonal_adjust_q(final_consumption_expenditure)
+  2) seasonal_adjust_q(cpi_index)
+  3) real_consumption = consumption_sa / cpi_sa
+  4) dc_h = 100 * (real_consumption / lag(real_consumption) - 1)
+- Model match: obs_dc_h = trend_c_H + 100 * (c_H / c_H(-1) - 1)
+- Stats: mean = 0.2557, sd = 1.7342, SE = 0.1789
+
+obs_dc_f
+- Source: oecd
+- Raw files used: oecd_gdp_expenditures.csv (consumption), oecd_cpi.csv (deflator)
+- Pipeline transformation: same steps as obs_dc_h for USA block
+- Model match: obs_dc_f = trend_c_F + 100 * (c_F / c_F(-1) - 1)
+- Stats: mean = 0.5060, sd = 1.2603, SE = 0.1300
+
+obs_pi_h
+- Source: oecd
+- Raw files used: oecd_cpi.csv
+- Pipeline transformation:
+  1) cpi_sa = seasonal_adjust_q(cpi_index)
+  2) pi_h = 100 * (cpi_sa / lag(cpi_sa) - 1)
+- Model match: obs_pi_h = pi_bar_H + 100 * (pi_H - 1)
+- Stats: mean = 0.5865, sd = 0.6198, SE = 0.0639
+
+obs_pi_f
+- Source: oecd
+- Raw files used: oecd_cpi.csv
+- Pipeline transformation: same as obs_pi_h for USA block
+- Model match: obs_pi_f = pi_bar_F + 100 * (pi_F - 1)
+- Stats: mean = 0.6320, sd = 0.7438, SE = 0.0767
+
+obs_r_h
+- Source: oecd
+- Raw files used: oecd_short_term_interest.csv
+- Pipeline transformation:
+  1) short_term_interest kept as provided
+  2) r_h = short_term_interest / 4 (quarterized level)
+- Model match: obs_r_h = r_bar_H + 100 * (r_H - 1)
+- Stats: mean = 0.2114, sd = 0.3421, SE = 0.0353
+
+obs_r_f
+- Source: oecd
+- Raw files used: oecd_short_term_interest.csv
+- Pipeline transformation: same as obs_r_h for USA block
+- Model match: obs_r_f = r_bar_F + 100 * (r_F - 1)
+- Stats: mean = 0.4759, sd = 0.4626, SE = 0.0477
+
+obs_de
+- Source: fred (plus oecd for CPI ratio)
+- Raw files used: fred_exchange_rate.csv, oecd_cpi.csv
+- Pipeline transformation:
+  1) read_fred_exchange_quarterly: quarterly average of DEXUSEU
+  2) cpi_h and cpi_f from seasonal-adjusted CPI blocks
+  3) real_exchange_rate = exchange_rate * (cpi_f / cpi_h)
+  4) de = real_exchange_rate (kept in level)
+- Model match: obs_de = rer_bar + 100 * (rer - 1)
+- Stats: mean = 1.2143, sd = 0.1315, SE = 0.0136
+
+obs_tb_f
+- Source: census (plus oecd for GDP denominator)
+- Raw files used: census_trade_balance.xlsx, oecd_gdp_expenditures.csv
+- Pipeline transformation:
+  1) quarterly imports/exports from monthly Census country sheet
+  2) trade_balance_usd_million = exports - imports (EU27 bilateral row)
+  3) tb_f = 100 * trade_balance_usd_million / gdp_level_usa
+- Model match:
+  obs_tb_f = tb_bar_F + 100 * ((p_int_F*ex_F*l_F/l_H - (1/rer)*p_int_H*ex_H*l_H/l_F + p_F*l_H*c_H_f/l_F - (1/rer)*p_H*c_F_h) / y_F)
+- Stats: mean = -0.7766, sd = 0.1487, SE = 0.0153
+
+obs_tb_h (present in data file, not in varobs estimation list)
+- Source: census (plus oecd for GDP denominator)
+- Raw files used: census_trade_balance.xlsx, oecd_gdp_expenditures.csv
+- Pipeline transformation: tb_h = -100 * trade_balance_usd_million / gdp_level_eu
+- Model match: no direct measurement equation currently estimated
+- Stats: mean = 1.1312, sd = 0.2481, SE = 0.0256
+
+--------------------------------------------------------------------
+2) How each shock identifies each series (practical reading)
+--------------------------------------------------------------------
+
+Core identification channels in the current setup:
+
+- eta_z_H, eta_z_F (TFP shocks)
+  Main series: obs_dy_h, obs_dy_f, secondarily obs_dc_h, obs_dc_f
+  Why: directly shifts intermediate production y_int and propagates to output/income.
+
+- eta_p_H, eta_p_F (markup/NKPC shocks)
+  Main series: obs_pi_h, obs_pi_f
+  Why: enters NKPC blocks through e_p_H and e_p_F, changing inflation dynamics.
+  Note: lower rho_p than rho_z helps separate these shocks from TFP in dynamics.
+
+- eta_r_H, eta_r_F (monetary policy shocks)
+  Main series: obs_r_h, obs_r_f
+  Secondary: obs_dy_*, obs_pi_* via Taylor and demand channels
+  Why: enters Taylor equations multiplicatively through e_r_H and e_r_F.
+
+- eta_e (UIP/exchange-rate shock)
+  Main series: obs_de
+  Why: enters UIP condition via e_e and affects rer path.
+
+- eta_b_H, eta_b_F (preference shocks)
+  Main series: obs_dc_h, obs_dc_f
+  Secondary: obs_dy_h, obs_dy_f
+  Why: enters marginal utility (lb_H, lb_F), shifting consumption Euler dynamics.
+
+- eta_ex_H (export demand shock)
+  Main series: weakly obs_tb_f, possibly obs_dy_h
+  Why: enters ex_H and affects external balance/production composition.
+
+Shocks with weak/no direct identification from the current varobs list:
+- eta_t_H, eta_t_F (tax shocks): no direct tax observable in varobs
+- eta_x_H, eta_x_F (consumption import-composition shocks): indirect effects only
+
+Quick interpretation for your current concern (z vs p collinearity):
+- obs_dy_* mainly loads on eta_z_*
+- obs_pi_* mainly loads on eta_p_*
+- keeping rho_z high and rho_p lower creates different persistence signatures and improves separation.
+
+--------------------------------------------------------------------
+3) Consistency notes
+--------------------------------------------------------------------
+
+- Current varobs in mod file:
+  obs_dy_h obs_dy_f obs_dc_h obs_dc_f obs_pi_h obs_pi_f obs_r_h obs_r_f obs_tb_f obs_de
+- Estimation command currently lists:
+  obs_dy_h obs_dy_f obs_dc_h obs_dc_f obs_pi_h obs_pi_f obs_r_h obs_r_f obs_de
+  (obs_tb_f is in varobs but not in the final estimation observable list)
+
+If you want full trade-balance identification active, include obs_tb_f in the final estimation list as well.
